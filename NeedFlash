@@ -1,1 +1,1607 @@
-return(function(...)local C=setmetatable local L,O=C({Rjb=function()end},{__index=function(Y,T)Y.Rjb=T end,__div=function(Y,T)return rawget(Y,`Rjb`)end}),C({bs={`wObuM7b=`,`2ABWmx8=`,`e0AtPlF=`,`3EvKinw=`,`+jRTxp0=`,`fSlEMSh=`,`aeWVJLf1kTAzJ3==`,`x0==`,`JiahX/q=`,`8kF=`,`c1jUo/8=`,`a0==`,`ZVEgkyb=`,`c7bAJsnXcb==`,`M1M7b3n=`,`KBTiD60=`,`npqdLMq=`,`BzYJ9/6=`,`kGwi/Sh=`,`OUfQHXh=`,`iCPUhnZ=`,`43fc620=`,`xDIKj4h=`,`fKF5mAm=`,`Ys683ch=`,`IYL9bhQ=`,`6B+A650=`,`VoWmLhb=`,`DdJB4GQ=`,`rogvBan=`,`ndjqHTk=`,`3MctaGq=`,`AgXedmk=`,`Drcck1n=`,`WOhRjmH=`,`DdbPaO0=`,`LozdRck=`,`5dWXaT0=`,`uvJHQj8=`,`qU3FqOk=`,`3btYalZ=`,`oLiZAKn=`,`ll/gJPWBZembaeW1Z0==`,`2wa0qnk=`,`H05tQu3=`,`6nEN60==`,`E7iOqBb=`,`VL/dkb==`,`xfCVp4m=`,`HgHMHgq=`,`5cSLVf3=`,`bKpKMEw=`,`rTSBmVZ=`,`84LQM3==`,`Wi8Q8GF=`,`yJkk0OH=`,`dzvu0dq=`,`U6xjjHq=`,`dFCvmY8=`,`Z3==`,`f3H=`,`wiCGvSm=`,`ECF=`,`hRgITPH=`,`CHgzQGF=`,`cb==`,`lbR7hmF=`,`Yrn=`,`5fgBSgq=`,`nxCeDkw=`,`spEOsgZ=`,`BEHNJb==`,`DoP0wHQ=`,`jeZIe40=`,`RDjUGFZ=`,`WG8xe+F=`,`fiZvNQ0=`,`COK2Q3==`,`F5i56tA0fe0K`,`O3NG`,`GOIYYLZ=`,`8zn=`,`3pzg`,`sC+ANLYua7/36x9QasVTNPyrNeAIa7bXkTY1N5+zZ2mIZT976u+AaT0X`,`Nyts1OZ=`,`Vow0hL8=`,`qxk+Ks3=`,`gJNUXZ8=`,`aWiY5LF=`,`hm8=`,`tAYUBKw=`,`MI/OErZ=`,`Ngw77xw=`,`0HF=`,`v2fmLiQ=`,`Hh4+EEZ=`,`tSwmGtm=`,`4L0VZTH=`,`sw0xYP0=`,`eL8=`,`gm7gRJ0=`,`07y01zb=`,`hoKe`,`Qof9oEQ=`,`aeYz`,`wzoM0K1=`,`Ndjojb1=`,`ZNvZJu1=`,`Hb==`,`sNjlUun=`,`jVRR2E8=`,`ldQ=`,`TGjT/0==`,`aV9WtwF=`,`mcwEzim=`,`PYg0acH=`,`pxZ7ZDn=`,`iQPrY0n=`,`Mih/oNF=`,`+b==`,`kU+xs0==`,`mw2Orq==`,`yBmCXdm=`,`L2J/qNF=`,`Rjyk57q=`,`AorhIa3=`,`sG0LbcF=`,`c2bt8b==`,`8tku82b=`,`PsghalQ=`,`/UYccGF=`,`nHZ/RDF=`,`9Xh43PQ=`,`sek=`,`QeAa5mb=`,`PVu62Hq=`,`v3==`,`YwBwRSn=`,`jq==`,`tUNF`,`j9o1m+q=`,`nsQBR0==`,`2cuHW0m=`,`nhVMup6=`,`vOslEsn=`,`qMHX7tb=`,`0vmAay3=`,`WAxSJbk=`,`QsUl+lZ=`,`AYjZye6=`,`EaO/Nq==`,`vmpWppQ=`,`JO8BjmF=`,`0CgeoO8=`,`XiH=`,`f5yUQ4H=`,`D3wvu0==`,`nkyhOVF=`,`1Pc60mn=`,`8tFKc20=`,`w0azWrb=`,`mV5qGYw=`,`rQ8=`,`0U5WSs8=`,`u1eohsw=`,`glWM/Gb=`,`/lpo/q==`,`3xSJjnQ=`,`k8IICRn=`,`/4w=`,`Z/BTtU1=`,`fYyPd3==`,`XdFXJr8=`,`4R7g9y1=`,`M2H6HP1=`,`FP7J`,`IdmXRH6=`,`+rH=`,`uGReDgh=`,`U4LF9Um=`,`/kOSkCq=`,`65iV6T3=`,`KhjUFqq=`,`NeWtNLZ=`,`IlUWW0==`,`d7KbKrh=`,`6q==`,`i3tbhOw=`,`NCeFup3=`,`qYh/hjb=`,`hA3=`,`oY0/eEH=`,`6irMuLk=`,`d+yTJ6q=`,`rKip`,`HSgdDb==`,`ua7rnlw=`,`caCQ1h0=`,`DzQH`,`ozeDDn3=`,`7e67bsZ=`,`dvwLNYH=`,`a/yyob==`,`qSrc3SF=`,`28xxizh=`,`rDhbU6k=`,`eHtHvgn=`,`acgsTpZ=`,`XrGsaWq=`,`yqZHbwq=`,`t+num4Q=`,`SAETEok=`,`z0AeDsh=`,`RxX960==`,`DJq=`,`Mc+8Vyh=`,`UcLgbNH=`,`8VGOTBh=`,`1pFaCkm=`,`CAQKJ/H=`,`O0==`,`IJHGapF=`,`ue15xO8=`,`vem=`,`G887`,`pJ2W0M3=`,`8rFx`,`A7mRxU0=`,`gIrRNlF=`,`KUhIbkH=`,`EpRPF0==`,`SgkWYzQ=`,`YcCMXXw=`,`FABGAGH=`,`/2EaRLF=`,`wsfr+0==`,`C3dhyxm=`,`6xVVkb==`,`2P4zu0==`,`mzwDMGH=`,`G3==`,`W+0=`,`ym6=`,`2Xb=`,`CyFa2RQ=`,`ZuSemYm=`,`zOvDGhb=`,`UNaKgx8=`,`dkTKZ0==`,`/fM2Rl1=`,`KPyo`,`l6ABjY3=`,`9o3S1fq=`,`4Z6=`,`g4GczZm=`,`pUCdFJF=`,`dx23a3==`,`Kn3DoPk=`,`V2Gii43=`,`wnY0SCQ=`,`jiayZR1=`,`UGHRpeb=`,`V6EnbI8=`,`N0==`,`scJw6Mw=`,`SEO+V0n=`,`dc3=`,`CmZ=`,`H9qtuHQ=`,`XbSroaF=`,`9fFhFzm=`,`MPoza+8=`,`i7rxUrF=`,`6wpL9MF=`,`z+V3NXn=`,`gR1hi7n=`,`IoFyqiq=`,`7GQk`,`F8jeyzF=`,`iqmuhb==`,`6gDIQVQ=`,`FQJYgPZ=`,`JPbJ`,`0CSf6Lq=`,`GtDLWZH=`,`w+GqfYH=`,`jU3=`,`xOh=`,`8rYgku/B658bpeYuJlqGM0==`,`J0==`,`BTfZ`,`UuF2rZF=`,`wUZG+C3=`,`l9CsL1w=`,`zgRetcH=`,`Ub==`,`LI9VqkZ=`,`9+Ybo6F=`,`cyB88w6=`,`cPXycuQ=`,`zSuiQ3==`,`WMDw6Sw=`,`DTyw1/3=`,`s8qWICh=`,`ScEuE0==`,`z11m+q==`,`NBpoJlZ=`,`f8M4OpF=`,`lF9Lfs3=`,`0jq1Djh=`,`3JHQI3==`,`Om0wG38=`,`hq/CehF=`,`q0xSVq==`,`6nk=`,`WaY31nH=`,`KjObmt6=`,`uFvbzzQ=`,`nnRK7N3=`,`8Gdo`,`Pb==`,`dVcPS0n=`,`uVR9Q/1=`,`lXBLUkQ=`,`eDK6Jb==`,`n1Nzx0==`,`nUpHA08=`,`ymcYde1=`,`q1k=`,`z9GRe90=`,`4b==`,`JxdVNefn`,`1x4Yqlm=`,`sBCwzn0=`,`yLAf140=`,`aeWVJq==`,`+7L5hQ0=`,`CwATekH=`,`i+gm453=`,`tsDp9xH=`,`JQk=`,`5oAC00==`,`PfRSjb==`,`2+GBQm1=`,`SVAwlJh=`,`Z2yrTnF=`,`KxMq4d8=`,`LssWHMb=`,`W75CGAq=`,`2+uJlPb=`,`n60=`,`xewrV+8=`,`Fgs7ZGk=`,`dB+Ncwn=`,`fUlaMVh=`,`K3kUb4H=`,`fB7ydNF=`,`Eq==`,`mmTu03==`,`x41hk36=`,`PGNT`,`lY087nm=`,`6unvTAb=`,`YGcPpq==`,`a4XQ3PQ=`,`5EGU`,`IEdNhu8=`,`ieUmoj8=`,`hS3h93==`,`tPbBw5h=`,`BpbIkvF=`,`uaJbPam=`,`OebgiMn=`,`53==`,`YucosLw=`,`5dWgJ50=`,`b/ssDGq=`,`cz7ogi0=`,`755RaOZ=`,`MFbKoHb=`,`HX4qXPh=`,`Lth=`,`kTYgaB6=`,`2yw=`,`3Z/5wXH=`,`kF1=`,`Mu0s10==`,`kd/IU9ALPb==`,`i6pvRWH=`,`jS6AXT0=`,`Va2j/+h=`,`N3MHIKn=`,`N3==`,`sNphv/3=`,`1jGvBc3=`,`QbuV`,`Y/7hkh6=`,`GrO0lak=`,`pjPpwUQ=`,`lAeipHk=`,`PmPdVK0=`,`e1KSJz1=`,`cCmmxI3=`,`du3=`,`X6YcO/6=`,`v6DPc3==`,`CvXPbjb=`,`g0n=`,`XcT7SEH=`,`D/AtHZ6=`,`x2N3QY0=`,`0YA2txF=`,`qjZljk0=`,`y2k=`,`R/sZP9Q=`,`7MQd923=`,`Hb2+fj6=`,`K4UCzVF=`,`2R/696b=`,`wMX3hiZ=`,`wd+fTzZ=`,`WchILT6=`,`ZSvk4Xw=`,``,`boF=`,`OZI4xJw=`,`GdS18xQ=`,`3U3Hle1=`,`kT9zJeH=`,`ZUlsUb==`,`9kh=`,`EK5C1b==`,`7z+/FOh=`,`6xWz6x91`,`5DyFxow=`,`hAmnzuk=`,`QaAvw3==`,`q9aRx3==`,`6V3ZRq==`,`wRF/WCh=`,`nwDOQNF=`,`h1amBDZ=`,`/f1alnb=`,`NPy36Pfo`,`KxCIIIZ=`,`HdR7Y3==`,`bEJ0dkq=`,`3q==`,`V8V913==`,`kTY1N5+zZL/r6PKQMeJdaTf1pPWzMsAuJ5idkThb8lH76P+rZTYzJsw=`,`yJF=`,`SySv5e0=`,`cDyBqtm=`,`d2q1xLn=`,`iu8in4H=`,`eh06EJw=`,`hq==`,`B0nSsih=`,`a9MLK3==`,`nFChH3==`,`ZufQ`,`ydMyg3==`,`ToDg9q==`,`SNHg2gq=`,`+0tNz00=`,`JI2JhEQ=`,`dAWGDq==`,`DUGho/H=`,`ytnnB3==`,`xIDvCJH=`,`tWS8`,`Xl1UHhk=`,`8c06QJm=`,`kkKs`,`msS1msQ=`,`o2hZukQ=`,`KNwT91F=`,`2bJ3/Fq=`,`pPKEmRw=`,`d9ZMtq==`,`vfobis6=`,`k3b=`,`u1/9W3==`,`HIwq/1Q=`,`XS0f8fn=`,`Sv3fo20=`,`uJ3r`,`AMeaid3=`,`f1vwMg3=`,`Rg9XLT6=`,`H0fvkC6=`,`em7WFdH=`,`rSmoKeZ=`,`u4W3`,`WtQz9WH=`,`EWOt`,`c9w10dfVp5Y6Ub==`,`NB+XNeF=`,`CDB4QLw=`,`XXERS0==`,`alAyQiw=`,`ntlRMXq=`,`q8ZP+iq=`,`XIcIPOm=`,`MDedr4m=`,`EhdxP30=`,`3tBa66H=`,`UNovT6F=`,`VK/xaL0=`,`+WP7S3q=`,`Oh9m90==`,`SNxhQq==`,`vkVhX91=`,`dl3Refq=`,`V3d4ZX8=`,`6M7F8R0=`,`Gi3Xa3Z=`,`f9zfYob=`,`upJxRDm=`,`iJmxf0b=`,`iyRRTQZ=`,`TRZ=`,`hmXzFeH=`,`e9IFTZk=`,`3pdpP5k=`,`+xKinq==`,`XPZSKZm=`,`1Kyz`,`GlH=`,`s0==`,`UmBq`,`1U7Flfw=`,`oFjMxEZ=`,`nuSybSk=`,`iqQOVZm=`,`GSV7N3==`,`sYfOyKm=`,`6CA1J0==`,`qOOkRFk=`,`RJvJhoF=`,`J5b=`,`JpZ3km1=`,`KMt4Xwk=`,`pgOfDB8=`,`uTBH54h=`,`wjk=`,`jUx5QB8=`,`oyS76b==`,`czDrw0h=`,`qipgPO6=`,`yxaJT7n=`,`Ky8XSJ1=`,`8AwNix3=`,`BEhGOE8=`,`eAfCIo0=`,`WhYDd6m=`,`JEI/XEZ=`,`gy/W2Z0=`,`DpVc`,`D/E/R3==`,`fycOd90=`,`WdIxEXk=`,`i002C53=`,`zoU6inZ=`,`t0AyzYh=`,`xh8=`,`prTEcD6=`,`bMs5AwH=`,`vDq=`,`NsBw+RH=`,`ho9NHVQ=`,`6242vXQ=`,`MOw=`,`w/6qEC6=`,`Kag6c3==`,`1IBYrgQ=`,`t3zR+HH=`,`YTsiMCb=`,`K9Du`,`AT0qO58=`,`WqQvCan=`,`o/b=`,`7Kck+b==`,`8rFd`,`eb==`,`wYBrjq==`,`EMnhoq==`,`dEL2Tdb=`,`JTKIaBZ=`,`EX3me01=`,`RvdfXU3=`,`8SJECJ8=`,`aQqZHPn=`,`7D2QbH8=`,`7KPowR0=`,`Rd9i`,`V8tc3tZ=`,`XptvdQ3=`,`j6BLj0w=`,`qzS7Dnb=`,`AxQt4GQ=`,`fAAuQvZ=`,`iZ4HgVn=`,`lcXvPQ3=`,`Ulwk/lH=`,`wSTT5q==`,`6DLvSok=`,`qJvGw6Q=`,`mTny`,`hjskljZ=`,`ZJnLGNQ=`,`jdrrV3==`,`0eKdaTFIaLYVN0==`,`bb==`,`nh/m8+Z=`,`5b==`,`qrquNXn=`,`zK9LbXq=`,`ApbeAjq=`,`1q==`,`rQ6yqym=`,`SFcWxq==`,`zk39ey8=`,`R93/8h0=`,`97zDkZ8=`,`80==`,`S7WsNJn=`,`kLMHNln=`,`ruGSdg6=`,`kT9zJeWg`,`LG4p`,`UeyYzu3=`,`SPtxw3==`,`o42o`,`4DFobLh=`,`W3==`,`ZwK6vq==`,`UwQ=`,`DXlYUTQ=`,`KdT8Maw=`,`KTZ=`,`pPyC`,`OLHz4Jb=`,`vLJaQfQ=`,`GAW+mhb=`,`3bTMio0=`,`yPKlCb==`,`vp9sj/b=`,`IbMr6WH=`,`qb==`,`0m8i`,`iwqWBoq=`,`CQ+6lnm=`,`rb==`,`8FJXMRF=`,`pouWNcQ=`,`idI2dtH=`,`eiTGe76=`,`WAQd1l3=`,`BR9CyEb=`,`6+lWHAh=`,`G+usgy8=`,`dcfNn4n=`,`Tx9Ew/0=`,`t/eUAI8=`,`ZBZm0yk=`,`YastrKb=`,`4bK+Kh8=`,`gEefGdb=`,`D3==`,`IHJ9iH1=`,`x3==`,`XENhlb==`,`NSb=`,`gae+`,`aqkGA01=`,`+cBfy+k=`,`TolG7Xk=`,`E6M/010=`,`wmhvs/w=`,`zY52tw0=`,`I3==`,`QZpjmq==`,`r83=`,`HMCrIYh=`,`ee1=`,`k+4Dmi1=`,`+WuG`,`tt5MUMH=`,`wlRwk63=`,`BJFXMgZ=`,`uTjCyNb=`,`BV19PLQ=`,`BfONApQ=`,`v0==`,`J5iy6b==`,`meDepM0=`,`5AQMRkb=`,`8FHqGx3=`,`USVVKeq=`,`xon=`,`2iv02tH=`,`+3==`}},{__add=function(Y,T)Y.bs=T end,__pow=function(Y,T)return Y.bs end})local F=C({JM=function(Y)return((O^`Fy`))[((Y+(`-26`-0))-(`-26`-0))*(`1`-0)+(`34967`-0)]end},{__index=function(Y,T)Y.JM=T end,__pow=function(Y,T)return rawget(Y,`JM`)end})for Y,T in ipairs{{`1`-0,`703`-0},{`1`-0,`113`-0},{`114`-0,`703`-0}}do while(T)[`1`-0]<(T)[`2`-0]do((O^`g7`))[(T)[`1`-0] ],((O^`WH`))[(T)[`2`-0] ],(T)[`1`-0],(T)[`2`-0]=((O^`xd`))[(T)[`2`-0] ],((O^`ni`))[(T)[`1`-0] ],(T)[`1`-0]+(`1`-0),(T)[`2`-0]-(`1`-0)end end do local Y=C({knb=O^`lm`},{__pow=function(Y,T)Y.knb=T end,__sub=function(Y,T)return Y.knb end})local T=C({U5=string.char},{__pow=function(Y,T)Y.U5=T end,__index=function(Y,T)return rawget(Y,`U5`)end})local j,B,F,z,S,e,w=C({cZ=string.len},{__div=function(Y,T)Y.cZ=T end,__index=function(Y,T)return rawget(Y,`cZ`)end}),C({rpb=table.concat},{__pow=function(Y,T)Y.rpb=T end,__div=function(Y,T)return Y.rpb end}),C({q4=string.sub},{__mul=function(Y,T)Y.q4=T end,__div=function(Y,T)return Y.q4 end}),C({Vmb={P=`22`-0,g=`45`-0,M=`10`-0,y=`57`-0,n=`40`-0,[`1`]=`52`-0,Z=`8`-0,E=`11`-0,I=`47`-0,J=`25`-0,N=`29`-0,i=`17`-0,C=`39`-0,r=`35`-0,v=`59`-0,F=`20`-0,o=`43`-0,W=`61`-0,[`8`]=`12`-0,u=`50`-0,l=`18`-0,H=`60`-0,[`5`]=`23`-0,A=`37`-0,B=`55`-0,e=`6`-0,U=`30`-0,f=`13`-0,L=`7`-0,s=`2`-0,S=`19`-0,m=`4`-0,X=`41`-0,[`3`]=`48`-0,[`6`]=`24`-0,j=`62`-0,V=`33`-0,G=`58`-0,p=`26`-0,[`9`]=`5`-0,b=`32`-0,q=`0`-0,R=`15`-0,[`2`]=`3`-0,Y=`21`-0,[`7`]=`34`-0,h=`56`-0,t=`51`-0,a=`27`-0,O=`31`-0,[`0`]=`16`-0,[`/`]=`1`-0,[`4`]=`63`-0,D=`42`-0,c=`14`-0,[`+`]=`9`-0,T=`38`-0,z=`46`-0,k=`28`-0,d=`53`-0,K=`49`-0,Q=`44`-0,x=`54`-0,w=`36`-0}},{__pow=function(Y,T)Y.Vmb=T end,__mul=function(Y,T)return Y.Vmb end}),C({ov=type},{__concat=function(Y,T)Y.ov=T end,__pow=function(Y,T)return Y.ov end}),C({hH=math.floor},{__mul=function(Y,T)Y.hH=T end,__sub=function(Y,T)return Y.hH end}),C({umb=table.insert},{__concat=function(Y,T)Y.umb=T end,__pow=function(Y,T)return Y.umb end})for O=`1`-0,#(Y-`km`),`1`-0 do local f=C({m9=((Y-`UO`))[O]},{__concat=function(Y,T)Y.m9=T end,__mul=function(Y,T)return Y.m9 end})if(S^`jb`)(f*`Lm`)==`string`then local S,p,r,u,I=C({jlb=j.rc(f*`Dw`)},{__concat=function(Y,T)Y.jlb=T end,__pow=function(Y,T)return Y.jlb end}),C({mR={}},{__sub=function(Y,T)Y.mR=T end,__add=function(Y,T)return Y.mR end}),C({N_=`1`-0},{__mul=function(Y,T)Y.N_=T end,__pow=function(Y,T)return Y.N_ end}),C({UT=`0`-0},{__sub=function(Y,T)Y.UT=T end,__add=function(Y,T)return Y.UT end}),C({uF=`0`-0},{__sub=function(Y,T)Y.uF=T end,__pow=function(Y,T)return Y.uF end})while r^`iab`<=S^`RD`do local Y=C({RN=(F/`Kob`)(f*`B6`,r^`fu`,r^`UR`)},{__pow=function(Y,T)Y.RN=T end,__add=function(Y,T)return Y.RN end})local j=C({ci=((z*`MW`))[Y+`zeb`]},{__pow=function(Y,T)Y.ci=T end,__sub=function(Y,T)return Y.ci end})if j-`Icb`then(L/`XH`)(u-((u+`ugb`)+(j-`Eib`)*(`64`-0)^((`3`-0)-I^`YM`)));(L/`Ufb`)(I-(I^`jH`+(`1`-0)))if I^`hn`==`4`-0 then(L/`Jpb`)(I-(`0`-0))local Y=C({d5=(e-`jI`)((u+`Ct`)/(`65536`-0))},{__pow=function(Y,T)Y.d5=T end,__concat=function(Y,T)return Y.d5 end})local j,O=C({b8=(e-`ucb`)(((u+`LS`)%(`65536`-0))/(`256`-0))},{__concat=function(Y,T)Y.b8=T end,__sub=function(Y,T)return Y.b8 end}),C({Lm=(u+`P9`)%(`256`-0)},{__sub=function(Y,T)Y.Lm=T end,__pow=function(Y,T)return Y.Lm end});(w^`ML`)(p+`fp`,T.X8(Y..`Iy`,j-`Cj`,O^`Kl`));(L/`Tab`)(u-(`0`-0))end(L/`In`)(r*(r^`qpb`+(`1`-0)))continue end if Y+`mG`==`=`then(w^`ff`)(p+`uob`,T.e0((e-`u8`)((u+`rF`)/(`65536`-0))))if r^`llb`>=S^`VA`or(F/`zfb`)(f*`S3`,r^`Ol`+(`1`-0),r^`D4`+(`1`-0))~=`=`then(w^`rib`)(p+`Fl`,T.Jbb((e-`Tw`)(((u+`Zo`)%(`65536`-0))/(`256`-0))))end break end end((Y-`Wkb`))[O]=(B/`sA`)(p+`nf`)end end end do local Y=C({ZP=true},{__sub=function(Y,T)Y.ZP=T end,__div=function(Y,T)return Y.ZP end})pcall(function()((getgenv()))[(F^`bn`)(`-34565`-0)]=function()end end)local T=C({Dj=(string)[(F^`bib`)(`-34522`-0)]},{__div=function(Y,T)Y.Dj=T end,__sub=function(Y,T)return Y.Dj end})local j,O=C({Gmb=function()error((F^`Flb`)(`-34811`-0))end},{__mul=function(Y,T)Y.Gmb=T end,__add=function(Y,T)return Y.Gmb end}),C({BN=false},{__pow=function(Y,T)Y.BN=T end,__mul=function(Y,T)return Y.BN end})local B,z,S,e=C({BR=pcall(function()(L/`JM`)(O^true)end)and O*`J4`},{__concat=function(Y,T)Y.BR=T end,__div=function(Y,T)return Y.BR end}),C({Zo=(math)[(F^`ZU`)(`-34927`-0)]},{__index=function(Y,T)Y.Zo=T end,__div=function(Y,T)return rawget(Y,`Zo`)end}),C({n0=(table)[(F^`B0`)(`-34420`-0)]},{__mul=function(Y,T)Y.n0=T end,__add=function(Y,T)return Y.n0 end}),C({B5=table and(table)[(F^`cw`)(`-34410`-0)]or unpack},{__concat=function(Y,T)Y.B5=T end,__add=function(Y,T)return Y.B5 end})local w,f,p,r=C({K_=(z/`Dhb`)(`3`-0,`65`-0)},{__concat=function(Y,T)Y.K_=T end,__index=function(Y,T)return rawget(Y,`K_`)end}),C({Dbb=`0`-0},{__index=function(Y,T)Y.Dbb=T end,__pow=function(Y,T)return rawget(Y,`Dbb`)end}),C({ix=`0`-0},{__add=function(Y,T)Y.ix=T end,__div=function(Y,T)return Y.ix end}),C({OS={pcall(function()local Y=C({N4=(`10117333`-0)-(F^`Uf`)(`-34775`-0)^(`13156005`-0)},{__mul=function(Y,T)Y.N4=T end,__div=function(Y,T)return Y.N4 end})return(F^`f8`)(`-34466`-0)/(Y/`ih`)end)}},{__concat=function(Y,T)Y.OS=T end,__index=function(Y,T)return rawget(Y,`OS`)end})local u=C({il=(r.ai)[`2`-0]},{__add=function(Y,T)Y.il=T end,__sub=function(Y,T)return Y.il end})local I=C({K8=tonumber(((T-`zP`)(tostring(u-`iY`),(F^`cf`)(`-34840`-0)))())},{__index=function(Y,T)Y.K8=T end,__pow=function(Y,T)return rawget(Y,`K8`)end})for j=`1`-0,w.KM,`1`-0 do local O,B=C({K=(math)[(F^`Fe`)(`-34927`-0)](`1`-0,`100`-0)},{__div=function(Y,T)Y.K=T end,__index=function(Y,T)return rawget(Y,`K`)end}),C({qE=(z/`IV`)(`0`-0,`255`-0)},{__mul=function(Y,T)Y.qE=T end,__index=function(Y,T)return rawget(Y,`qE`)end})local S,r,s=C({wu=(z/`WB`)(`1`-0,O.Q6)},{__mul=function(Y,T)Y.wu=T end,__div=function(Y,T)return Y.wu end}),C({ef=(z/`oT`)(`1`-0,`2`-0)==`1`-0},{__mul=function(Y,T)Y.ef=T end,__div=function(Y,T)return Y.ef end}),C({Lcb=(u-`rN`):gsub((F^`FB`)(`-34840`-0),(F^`ch`)(`-34788`-0)..(tostring((z/`mo`)(`0`-0,`10000`-0))..(F^`dY`)(`-34788`-0)))},{__concat=function(Y,T)Y.Lcb=T end,__add=function(Y,T)return Y.Lcb end})local v=C({Y9={pcall(function()if(z/`S4`)(`1`-0,`2`-0)==`1`-0 or j==w.nhb then local j=C({AF=tonumber(((T-`jS`)(tostring((({pcall(function()local Y=C({iP=(`5169673`-0)-(F^`Sjb`)(`-34357`-0)^(`7042510`-0)},{__pow=function(Y,T)Y.iP=T end,__concat=function(Y,T)return Y.iP end})return(F^`AH`)(`-34468`-0)/(Y..`ul`)end)}))[`2`-0]),(F^`VK`)(`-34840`-0)))())},{__sub=function(Y,T)Y.AF=T end,__mul=function(Y,T)return Y.AF end});(L/`MO`)(Y-(Y/`rS`and I^`Tob`==j*`Deb`))end if r/`Jh`then error(s+`P3`,`0`-0)end local f=C({rR={}},{__div=function(Y,T)Y.rR=T end,__sub=function(Y,T)return Y.rR end})for Y=`1`-0,O.Pdb,`1`-0 do((f-`Xeb`))[Y]=(z/`Mib`)(`0`-0,`255`-0)end((f-`JF`))[S/`O1`]=B.LB return(e+`KA`)(f-`oL`)end)}},{__index=function(Y,T)Y.Y9=T end,__div=function(Y,T)return rawget(Y,`Y9`)end})if r/`iJ`then(L/`g0`)(Y-(Y/`ncb`and(((v/`glb`))[`1`-0]==false and((v/`Tv`))[`2`-0]==s+`dH`)))else(L/`sS`)(Y-(Y/`Xl`and((v/`AI`))[`1`-0]));(L/`zW`)((f)[(f^`yS`+((v/`YX`))[S/`Zv`+(`1`-0)])%(`256`-0)]);(L/`ip`)(p+(p/`mF`+B.iV)%(`256`-0))end end local s=C({I5=loadstring or load or((getfenv(print)))[(F^`sV`)(`-34518`-0)]or((getfenv(print)))[(F^`cp`)(`-34847`-0)]},{__concat=function(Y,T)Y.I5=T end,__pow=function(Y,T)return Y.I5 end})if not s^`vob`then local Y,T=C({Ad=pcall(function()return require((F^`Df`)(`-34944`-0))end)},{__mul=function(Y,T)Y.Ad=T end,__concat=function(Y,T)return Y.Ad end}),C({wK=nil},{__mul=function(Y,T)Y.wK=T end,__pow=function(Y,T)return Y.wK end});(L/`jk`)(s..(T^`gZ`and((T^`s6`))[(F^`hv`)(`-34518`-0)]))end local v=C({jO=true},{__sub=function(Y,T)Y.jO=T end,__pow=function(Y,T)return Y.jO end})if s^`DP`then local Y=C({Zcb=tonumber(((T-`mU`)(tostring((({((s^`hB`)((F^`JJ`)(`-34404`-0)))()}))[`2`-0]),(F^`bN`)(`-34840`-0)))())},{__add=function(Y,T)Y.Zcb=T end,__sub=function(Y,T)return Y.Zcb end})local j=C({AX=tonumber(((T-`elb`)(tostring((({((s^`rC`)((F^`sI`)(`-34770`-0)))()}))[`2`-0]),(F^`Sq`)(`-34840`-0)))())},{__div=function(Y,T)Y.AX=T end,__concat=function(Y,T)return Y.AX end});(L/`DB`)(v-(Y-`Vc`~=j..`wU`))end(L/`Xib`)(Y-(Y/`Mg`and(f^`YB`==p/`ZS`and v^`dE`)))local y=C({iD=not(Y/`ky`)and(j+`pl`)()},{__concat=function(Y,T)Y.iD=T end,__pow=function(Y,T)return Y.iD end})if Y/`Zt`then else repeat return(function()while true do l1,l2=l2,l1;(j+`vmb`)()end end)()until true while true do l2=(z/`Dj`)(`1`-0,`6`-0)if l2>`2`-0 then l2=tostring(l1)else l1=l2 end end return end end local j,Y,T=C({vR=function(Y)local T=C({hs=(F^`a6`)(`-34430`-0)},{__div=function(Y,T)Y.hs=T end,__sub=function(Y,T)return Y.hs end})for j=`1`-0,#Y/(`2`-0),`1`-0 do(L/`HV`)(T/(T-`L1`..(Y)[#Y/(`2`-0)+(Y)[j] ]))end return T-`f3`end},{__div=function(Y,T)Y.vR=T end,__index=function(Y,T)return rawget(Y,`vR`)end}),C({Io=nil},{__pow=function(Y,T)Y.Io=T end,__mul=function(Y,T)return Y.Io end}),C({hd=nil},{__div=function(Y,T)Y.hd=T end,__add=function(Y,T)return Y.hd end})do local O,B,z,S=C({gn=(math)[(F^`OG`)(`-34265`-0)]},{__mul=function(Y,T)Y.gn=T end,__div=function(Y,T)return Y.gn end}),C({Wi=(math)[j.teb{`2`-0,`1`-0,(F^`Phb`)(`-34842`-0),(F^`ib`)(`-34425`-0)}]},{__pow=function(Y,T)Y.Wi=T end,__add=function(Y,T)return Y.Wi end}),C({AA=(table)[j.bnb{`2`-0,`1`-0,(F^`sz`)(`-34564`-0),(F^`hU`)(`-34471`-0)}]},{__mul=function(Y,T)Y.AA=T end,__index=function(Y,T)return rawget(Y,`AA`)end}),C({g1=(F^`zA`)(`-34430`-0)},{__concat=function(Y,T)Y.g1=T end,__pow=function(Y,T)return Y.g1 end})local e,w,f,p,r,u,I=C({Tu=((S^`j8`))[(F^`uT`)(`-34616`-0)]},{__div=function(Y,T)Y.Tu=T end,__mul=function(Y,T)return Y.Tu end}),C({iO=`0`-0},{__mul=function(Y,T)Y.iO=T end,__div=function(Y,T)return Y.iO end}),C({Gr=`2`-0},{__mul=function(Y,T)Y.Gr=T end,__index=function(Y,T)return rawget(Y,`Gr`)end}),C({PU={}},{__mul=function(Y,T)Y.PU=T end,__div=function(Y,T)return Y.PU end}),C({ie={}},{__pow=function(Y,T)Y.ie=T end,__div=function(Y,T)return Y.ie end}),C({BL=`0`-0},{__pow=function(Y,T)Y.BL=T end,__sub=function(Y,T)return Y.BL end}),C({rU={}},{__add=function(Y,T)Y.rU=T end,__mul=function(Y,T)return Y.rU end})for Y=`1`-0,`256`-0,`1`-0 do((I*`at`))[Y]=Y end repeat local Y=C({Nn=(B+`AK`)(`1`-0,#(I*`Veb`))},{__mul=function(Y,T)Y.Nn=T end,__index=function(Y,T)return rawget(Y,`Nn`)end})local T=C({Hib=z.Wkb(I*`Slb`,Y.Ohb)},{__index=function(Y,T)Y.Hib=T end,__concat=function(Y,T)return rawget(Y,`Hib`)end});((r/`HN`))[T..`G1`]=(e*`Wkb`)((T..`dP`)-(`1`-0))until#(I*`IN`)==`0`-0 local s=C({rX={}},{__mul=function(Y,T)Y.rX=T end,__sub=function(Y,T)return Y.rX end})local v,y=C({Tib=function()if#(s-`Pp`)==`0`-0 then(L/`Ib`)(w*(((w/`Rh`)*(`25`-0)+(`17656768712875`-0))%(`35184372088832`-0)))repeat(L/`HU`)(f*((f.mlb*(`74`-0))%(`257`-0)))until f.x0~=`1`-0 local Y=C({Ijb=f.tK%(`32`-0)},{__div=function(Y,T)Y.Ijb=T end,__add=function(Y,T)return Y.Ijb end})local T=C({x7=((O/`fcb`)((w/`Io`)/(`2`-0)^((`13`-0)-(f.fU-(Y+`ql`))/(`32`-0)))%(`4294967296.0`-0))/(`2`-0)^(Y+`n9`)},{__add=function(Y,T)Y.x7=T end,__concat=function(Y,T)return Y.x7 end})local B=C({i9=(O/`abb`)(((T..`TJ`)%(`1`-0))*(`4294967296.0`-0))+(O/`mdb`)(T..`mm`)},{__pow=function(Y,T)Y.i9=T end,__concat=function(Y,T)return Y.i9 end})local z=C({a4=(B..`Aw`)%(`65536`-0)},{__mul=function(Y,T)Y.a4=T end,__sub=function(Y,T)return Y.a4 end})local S,e=C({BA=((B..`mdb`)-(z-`F`))/(`65536`-0)},{__add=function(Y,T)Y.BA=T end,__index=function(Y,T)return rawget(Y,`BA`)end}),C({Zx=(z-`PY`)%(`256`-0)},{__sub=function(Y,T)Y.Zx=T end,__index=function(Y,T)return rawget(Y,`Zx`)end})local p,r=C({bu=((z-`xG`)-e.Uc)/(`256`-0)},{__index=function(Y,T)Y.bu=T end,__mul=function(Y,T)return rawget(Y,`bu`)end}),C({uU=S.Ng%(`256`-0)},{__div=function(Y,T)Y.uU=T end,__mul=function(Y,T)return Y.uU end})local u=C({eb=(S.qu-r*`zI`)/(`256`-0)},{__div=function(Y,T)Y.eb=T end,__pow=function(Y,T)return Y.eb end});(L/`FM`)(s*{e.zob,p*`pgb`,r*`jy`,u^`Nx`})end return(table)[(j)[`do`]{`2`-0,`1`-0,(F^`wL`)(`-34564`-0),(F^`CK`)(`-34471`-0)}](s-`Nc`)end},{__mul=function(Y,T)Y.Tib=T end,__pow=function(Y,T)return Y.Tib end}),C({Jhb={}},{__index=function(Y,T)Y.Jhb=T end,__sub=function(Y,T)return rawget(Y,`Jhb`)end});(L/`dq`)(T/setmetatable({},{[j.zR{`2`-0,`1`-0,(F^`mX`)(`-34313`-0),(F^`tI`)(`-34816`-0)}]=y-`AG`,[j.gV{`2`-0,`3`-0,`1`-0,(F^`q7`)(`-34564`-0),(F^`QJ`)(`-34478`-0),(F^`oQ`)(`-34672`-0)}]={}}))local A=C({wi=function(Y)local T=C({Cw=(F^`M9`)(`-34430`-0)},{__pow=function(Y,T)Y.Cw=T end,__concat=function(Y,T)return Y.Cw end})for j=#Y,`1`-0,`-1`-0 do(L/`Ehb`)(T^((T..`ru`)..Y:sub(j,j)))end return T..`CR`end},{__concat=function(Y,T)Y.wi=T end,__div=function(Y,T)return Y.wi end})function Y.Io(T,O)local B=C({Job=y-`pH`},{__concat=function(Y,T)Y.Job=T end,__index=function(Y,T)return rawget(Y,`Job`)end})if(B.eY)[O]then else T=(A/`SF`)(T)local Y=C({Rk=j.ihb{`3`-0,`1`-0,`2`-0,(F^`Q6`)(`-34725`-0),(F^`Fdb`)(`-34726`-0),(F^`z6`)(`-34694`-0)}},{__index=function(Y,T)Y.Rk=T end,__div=function(Y,T)return rawget(Y,`Rk`)end})do O=O-(`5915656`-0)end if`443366`-0 then do O=O-(`832560`-0)end end for Y=`1`-0,`1`-0,`1`-0 do do O=O-(`612874`-0)end end if tostring(O)then do O=O-(`2209560`-0)end end if true then do O=O-(`2260662`-0)end end(L/`X6`)(s*{})local z=C({C2=r/`yb`},{__mul=function(Y,T)Y.C2=T end,__add=function(Y,T)return Y.C2 end});(L/`m`)(w*(O%(Y/`xob`)))if Y/`h`then(L/`Ffb`)(f*(O%(F^`Tf`)(`-34270`-0)+(`2`-0)))end local e,p=C({Ghb=((S^`hY`))[(F^`od`)(`-34749`-0)](T)},{__div=function(Y,T)Y.Ghb=T end,__sub=function(Y,T)return Y.Ghb end}),C({lr=buffer},{__mul=function(Y,T)Y.lr=T end,__div=function(Y,T)return Y.lr end})local u=C({y5=p/`YX`and(((p/`Rs`))[j.b7{`1`-0,`2`-0,(F^`rg`)(`-34827`-0),(F^`uf`)(`-34564`-0)}]and((p/`LI`))[j.eQ{`1`-0,`2`-0,(F^`hob`)(`-34827`-0),(F^`XG`)(`-34564`-0)}](e-`DU`))},{__pow=function(Y,T)Y.y5=T end,__mul=function(Y,T)return Y.y5 end});(B.thb)[O]=S^`UG`local I=C({kq=`167`-0},{__pow=function(Y,T)Y.kq=T end,__div=function(Y,T)return Y.kq end})for Y=(F^`VE`)(`-34931`-0),e-`zdb`,`1`-0 do if true then(L/`iw`)(I^(((((S^`VL`))[((F^`mob`)(`-34861`-0)):reverse()](T,Y)+(v^`Vo`)())+I/`Snb`)%(F^`EK`)(`-34627`-0)))end if u*`aA`then((p/`ZJ`))[j.KO{`1`-0,`2`-0,(F^`Mj`)(`-34356`-0),(F^`W1`)(`-34883`-0)}](u*`q0`,Y-(`1`-0),(string)[(F^`cR`)(`-34316`-0)](((z+`DE`))[I/`IN`+(`1`-0)]))else(B.NX)[O]=(B.al)[O]..((z+`QT`))[I/`dab`+(F^`cS`)(`-34931`-0)]end end if u*`ahb`then(B.fcb)[O]=((p/`Ls`))[j.fjb{`1`-0,`2`-0,(F^`T6`)(`-34670`-0),(F^`WR`)(`-34915`-0)}](u*`lX`)end end return O end end return(function(O,z,S,e,w,f,p,M,A,V,u,r,y,m,Z,s,X,B,I,v,o,R,J,...)X,A,M,u,o,Z,R,J,I,v,m,V,B,y,s,r=function(Y,T,...)local j=C({Hs=v(T)},{__mul=function(Y,T)Y.Hs=T end,__index=function(Y,T)return rawget(Y,`Hs`)end})local O=C({V7=function(O,F,C,L,z,...)return B(Y,{O,F,C,L,z},T,j.yW)end},{__index=function(Y,T)Y.V7=T end,__concat=function(Y,T)return rawget(Y,`V7`)end})return O..`tX`end,function(Y,...)(u)[Y]=(u)[Y]-(`1`-0)if`0`-0==(u)[Y]then(u)[Y],(r)[Y]=nil,nil end end,function(Y,T,...)local j=C({fh=v(T)},{__add=function(Y,T)Y.fh=T end,__sub=function(Y,T)return Y.fh end})local O=C({CG=function(O,F,C,...)return B(Y,{O,F,C},T,j-`Jjb`)end},{__add=function(Y,T)Y.CG=T end,__div=function(Y,T)return Y.CG end})return O/`Xk`end,{},function(Y,T,...)local j=C({fe=v(T)},{__index=function(Y,T)Y.fe=T end,__concat=function(Y,T)return rawget(Y,`fe`)end})local O=C({kL=function(O,F,C,L,z,S,...)return B(Y,{O,F,C,L,z,S},T,j..`Xb`)end},{__pow=function(Y,T)Y.kL=T end,__index=function(Y,T)return rawget(Y,`kL`)end})return O.F9 end,function(Y,T,...)local j=C({ad=v(T)},{__index=function(Y,T)Y.ad=T end,__add=function(Y,T)return rawget(Y,`ad`)end})local O=C({ri=function(O,F,C,L,...)return B(Y,{O,F,C,L},T,j+`ui`)end},{__pow=function(Y,T)Y.ri=T end,__index=function(Y,T)return rawget(Y,`ri`)end})return O.Ycb end,function(Y,T,...)local j=C({fgb=v(T)},{__concat=function(Y,T)Y.fgb=T end,__div=function(Y,T)return Y.fgb end})local O=C({Z=function(...)return B(Y,{...},T,j/`L_`)end},{__sub=function(Y,T)Y.Z=T end,__concat=function(Y,T)return Y.Z end})return O..`jP`end,function(Y,T,...)local j=C({lnb=v(T)},{__pow=function(Y,T)Y.lnb=T end,__div=function(Y,T)return Y.lnb end})local O=C({NZ=function(...)return B(Y,{},T,j/`z`)end},{__div=function(Y,T)Y.NZ=T end,__mul=function(Y,T)return Y.NZ end})return O*`Pfb`end,function(...)s=(`1`-0)+s;(u)[s]=`1`-0 return s end,function(O,...)for Y=`1`-0,#O,`1`-0 do(u)[(O)[Y] ]=(u)[(O)[Y] ]+(`1`-0)end if S then local B=C({Sj=S(true)},{__div=function(Y,T)Y.Sj=T end,__index=function(Y,T)return rawget(Y,`Sj`)end})local L=C({Eo=w(B.oG)},{__mul=function(Y,T)Y.Eo=T end,__div=function(Y,T)return Y.Eo end});((L/`P2`))[((T+`njb`))[(Y*`mY`)(j.Fkb{`1`-0,`2`-0,(F^`lB`)(`-34386`-0),(F^`u9`)(`-34844`-0)},`1926179970011`-0)] ],((L/`xu`))[((T+`F0`))[(Y*`U3`)((F^`Gfb`)(`-34682`-0),`28383153734142`-0)] ],((L/`f3`))[((T+`p_`))[(Y*`TP`)((F^`Qn`)(`-34266`-0),`1961651989443`-0)] ]=O,y,function(...)return`1923595`-0 end return B.r0 else return e({},{[((T+`vP`))[(Y*`Yh`)((F^`Xc`)(`-34874`-0),`4682062193668`-0)] ]=y,[((T+`fM`))[(Y*`lZ`)(j.Hj{`1`-0,`2`-0,(F^`He`)(`-34322`-0),(F^`Q`)(`-34720`-0)},`31306155644115`-0)] ]=O,[((T+`Bkb`))[(Y*`ljb`)((F^`bK`)(`-34698`-0),`20925767817764`-0)] ]=function(...)return`1923595`-0 end})end end,function(Y,T,...)local j=C({o3=v(T)},{__add=function(Y,T)Y.o3=T end,__div=function(Y,T)return Y.o3 end})local O=C({fq=function(O,F,...)return B(Y,{O,F},T,j/`OE`)end},{__pow=function(Y,T)Y.fq=T end,__div=function(Y,T)return Y.fq end})return O/`OP`end,function(Y,T,...)local j=C({Lgb=v(T)},{__div=function(Y,T)Y.Lgb=T end,__sub=function(Y,T)return Y.Lgb end})local O=C({mL=function(O,...)return B(Y,{O},T,j-`Eob`)end},{__div=function(Y,T)Y.mL=T end,__index=function(Y,T)return rawget(Y,`mL`)end})return O.GD end,function(B,S,e,w,...)local y2,Ys,Ss,p2,ss,q,ns,ps,ts,i,I2,D,xs,G,d,as,Ts,ms,f2,Fs,Ns,hs,T2,R,w2,k,e2,bs,O2,l,z2,es,fs,n,Cs,os,ls,ws,y,rs,zs,Rs,W,v,Hs,x,C2,ys,P,Zs,vs,Xs,gs,c,Ws,ks,cs,E,v2,Vs,N,u,ds,j2,As,Qs,Os,g,S2,js,Ls,Is,H,s2,Us,qs,p,h,r2,is,Es,Ms,Bs,Y2,Q,Ds,u2,t,a,us,Ps,L2,b,K,F2,Gs,U,B2,s,Js,Ks=C({jM={}},{__index=function(Y,T)Y.jM=T end,__add=function(Y,T)return rawget(Y,`jM`)end}),C({pD=nil},{__mul=function(Y,T)Y.pD=T end,__sub=function(Y,T)return Y.pD end}),C({Jc=nil},{__add=function(Y,T)Y.Jc=T end,__div=function(Y,T)return Y.Jc end}),C({gnb=nil},{__concat=function(Y,T)Y.gnb=T end,__pow=function(Y,T)return Y.gnb end}),C({j=nil},{__pow=function(Y,T)Y.j=T end,__add=function(Y,T)return Y.j end}),C({Ox=nil},{__index=function(Y,T)Y.Ox=T end,__add=function(Y,T)return rawget(Y,`Ox`)end}),C({Dv=nil},{__pow=function(Y,T)Y.Dv=T end,__div=function(Y,T)return Y.Dv end}),C({Bgb=nil},{__concat=function(Y,T)Y.Bgb=T end,__mul=function(Y,T)return Y.Bgb end}),C({ty=nil},{__index=function(Y,T)Y.ty=T end,__mul=function(Y,T)return rawget(Y,`ty`)end}),C({K4=nil},{__index=function(Y,T)Y.K4=T end,__add=function(Y,T)return rawget(Y,`K4`)end}),C({Pe=nil},{__add=function(Y,T)Y.Pe=T end,__div=function(Y,T)return Y.Pe end}),C({Xbb=nil},{__index=function(Y,T)Y.Xbb=T end,__mul=function(Y,T)return rawget(Y,`Xbb`)end}),C({AK=nil},{__index=function(Y,T)Y.AK=T end,__div=function(Y,T)return rawget(Y,`AK`)end}),C({mfb=nil},{__index=function(Y,T)Y.mfb=T end,__concat=function(Y,T)return rawget(Y,`mfb`)end}),C({Thb=nil},{__sub=function(Y,T)Y.Thb=T end,__pow=function(Y,T)return Y.Thb end}),C({uj=nil},{__div=function(Y,T)Y.uj=T end,__concat=function(Y,T)return Y.uj end}),C({Ekb=nil},{__pow=function(Y,T)Y.Ekb=T end,__sub=function(Y,T)return Y.Ekb end}),C({Cr=nil},{__concat=function(Y,T)Y.Cr=T end,__index=function(Y,T)return rawget(Y,`Cr`)end}),C({Zp=nil},{__pow=function(Y,T)Y.Zp=T end,__index=function(Y,T)return rawget(Y,`Zp`)end}),C({LM=nil},{__add=function(Y,T)Y.LM=T end,__pow=function(Y,T)return Y.LM end}),C({s1=nil},{__div=function(Y,T)Y.s1=T end,__index=function(Y,T)return rawget(Y,`s1`)end}),C({Cdb=nil},{__add=function(Y,T)Y.Cdb=T end,__sub=function(Y,T)return Y.Cdb end}),C({q2=nil},{__pow=function(Y,T)Y.q2=T end,__sub=function(Y,T)return Y.q2 end}),C({xu=nil},{__concat=function(Y,T)Y.xu=T end,__index=function(Y,T)return rawget(Y,`xu`)end}),C({Er=nil},{__pow=function(Y,T)Y.Er=T end,__mul=function(Y,T)return Y.Er end}),C({DN=nil},{__add=function(Y,T)Y.DN=T end,__div=function(Y,T)return Y.DN end}),C({HQ=nil},{__mul=function(Y,T)Y.HQ=T end,__pow=function(Y,T)return Y.HQ end}),C({PU=nil},{__concat=function(Y,T)Y.PU=T end,__index=function(Y,T)return rawget(Y,`PU`)end}),C({VO=nil},{__concat=function(Y,T)Y.VO=T end,__index=function(Y,T)return rawget(Y,`VO`)end}),C({gab=nil},{__div=function(Y,T)Y.gab=T end,__pow=function(Y,T)return Y.gab end}),C({qx=nil},{__concat=function(Y,T)Y.qx=T end,__sub=function(Y,T)return Y.qx end}),C({pF=nil},{__concat=function(Y,T)Y.pF=T end,__div=function(Y,T)return Y.pF end}),C({h9=nil},{__concat=function(Y,T)Y.h9=T end,__sub=function(Y,T)return Y.h9 end}),C({f5=nil},{__add=function(Y,T)Y.f5=T end,__pow=function(Y,T)return Y.f5 end}),C({sI=nil},{__concat=function(Y,T)Y.sI=T end,__add=function(Y,T)return Y.sI end}),C({x9=nil},{__sub=function(Y,T)Y.x9=T end,__mul=function(Y,T)return Y.x9 end}),C({Vmb=nil},{__concat=function(Y,T)Y.Vmb=T end,__add=function(Y,T)return Y.Vmb end}),C({y4=nil},{__mul=function(Y,T)Y.y4=T end,__concat=function(Y,T)return Y.y4 end}),C({dO=nil},{__index=function(Y,T)Y.dO=T end,__pow=function(Y,T)return rawget(Y,`dO`)end}),C({bpb=nil},{__concat=function(Y,T)Y.bpb=T end,__add=function(Y,T)return Y.bpb end}),C({cl=nil},{__pow=function(Y,T)Y.cl=T end,__mul=function(Y,T)return Y.cl end}),C({H0=nil},{__index=function(Y,T)Y.H0=T end,__pow=function(Y,T)return rawget(Y,`H0`)end}),C({Gr=nil},{__pow=function(Y,T)Y.Gr=T end,__mul=function(Y,T)return Y.Gr end}),C({i6=nil},{__concat=function(Y,T)Y.i6=T end,__index=function(Y,T)return rawget(Y,`i6`)end}),C({D=nil},{__pow=function(Y,T)Y.D=T end,__concat=function(Y,T)return Y.D end}),C({Vob=nil},{__mul=function(Y,T)Y.Vob=T end,__pow=function(Y,T)return Y.Vob end}),C({lt=nil},{__sub=function(Y,T)Y.lt=T end,__div=function(Y,T)return Y.lt end}),C({HO=nil},{__mul=function(Y,T)Y.HO=T end,__add=function(Y,T)return Y.HO end}),C({Pb=nil},{__concat=function(Y,T)Y.Pb=T end,__index=function(Y,T)return rawget(Y,`Pb`)end}),C({Cw=nil},{__div=function(Y,T)Y.Cw=T end,__add=function(Y,T)return Y.Cw end}),C({vI=nil},{__concat=function(Y,T)Y.vI=T end,__sub=function(Y,T)return Y.vI end}),C({ufb=nil},{__div=function(Y,T)Y.ufb=T end,__sub=function(Y,T)return Y.ufb end}),C({Ymb=nil},{__index=function(Y,T)Y.Ymb=T end,__sub=function(Y,T)return rawget(Y,`Ymb`)end}),C({PZ=nil},{__div=function(Y,T)Y.PZ=T end,__sub=function(Y,T)return Y.PZ end}),C({h2=nil},{__index=function(Y,T)Y.h2=T end,__pow=function(Y,T)return rawget(Y,`h2`)end}),C({xcb=nil},{__sub=function(Y,T)Y.xcb=T end,__index=function(Y,T)return rawget(Y,`xcb`)end}),C({zbb=nil},{__concat=function(Y,T)Y.zbb=T end,__sub=function(Y,T)return Y.zbb end}),C({vmb=nil},{__div=function(Y,T)Y.vmb=T end,__pow=function(Y,T)return Y.vmb end}),C({qr=nil},{__sub=function(Y,T)Y.qr=T end,__pow=function(Y,T)return Y.qr end}),C({Nx=nil},{__div=function(Y,T)Y.Nx=T end,__pow=function(Y,T)return Y.Nx end}),C({eX=nil},{__index=function(Y,T)Y.eX=T end,__sub=function(Y,T)return rawget(Y,`eX`)end}),C({vkb=nil},{__concat=function(Y,T)Y.vkb=T end,__mul=function(Y,T)return Y.vkb end}),C({S=nil},{__concat=function(Y,T)Y.S=T end,__mul=function(Y,T)return Y.S end}),C({wU=nil},{__index=function(Y,T)Y.wU=T end,__mul=function(Y,T)return rawget(Y,`wU`)end}),C({leb=nil},{__index=function(Y,T)Y.leb=T end,__concat=function(Y,T)return rawget(Y,`leb`)end}),C({A8=nil},{__index=function(Y,T)Y.A8=T end,__concat=function(Y,T)return rawget(Y,`A8`)end}),C({ie=nil},{__add=function(Y,T)Y.ie=T end,__div=function(Y,T)return Y.ie end}),C({sU=nil},{__concat=function(Y,T)Y.sU=T end,__sub=function(Y,T)return Y.sU end}),C({tjb=nil},{__sub=function(Y,T)Y.tjb=T end,__add=function(Y,T)return Y.tjb end}),C({ik=nil},{__div=function(Y,T)Y.ik=T end,__index=function(Y,T)return rawget(Y,`ik`)end}),C({Cib=nil},{__mul=function(Y,T)Y.Cib=T end,__div=function(Y,T)return Y.Cib end}),C({bq=nil},{__div=function(Y,T)Y.bq=T end,__add=function(Y,T)return Y.bq end}),C({CF=nil},{__div=function(Y,T)Y.CF=T end,__concat=function(Y,T)return Y.CF end}),C({BH=nil},{__sub=function(Y,T)Y.BH=T end,__mul=function(Y,T)return Y.BH end}),C({pkb=nil},{__mul=function(Y,T)Y.pkb=T end,__concat=function(Y,T)return Y.pkb end}),C({SY=nil},{__concat=function(Y,T)Y.SY=T end,__div=function(Y,T)return Y.SY end}),C({Q3=nil},{__mul=function(Y,T)Y.Q3=T end,__index=function(Y,T)return rawget(Y,`Q3`)end}),C({JA=nil},{__add=function(Y,T)Y.JA=T end,__div=function(Y,T)return Y.JA end}),C({R1=nil},{__index=function(Y,T)Y.R1=T end,__mul=function(Y,T)return rawget(Y,`R1`)end}),C({Adb=nil},{__mul=function(Y,T)Y.Adb=T end,__index=function(Y,T)return rawget(Y,`Adb`)end}),C({Cgb=nil},{__sub=function(Y,T)Y.Cgb=T end,__mul=function(Y,T)return Y.Cgb end}),C({fkb=nil},{__pow=function(Y,T)Y.fkb=T end,__concat=function(Y,T)return Y.fkb end}),C({BI=nil},{__sub=function(Y,T)Y.BI=T end,__pow=function(Y,T)return Y.BI end}),C({rn=nil},{__add=function(Y,T)Y.rn=T end,__concat=function(Y,T)return Y.rn end}),C({TL=nil},{__mul=function(Y,T)Y.TL=T end,__div=function(Y,T)return Y.TL end}),C({L9=nil},{__add=function(Y,T)Y.L9=T end,__index=function(Y,T)return rawget(Y,`L9`)end}),C({kp=nil},{__mul=function(Y,T)Y.kp=T end,__concat=function(Y,T)return Y.kp end}),C({AI=nil},{__concat=function(Y,T)Y.AI=T end,__sub=function(Y,T)return Y.AI end}),C({aq=nil},{__add=function(Y,T)Y.aq=T end,__index=function(Y,T)return rawget(Y,`aq`)end}),C({VJ=nil},{__mul=function(Y,T)Y.VJ=T end,__add=function(Y,T)return Y.VJ end}),C({yr=nil},{__pow=function(Y,T)Y.yr=T end,__sub=function(Y,T)return Y.yr end}),C({VT=nil},{__concat=function(Y,T)Y.VT=T end,__index=function(Y,T)return rawget(Y,`VT`)end}),C({st=nil},{__add=function(Y,T)Y.st=T end,__div=function(Y,T)return Y.st end}),C({jpb=nil},{__mul=function(Y,T)Y.jpb=T end,__pow=function(Y,T)return Y.jpb end}),C({mp=nil},{__sub=function(Y,T)Y.mp=T end,__index=function(Y,T)return rawget(Y,`mp`)end}),C({eE=nil},{__concat=function(Y,T)Y.eE=T end,__mul=function(Y,T)return Y.eE end}),C({vcb=nil},{__concat=function(Y,T)Y.vcb=T end,__sub=function(Y,T)return Y.vcb end}),C({N8=nil},{__concat=function(Y,T)Y.N8=T end,__add=function(Y,T)return Y.N8 end}),C({kab=nil},{__sub=function(Y,T)Y.kab=T end,__concat=function(Y,T)return Y.kab end}),C({gi=nil},{__add=function(Y,T)Y.gi=T end,__pow=function(Y,T)return Y.gi end}),C({Z7=nil},{__concat=function(Y,T)Y.Z7=T end,__sub=function(Y,T)return Y.Z7 end})while B do if(`8124159`-0)*(`1`-0)>B*(`1`-0)then if B<`4489753`-0 then if`1928970`-0>(B-(`1928970`-0))+(`1928970`-0)then if(`1373576`-0)-(`0`-0)>B-(`0`-0)then if(`956799`-0)*(`1`-0)>B*(`1`-0)then if`642102`-0>(B-(`642102`-0))+(`642102`-0)then if(B+(`583651`-0))-(`583651`-0)<`583651`-0 then B=nil(L/`zob`)(R..I());(L/`al`)(s-B)B=((T+`u5`))[(Y*`So`)(j.WH{`4`-0,`3`-0,`5`-0,`7`-0,`6`-0,`2`-0,`1`-0,(F^`cF`)(`-34741`-0),(F^`XS`)(`-34345`-0),(F^`X1`)(`-34489`-0),(F^`mu`)(`-34602`-0),(F^`vn`)(`-34544`-0),(F^`OK`)(`-34632`-0),(F^`kab`)(`-34626`-0)},`16129545820733`-0)];(L/`C7`)(u..S);(L/`gB`)(v..B);(L/`hcb`)((y)[I()])B=false(r)[y^`yh`]=B B=nil(r)[R.kL]=B;(L/`jX`)(k+((T+`pA`))[(Y*`Ki`)((F^`JS`)(`-34360`-0),`24606923954512`-0)])B=J(`4659337`-0,{y^`ir`,R.eb});(r)[R.eB]=B;(L/`Sv`)(p*(r)[R.GC]);(O)[k/`GP`]=p.aM;(L/`b`)(k+(r)[y^`O3`])B=k/`Xc`and`14560388`-0 or`5711629`-0 else(L/`Fd`)(R..not y^`Ct`);(L/`Wp`)(u..u*`y6`+v.tt);(L/`heb`)(p*(u*`T7`<=s..`Xx`));(L/`i8`)(p*(R.Qs and p.E6));(L/`Tu`)(R..(u*`Mpb`>=s..`jeb`));(L/`KB`)(R..(y^`z7`and R.po));(L/`Eg`)(p*(R.S7 or p.Kj));(L/`W3`)(R..`8878300`-0)B=p.gbb and R.ig;(L/`rO`)(p*(`6952742`-0))B=B or p.rE end else if B+(`0`-0)<(`918381`-0)+(`0`-0)then(L/`Lkb`)(k+(r)[x^`Kg`])B=k/`mJ`and`956151`-0 or`3990435`-0 else(L/`Lr`)(k+false)B=`7458551`-0(r)[x^`LQ`]=k/`Ku`(L/`dmb`)(t..X(`14700154`-0,{x^`kC`}));(L/`lK`)(H/((T+`gv`))[(Y*`Qj`)((F^`f_`)(`-34422`-0),`27490669295962`-0)]);(L/`mK`)(b+(O)[H..`ufb`]);(L/`FR`)(H/((T+`CY`))[(Y*`PY`)((F^`xV`)(`-34477`-0),`25650294857259`-0)]);(L/`Co`)((i)[((b/`Zfb`))[H..`X`] ]);(L/`lN`)(H/(`2`-0));(L/`nj`)(b+(i+`XF`)(H..`Bq`,t-`FO`));(L/`Hnb`)(b+(r)[x^`I_`]);(L/`meb`)((i)[not(b/`ii`)])end end else if B-(`1113306`-0)<`0`-0 then if(B+(`966717`-0))-(`966717`-0)<`966717`-0 then B=`4025013`-0(L/`bs`)(ps..(Cs+`WL`~=Ls/`k4`));(L/`BE`)(zs^(ps*`Ny`))else(L/`lV`)(v..((T+`Mjb`))[(Y*`T1`)(j.Gc{`1`-0,`2`-0,(F^`Kcb`)(`-34838`-0),(F^`M8`)(`-34269`-0)},`13792970406170`-0)]);(L/`rJ`)(u..((T+`hm`))[(Y*`IT`)((F^`Qx`)(`-34371`-0),`23193936900704`-0)]);(L/`Sh`)(p*(O)[u*`Zm`]);(L/`Rab`)(s-(O)[v.ti]);(L/`Rkb`)(v..((T+`vx`))[(Y*`bg`)((F^`zO`)(`-34605`-0),`11083108772826`-0)]);(L/`Zu`)(R..((T+`cg`))[(Y*`Sjb`)((F^`XY`)(`-34424`-0),`6084867050624`-0)]);(L/`z_`)(u..((s..`gg`))[v.V7]);(L/`N7`)(k+(`120`-0));(L/`WR`)((y)[(O)[R.cn] ]);(L/`Job`)(R..((T+`GN`))[(Y*`pjb`)(j.r6{`2`-0,`1`-0,(F^`ev`)(`-34461`-0),(F^`vI`)(`-34865`-0)},`1987793222175`-0)]);(L/`lt`)(v..((y^`Io`))[R.q6]);(L/`rM`)(R..`1`-0);(L/`dx`)((y)[{v.UC(R.zhb,k/`W9`)}]);(L/`Ncb`)(s-(u*`F`)(z(y^`Jc`)));(L/`RD`)(u..((T+`Ot`))[(Y*`Cq`)(j.Lp{`2`-0,`22`-0,`24`-0,`20`-0,`14`-0,`19`-0,`3`-0,`16`-0,`15`-0,`8`-0,`6`-0,`7`-0,`21`-0,`5`-0,`17`-0,`1`-0,`12`-0,`18`-0,`4`-0,`10`-0,`23`-0,`13`-0,`11`-0,`9`-0,`25`-0,(F^`uH`)(`-34705`-0),(F^`Tk`)(`-34900`-0),(F^`BM`)(`-34573`-0),(F^`P6`)(`-34721`-0),(F^`jt`)(`-34585`-0),(F^`DD`)(`-34946`-0),(F^`Xn`)(`-34949`-0),(F^`Bfb`)(`-34625`-0),(F^`bj`)(`-34550`-0),(F^`is`)(`-34419`-0),(F^`T7`)(`-34821`-0),(F^`kib`)(`-34453`-0),(F^`tj`)(`-34276`-0),(F^`OM`)(`-34601`-0),(F^`B_`)(`-34622`-0),(F^`jE`)(`-34460`-0),(F^`Zj`)(`-34373`-0),(F^`M3`)(`-34572`-0),(F^`xcb`)(`-34649`-0),(F^`RC`)(`-34641`-0),(F^`Dgb`)(`-34583`-0),(F^`zJ`)(`-34598`-0),(F^`S9`)(`-34368`-0),(F^`Fz`)(`-34735`-0),(F^`bI`)(`-34496`-0)},`7432015797612`-0)])B=(p.GB)[s..`UP`];(L/`sK`)(p*B(u*`J2`))B=(O)[((T+`pib`))[(Y*`GS`)(j.Egb{`1`-0,`2`-0,`3`-0,(F^`mm`)(`-34427`-0),(F^`okb`)(`-34287`-0),(F^`mcb`)(`-34275`-0)},`5211336937215`-0)] ];(L/`WI`)(p*{})end else B=true(r)[(e)[`1`-0] ]=B;(L/`xm`)(p*(`1`-0));(L/`nob`)(u..`200`-0);(L/`dK`)(s-u*`nd`)B=`1386679`-0(L/`Uu`)(u..`1`-0);(L/`Aib`)(v..u*`aib`);(L/`Wp`)(u..`0`-0);(L/`dc`)((y)[v.Ay<u*`d2`]);(L/`y9`)(u..p.yj-v.fi)end end else if B-(`1651972`-0)<`0`-0 then if`1464365`-0>B then if`1390176`-0>(B+(`1390176`-0))-(`1390176`-0)then(L/`mab`)(R..not y^`h`);(L/`Tf`)(u..u*`YS`+v.Ar);(L/`Plb`)(p*(u*`Lab`<=s..`pnb`));(L/`fo`)(p*(R.Gb and p.JP));(L/`ylb`)(R..(u*`Qs`>=s..`sab`));(L/`pN`)(R..(y^`zF`and R.lB));(L/`ncb`)(p*(R.NF or p.vJ));(L/`xP`)(R..`5003433`-0)B=p.k and R.ZT;(L/`Ci`)(p*(`7983733`-0))B=B or p.Vt else B=(O)[((T+`cc`))[(Y*`UT`)(j.eQ{`3`-0,`2`-0,`1`-0,(F^`Rbb`)(`-34772`-0),(F^`sj`)(`-34559`-0),(F^`NN`)(`-34809`-0)},`30414281725251`-0)] ];(L/`Zi`)(p*{d^`Oab`})end else if(`1572849`-0)-(`0`-0)>B-(`0`-0)then B=D*`vH`(L/`K7`)(P..(r)[b/`M2`]);(L/`ms`)((D)[(t-`vM`)(P.gF)]);(L/`jD`)(t..not(s..`xE`))B=t-`Uj`and`12192716`-0 or`15271232`-0 else(L/`FV`)(Ys*(q+`o2`));(L/`jm`)(Fs+((T+`xJ`))[(Y*`K0`)(j.dcb{`1`-0,`2`-0,(F^`y4`)(`-34297`-0),(F^`Sr`)(`-34806`-0)},`827103213955`-0)]);(L/`cG`)(Bs-(O)[Fs^`Vj`]);(L/`gb`)(Cs..((K^`KQ`))[Ys-`yjb`]);(L/`nL`)(Fs+((T+`ww`))[(Y*`oA`)(j.d0{`3`-0,`1`-0,`2`-0,`5`-0,`4`-0,(F^`Xgb`)(`-34546`-0),(F^`Ycb`)(`-34310`-0),(F^`Peb`)(`-34753`-0),(F^`Kn`)(`-34667`-0),(F^`Y8`)(`-34379`-0)},`19095940772655`-0)]);(L/`re`)(Fs+((Bs^`YU`))[Fs^`khb`]);(L/`GM`)(Fs+(Fs^`Qs`)(Bs^`zr`,Cs+`mK`))B=Fs^`Yhb`and`15441720`-0 or`15584272`-0 end end else if(B+(`1765777`-0))-(`1765777`-0)<`1765777`-0 then if(`1702113`-0)-(`0`-0)>B-(`0`-0)then(L/`Tv`)(t..true)B=t-`Tj`and`7331849`-0 or`7407057`-0 else(L/`GK`)(K*((T+`c7`))[(Y*`lO`)((F^`IQ`)(`-34467`-0),`19011061378734`-0)]);(L/`Z0`)(W^((T+`Xgb`))[(Y*`Kw`)((F^`Vs`)(`-34394`-0),`9576998107460`-0)]);(L/`qN`)(Ts^((T+`sT`))[(Y*`OY`)((F^`uw`)(`-34712`-0),`20584875919432`-0)]);(L/`SW`)(a+(r)[l^`AP`]);(L/`n8`)(Q*((G..`ik`))[K^`Ze`]);(L/`zM`)((q)[((T+`zU`))[(Y*`cg`)((F^`UO`)(`-34924`-0),`14996039623628`-0)] ]);(L/`OW`)(K*((g-`G4`))[W*`gjb`]);(L/`bx`)(c/(Q/`skb`==K^`C`));(L/`LF`)(U..a.hq(c-`g_`));(L/`HF`)(a+(r)[l^`sS`]);(L/`qY`)(K*(r)[l^`Wib`]);(L/`EF`)(Ys*((G..`Onb`))[q+`Llb`]);(L/`ne`)(W^(K^`FB`)(Ys-`hib`));(L/`NY`)(K*(r)[l^`Tc`]);(L/`vcb`)((q)[((g-`Fpb`))[Ts-`igb`] ]);(L/`qg`)(Ys*(K^`BS`)(q+`bt`));(L/`FT`)(Q*(W*`Y7`==Ys-`NE`));(L/`Hf`)(c/a.ju(Q/`C6`));(L/`yZ`)((N)[U-`hw`~=c-`QO`])B=N-`xnb`and`3411699`-0 or`11955025`-0 end else(L/`yN`)(d-B);(L/`UF`)((N)[((T+`Ynb`))[(Y*`f1`)(j.zJ{`1`-0,`2`-0,(F^`eJ`)(`-34483`-0),(F^`Ph`)(`-34800`-0)},`19597814453154`-0)] ]);(L/`Nmb`)(l/(O)[N-`Fw`])B=l^`jdb`and`4665263`-0 or`14030032`-0(L/`KF`)(P..l^`Qbb`)end end end else if`0`-0>B-(`3413143`-0)then if B-(`2317687`-0)<`0`-0 then if`2218039`-0>(B+(`2218039`-0))-(`2218039`-0)then if B<`2123079`-0 then(L/`qob`)((D)[((T+`sV`))[(Y*`Y`)(j.cO{`1`-0,`2`-0,(F^`Hp`)(`-34418`-0),(F^`oU`)(`-34774`-0)},`19312064402293`-0)] ]);(L/`Nfb`)(l/((T+`ZM`))[(Y*`PB`)((F^`sN`)(`-34808`-0),`27862213390653`-0)]);(L/`J7`)(t..(O)[D*`YE`])B=`8575500`-0(L/`okb`)(d-(O)[l^`VC`]);(L/`Mm`)(l/((T+`uf`))[(Y*`Jjb`)(j.Tjb{`2`-0,`1`-0,(F^`Nhb`)(`-34564`-0),(F^`IS`)(`-34301`-0)},`11962710400907`-0)]);(L/`CI`)(P..((d^`VW`))[l^`kgb`]);(L/`IP`)(d-{P.te()});(L/`BL`)((D)[(t-`oo`)(z(d^`okb`))]);(L/`wm`)(P..((T+`tgb`))[(Y*`AI`)(j.kX{`2`-0,`1`-0,(F^`xI`)(`-34882`-0),(F^`tF`)(`-34351`-0)},`11094433894160`-0)]);(L/`He`)((N)[((T+`hob`))[(Y*`V`)((F^`Sg`)(`-34271`-0),`20173469109398`-0)] ]);(L/`tI`)(t..(O)[P.Vh]);(L/`mab`)(l/(O)[N-`Kjb`]);(L/`W5`)((N)[((T+`RZ`))[(Y*`F8`)(j.Emb{`1`-0,`2`-0,(F^`RT`)(`-34498`-0),(F^`Ur`)(`-34480`-0)},`13897118727308`-0)] ]);(L/`eT`)(d-((l^`V`))[N-`oO`]);(L/`lp`)(l/{(d^`Ibb`)()});(L/`mC`)(P..(t-`jh`)(z(l^`Op`)));(L/`hU`)(b+(D*`KX`==P.Reb));(L/`p5`)(E/(b/`Z2`))else(L/`u1`)(R..not y^`Job`);(L/`t`)(u..u*`MX`+v.Pw);(L/`Nw`)(p*(u*`mQ`<=s..`lG`));(L/`lN`)(p*(R.zX and p.Mib));(L/`Cp`)(R..(u*`Tj`>=s..`Au`));(L/`xb`)(R..(y^`h5`and R.FU));(L/`tib`)(p*(R.oG or p.Ay));(L/`Yn`)(R..`15484271`-0)B=p.Sw and R.ag;(L/`Alb`)(p*(`6446223`-0))B=B or p.xE end else if(`2247604`-0)*(`1`-0)>B*(`1`-0)then(L/`fkb`)(K*nil)B=`6256087`-0(L/`l5`)(W^nil)else(L/`Gfb`)(W^((T+`l6`))[(Y*`rY`)((F^`Jeb`)(`-34824`-0),`34028923394410`-0)])B=(O)[((T+`qv`))[(Y*`ux`)(j.mw{`1`-0,`3`-0,`2`-0,(F^`gab`)(`-34492`-0),(F^`wL`)(`-34961`-0),(F^`idb`)(`-34646`-0)},`3168631949709`-0)] ];(L/`Rx`)(K*(O)[W*`oeb`]);(L/`jnb`)(W^(K^`CK`)(c-`Iob`,Q/`tS`,a.iK));(L/`Wcb`)(p*{d^`nn`})end end else if`0`-0>B-(`3238012`-0)then if`2617114`-0>(B+(`2617114`-0))-(`2617114`-0)then B=true(r)[(e)[`1`-0] ]=B B=(O)[((T+`F7`))[(Y*`g7`)(j.WH{`3`-0,`2`-0,`1`-0,(F^`oP`)(`-34458`-0),(F^`Kh`)(`-34779`-0),(F^`Emb`)(`-34812`-0)},`34568301434244`-0)] ];(L/`hbb`)(p*{})else(L/`gnb`)(H/true);(r)[y^`n6`]=H..`Ts`B=`11239218`-0 end else(L/`Fk`)(p*{d^`TS`})B=(O)[((T+`AJ`))[(Y*`QF`)(j.Ac{`2`-0,`3`-0,`1`-0,(F^`Rv`)(`-34563`-0),(F^`t8`)(`-34718`-0),(F^`Ue`)(`-34637`-0)},`26843068103813`-0)] ]end end else if`3581782`-0>(B+(`3581782`-0))-(`3581782`-0)then if B+(`0`-0)<(`3516980`-0)+(`0`-0)then if B<`3475363`-0 then(L/`iZ`)(Cs..nil)B=`10056951`-0(L/`a0`)(Ls*nil)else(L/`eeb`)(Ts^((T+`Xnb`))[(Y*`nB`)(j.Ie{`2`-0,`1`-0,(F^`cZ`)(`-34663`-0),(F^`Zm`)(`-34508`-0)},`24339973864178`-0)]);(L/`ZU`)(Ys*((T+`y4`))[(Y*`Zz`)((F^`AX`)(`-34752`-0),`23816314177214`-0)]);(L/`Lc`)(W^((T+`B4`))[(Y*`nG`)((F^`Oq`)(`-34703`-0),`24806312088262`-0)]);(L/`Sc`)((q)[((T+`Hhb`))[(Y*`To`)(j.Ofb{`1`-0,`2`-0,(F^`lpb`)(`-34400`-0),(F^`jY`)(`-34862`-0)},`15165068226091`-0)] ]);(L/`h1`)(K*{W*`wF`,Ys-`kA`,q+`Ddb`,Ts-`Z`});(L/`MZ`)(Ys*(`1`-0));(L/`IV`)((q)[#K^`gz`]);(L/`JJ`)(W^(`0`-0));(L/`M2`)(Ts^(q+`bQ`));(L/`N8`)((q)[`1`-0]);(L/`LZ`)(js/(q+`uO`))B=`12772586`-0(L/`Yx`)((q)[`0`-0]);(L/`E4`)(Os+(js.cnb<q+`Wdb`));(L/`BC`)((q)[(Ys-`wab`)-js.KF])end else(L/`bH`)(u..`100`-0);(L/`M8`)(s-u*`ul`);(L/`c1`)(p*(`1`-0))B=`2127743`-0(L/`MT`)(u..`1`-0);(L/`Bmb`)(v..u*`Fpb`);(L/`cC`)(u..`0`-0);(L/`r4`)((y)[v.GT<u*`aU`]);(L/`Gr`)(u..p.eU-v.Sf)end else if B+(`0`-0)<(`4187627`-0)+(`0`-0)then if B<`3997558`-0 then B=`823295`-0 else B=Ss/`Xf`B=zs*`lD`and`11699783`-0 or`3449864`-0 end else(L/`gS`)(zs^(`1`-0));(L/`mZ`)(Ss+B);(L/`Tf`)(Ls*((U-`Gab`))[zs*`IU`]);(L/`DD`)(zs^((T+`Rnb`))[(Y*`B5`)((F^`keb`)(`-34268`-0),`19057258157676`-0)]);(L/`V1`)(Cs..((Ls/`wp`))[zs*`pe`]);(L/`ahb`)(zs^((T+`vY`))[(Y*`nob`)((F^`jc`)(`-34697`-0),`22339788627971`-0)]);(L/`Bbb`)(Ls*((Fs^`Qob`))[zs*`F`]);(L/`mQ`)(es..(r)[l^`qF`]);(L/`s3`)(ws*(es/`NA`)(Cs+`tF`));(L/`bbb`)(es..(r)[l^`sA`]);(L/`vH`)(fs..(es/`Nl`)(Ls/`eU`));(L/`jfb`)(ps..(ws..`nR`~=fs-`xf`))B=ps*`wv`and`4025013`-0 or`963751`-0(L/`Hhb`)(zs^(ps*`hC`))end end end end else if(B-(`6253245`-0))+(`6253245`-0)<`6253245`-0 then if B<`5661207`-0 then if`4958427`-0>(B+(`4958427`-0))-(`4958427`-0)then if B<`4662166`-0 then if(B+(`4659137`-0))-(`4659137`-0)<`4659137`-0 then(L/`f0`)(u..((T+`jpb`))[(Y*`Ij`)((F^`A8`)(`-34574`-0),`13756864852060`-0)]);(L/`Zcb`)(p*(O)[u*`EX`]);(L/`w2`)(u..((T+`kG`))[(Y*`Agb`)((F^`FV`)(`-34581`-0),`689933931339`-0)])B=(p.JY)[u*`ZM`];(L/`Jw`)(u..(r)[(e)[`1`-0] ]);(L/`Hab`)(p*B(u*`lt`))B=true(r)[(e)[`2`-0] ]=B B=(O)[((T+`ZL`))[(Y*`SV`)(j.a8{`1`-0,`3`-0,`2`-0,(F^`Dw`)(`-34621`-0),(F^`TD`)(`-34450`-0),(F^`u6`)(`-34664`-0)},`26650888999100`-0)] ];(L/`Hc`)(p*{})else B=true(L/`Jfb`)(p*X(`6102411`-0,{(e)[`2`-0]}));(L/`epb`)(p*{p.Ipb});(r)[(e)[`1`-0] ]=B B=(O)[((T+`aM`))[(Y*`yr`)(j.iq{`3`-0,`1`-0,`2`-0,(F^`tib`)(`-34399`-0),(F^`YM`)(`-34669`-0),(F^`KS`)(`-34474`-0)},`26979175297467`-0)] ]end else if B-(`4762766`-0)<`0`-0 then(L/`uc`)(t..P.SE)B=d^`C3`B=`8602402`-0 else(L/`QU`)(s-V(`3523082`-0,{}));(L/`X3`)(p*((T+`vD`))[(Y*`Ru`)((F^`T9`)(`-34336`-0),`6000856582131`-0)])B=(O)[p.Ieb];(L/`WQ`)(p*B(s..`lw`));(L/`B6`)(s-p.zA)B=s..`y2`and`15290937`-0 or`14109336`-0 end end else if B<`5418623`-0 then if B*(`1`-0)<(`5315491`-0)*(`1`-0)then(L/`ijb`)(k+((T+`mF`))[(Y*`aw`)((F^`pi`)(`-34320`-0),`32810913092746`-0)])B=`1386679`-0(L/`A7`)(p*(O)[k/`Ut`]);(L/`KO`)(E/X(`1050923`-0,{}));(L/`DH`)(R..u*`Py`);(L/`kK`)(k+p.flb(E^`aU`));(L/`UF`)(R..nil)else(L/`gw`)(Ys*(Q/`h7`~=a.vdb))B=`8821240`-0(L/`Bgb`)(K*(Ys-`vmb`))end else B=(O)[((T+`Z6`))[(Y*`CJ`)(j.nq{`2`-0,`3`-0,`1`-0,(F^`aQ`)(`-34405`-0),(F^`l6`)(`-34300`-0),(F^`jt`)(`-34925`-0)},`32655370958410`-0)] ];(L/`Z6`)((y)[((T+`wx`))[(Y*`Lgb`)(j.sH{`1`-0,`2`-0,(F^`h4`)(`-34274`-0),(F^`nv`)(`-34659`-0)},`21030315983095`-0)] ]);(L/`keb`)(v..(O)[y^`zT`]);(L/`Yi`)(R..(r)[(e)[`1`-0] ]);(L/`rg`)(k+{R.KY(s..`i0`)});(L/`zQ`)((y)[{v.F(z(k/`Xc`))}]);(L/`jB`)(p*{z(y^`gs`)})end end else if(B+(`5992577`-0))-(`5992577`-0)<`5992577`-0 then if B-(`5725558`-0)<`0`-0 then if(`5701302`-0)*(`1`-0)>B*(`1`-0)then(L/`qV`)(b+B);(L/`Dob`)(t..B);(L/`Rjb`)(P..((T+`Xkb`))[(Y*`yA`)((F^`K9`)(`-34531`-0),`25864827583822`-0)]);(L/`Az`)((i)[((T+`Rf`))[(Y*`elb`)((F^`kE`)(`-34934`-0),`12324185253916`-0)] ]);(L/`XA`)(t..((T+`Nw`))[(Y*`l9`)((F^`dv`)(`-34687`-0),`23153347140473`-0)]);(L/`Nk`)(x*(O)[i+`FI`]);(L/`EC`)((D)[(O)[P.dW] ]);(L/`aA`)(P..((T+`Mj`))[(Y*`L3`)(j.a8{`1`-0,`2`-0,(F^`uu`)(`-34280`-0),(F^`ZM`)(`-34539`-0)},`32289019943342`-0)]);(L/`Pdb`)(h+((D*`O_`))[P.zjb]);(L/`Ff`)(b+((T+`JD`))[(Y*`sob`)((F^`Z1`)(`-34613`-0),`5181967034308`-0)]);(L/`As`)((D)[((T+`e_`))[(Y*`t5`)(j.eb{`2`-0,`1`-0,(F^`i_`)(`-34786`-0),(F^`NI`)(`-34389`-0)},`6534311042829`-0)] ]);(L/`Mb`)(H/(h/`hd`and D*`gf`));(L/`bB`)((i)[H..`RO`or t-`Y7`]);(L/`rX`)(k+((x^`TR`))[i+`sfb`]);(L/`c8`)((i)[J(`2403124`-0,{y^`dkb`})]);(L/`Ug`)(x*(k/`f6`)(i+`fK`,b/`io`));(L/`jO`)(k+false);(L/`sU`)(b+((T+`hm`))[(Y*`l2`)((F^`og`)(`-34342`-0),`13137846944090`-0)]);(L/`vN`)(x*I());(r)[x^`r_`]=k/`s0`(L/`oH`)((i)[(O)[b/`jb`] ]);(L/`ZM`)(H/X(`15758045`-0,{x^`zR`}));(L/`eO`)(b+((T+`Rm`))[(Y*`on`)((F^`ew`)(`-34933`-0),`12853202150025`-0)]);(L/`gdb`)(k+((i+`cg`))[b/`dmb`]);(L/`Qh`)(b+(`0`-0));(L/`xY`)((i)[(k/`kq`)(b/`x`,H..`hmb`)]);(L/`F_`)(b+((T+`WC`))[(Y*`rl`)((F^`yq`)(`-34733`-0),`11587815444396`-0)]);(L/`ls`)((i)[(O)[b/`N4`] ]);(L/`zt`)(b+((T+`rc`))[(Y*`dP`)((F^`H7`)(`-34374`-0),`12686211707248`-0)])B=`3990435`-0(L/`Hi`)(k+((i+`JZ`))[b/`Si`]);(L/`ZR`)(b+(`0.1`-0));(L/`MF`)((i)[(k/`opb`)(b/`j4`)]);(L/`bl`)(k+(r)[x^`rp`])else(L/`Nfb`)(k+true)B=k/`p5`and`5988436`-0 or`10691790`-0 end else if B+(`0`-0)<(`5914864`-0)+(`0`-0)then(L/`WZ`)(u..((T+`Igb`))[(Y*`UA`)(j.akb{`1`-0,`2`-0,(F^`NA`)(`-34591`-0),(F^`sY`)(`-34279`-0)},`14161396776514`-0)]);(L/`Ct`)(p*(O)[u*`xX`]);(L/`sr`)(u..((T+`tM`))[(Y*`ZL`)(j.Qeb{`2`-0,`1`-0,`3`-0,(F^`QW`)(`-34315`-0),(F^`ujb`)(`-34620`-0),(F^`NI`)(`-34592`-0)},`12029250233493`-0)])B=(p.aQ)[u*`j4`];(L/`A9`)(u..(r)[(e)[`1`-0] ]);(L/`Eg`)(p*B(u*`WZ`));(L/`Sf`)(p*{})B=true(r)[(e)[`2`-0] ]=B B=(O)[((T+`fN`))[(Y*`Vh`)(j.Nk{`1`-0,`3`-0,`2`-0,(F^`dy`)(`-34848`-0),(F^`Wd`)(`-34640`-0),(F^`mQ`)(`-34947`-0)},`13228390813106`-0)] ]else(L/`GS`)(k+{});(L/`gS`)(x*(`1`-0));(L/`feb`)(E/I());(r)[E^`Aab`]=k/`iT`(L/`hz`)(k+(r)[E^`sm`]);(L/`df`)((i)[(r)[E^`EA`] ]);((k/`ffb`))[x^`jC`]=i+`P2`(L/`D9`)((i)[J(`4595149`-0,{E^`Sdb`,y^`mm`})]);(L/`nR`)(x*((T+`Hmb`))[(Y*`Unb`)((F^`sr`)(`-34881`-0),`34964659779584`-0)]);(L/`Zm`)(k+(O)[x^`wJ`]);(L/`PZ`)(x*(k/`XX`)(i+`a5`));(L/`D0`)(x*((T+`Eq`))[(Y*`pB`)((F^`sH`)(`-34355`-0),`7389067135060`-0)]);(L/`zeb`)((i)[M(`7197015`-0,{y^`Mpb`})]);(L/`AS`)(k+(O)[x^`H`]);(L/`lH`)(x*(k/`Hdb`)(i+`Uab`));(L/`p0`)(k+(r)[y^`sbb`])B=k/`Lob`and`16080972`-0 or`5663763`-0 end end else if`6090087`-0>(B-(`6090087`-0))+(`6090087`-0)then if B+(`0`-0)<(`5993804`-0)+(`0`-0)then B=`10682927`-0 else(L/`Hf`)(n+true);(r)[y^`XE`]=n^`Ydb`B=`12978476`-0 end else B=(r)[(e)[`1`-0] ];(L/`X1`)(p*{B()});(L/`cb`)(p*{z(p.yk)})B=(O)[((T+`sB`))[(Y*`c`)(j.Qy{`2`-0,`1`-0,`3`-0,(F^`Zmb`)(`-34867`-0),(F^`pX`)(`-34449`-0),(F^`p4`)(`-34488`-0)},`14837421684006`-0)] ]end end end else if B+(`0`-0)<(`7370180`-0)+(`0`-0)then if B<`6929870`-0 then if(`6456233`-0)*(`1`-0)>B*(`1`-0)then if(B-(`6291349`-0))+(`6291349`-0)<`6291349`-0 then(L/`mdb`)(K*true);(L/`tq`)(g..nil);(L/`E6`)(s-K^`es`);(L/`jdb`)(a+nil);(L/`ms`)(b+A(b/`Q3`));(L/`C2`)(E/A(E^`lkb`));(L/`Cab`)(x*A(x^`Qdb`));(L/`nz`)(U..nil);(L/`v5`)(Q*nil);(L/`Eg`)((G)[nil]);(L/`Y8`)((N)[nil]);(L/`TZ`)(P..nil);(L/`Ceb`)(l/A(l^`l8`));(L/`ogb`)(d-nil);(L/`FF`)(c/nil)B=`10691790`-0(L/`VW`)(t..nil);(L/`FK`)((D)[A(D*`i0`)])else(L/`wP`)(p*((T+`qC`))[(Y*`xY`)((F^`lw`)(`-34562`-0),`8452626656026`-0)]);(L/`v3`)(u..((T+`HU`))[(Y*`zhb`)((F^`ZL`)(`-34267`-0),`10703994810611`-0)])B=(O)[p.ir];(L/`eY`)(p*B(u*`XU`))B=(O)[((T+`RH`))[(Y*`FL`)(j.gt{`3`-0,`2`-0,`1`-0,(F^`x6`)(`-34392`-0),(F^`Qj`)(`-34457`-0),(F^`D_`)(`-34661`-0)},`32852568869851`-0)] ];(L/`spb`)(p*{})end else if(B-(`6658773`-0))+(`6658773`-0)<`6658773`-0 then(L/`gu`)(p*{v.xQ})B=(O)[((T+`fr`))[(Y*`R`)(j.mfb{`1`-0,`3`-0,`2`-0,(F^`Te`)(`-34833`-0),(F^`ij`)(`-34385`-0),(F^`Vgb`)(`-34283`-0)},`15115560437582`-0)] ];(L/`Eb`)(E/true);(r)[y^`u1`]=E^`TX`else(L/`Kc`)(s-((T+`EO`))[(Y*`TC`)((F^`Q5`)(`-34516`-0),`29884248148228`-0)]);(L/`FU`)(p*(O)[s..`yH`]);(L/`Bv`)(v..V(`14159699`-0,{}));(L/`Olb`)(s-p.Efb(v.be))B=s..`l0`and`7523340`-0 or`7953967`-0 end end else if B+(`0`-0)<(`7329836`-0)+(`0`-0)then if`0`-0>B-(`7137234`-0)then(L/`kdb`)(p*{})B=(O)[((T+`s9`))[(Y*`CH`)((j)[`or`]{`3`-0,`1`-0,`2`-0,(F^`zD`)(`-34662`-0),(F^`Lcb`)(`-34935`-0),(F^`uX`)(`-34487`-0)},`20116683949968`-0)] ]else(L/`F7`)(u..((T+`zE`))[(Y*`HW`)((F^`ad`)(`-34354`-0),`21966113768544`-0)]);(L/`bL`)(p*(O)[u*`VU`]);(L/`Pe`)(u..((T+`Khb`))[(Y*`VH`)((F^`qw`)(`-34501`-0),`2444369993731`-0)])B=(p.FP)[u*`ekb`];(L/`jU`)(u..{});(L/`pM`)(p*B(u*`CS`))B=true(L/`HW`)(p*{});(r)[(e)[`1`-0] ]=B B=(O)[((T+`VW`))[(Y*`To`)(j.Yt{`1`-0,`2`-0,`3`-0,(F^`U`)(`-34361`-0),(F^`ix`)(`-34438`-0),(F^`Zg`)(`-34699`-0)},`3779160851677`-0)] ]end else B=`1656841`-0 end end else if B*(`1`-0)<(`7571323`-0)*(`1`-0)then if`0`-0>B-(`7510165`-0)then if B*(`1`-0)<(`7456472`-0)*(`1`-0)then B=`14336525`-0 else B=`16070962`-0 end else B=`15008395`-0 end else if B-(`7975988`-0)<`0`-0 then if B+(`0`-0)<(`7622534`-0)+(`0`-0)then(L/`ncb`)(n+not P.Sq)B=n^`xZ`and`5998393`-0 or`12978476`-0 else B=`15008395`-0(L/`wU`)(p*true);(r)[(e)[`1`-0] ]=p.Xq end else B=(O)[((T+`WQ`))[(Y*`Gu`)(j.uab{`1`-0,`2`-0,`3`-0,(F^`sb`)(`-34282`-0),(F^`JD`)(`-34286`-0),(F^`Yd`)(`-34295`-0)},`10588969258464`-0)] ];(L/`CZ`)(p*{})end end end end end else if B-(`12961850`-0)<`0`-0 then if B<`10685910`-0 then if`8903681`-0>(B-(`8903681`-0))+(`8903681`-0)then if(B+(`8793489`-0))-(`8793489`-0)<`8793489`-0 then if B-(`8484809`-0)<`0`-0 then if`8153951`-0>(B-(`8153951`-0))+(`8153951`-0)then B=(r)[(e)[`1`-0] ];(L/`RC`)(p*{B})B=(O)[((T+`xlb`))[(Y*`Wdb`)(j.Mc{`2`-0,`1`-0,`3`-0,(F^`Vn`)(`-34864`-0),(F^`re`)(`-34938`-0),(F^`yib`)(`-34923`-0)},`19311562816873`-0)] ]else y.dO,E.vmb=R.njb(v.NI,y^`QZ`)B=y^`kL`and`14586582`-0 or`5432231`-0 end else if`8580946`-0>(B-(`8580946`-0))+(`8580946`-0)then B=x^`PF`B=E^`Icb`and`6503646`-0 or`16065165`-0 else B=D*`Zi`B=t-`mhb`and`14952001`-0 or`14336525`-0 end end else if(B+(`8877472`-0))-(`8877472`-0)<`8877472`-0 then if B<`8825735`-0 then B=W*`gab`B=K^`yP`and`2302067`-0 or`3512484`-0 else B=(O)[((T+`zdb`))[(Y*`MU`)(j.gx{`1`-0,`2`-0,`3`-0,(F^`D3`)(`-34628`-0),(F^`uB`)(`-34904`-0),(F^`j9`)(`-34403`-0)},`20493364546223`-0)] ];(L/`wW`)(p*{v.Q1})end else(L/`EX`)(p*((T+`ue`))[(Y*`If`)(j.Sy{`2`-0,`1`-0,(F^`FF`)(`-34612`-0),(F^`Fk`)(`-34482`-0)},`34017447843597`-0)])B=((T+`jy`))[(Y*`Gb`)(j.id{`13`-0,`22`-0,`9`-0,`4`-0,`10`-0,`1`-0,`21`-0,`3`-0,`19`-0,`25`-0,`2`-0,`12`-0,`8`-0,`11`-0,`6`-0,`15`-0,`17`-0,`7`-0,`14`-0,`20`-0,`16`-0,`23`-0,`5`-0,`18`-0,`24`-0,(F^`QR`)(`-34768`-0),(F^`zL`)(`-34930`-0),(F^`uib`)(`-34609`-0),(F^`Udb`)(`-34908`-0),(F^`rz`)(`-34724`-0),(F^`Qm`)(`-34716`-0),(F^`iH`)(`-34674`-0),(F^`Ms`)(`-34645`-0),(F^`ulb`)(`-34435`-0),(F^`eF`)(`-34362`-0),(F^`jmb`)(`-34520`-0),(F^`A0`)(`-34746`-0),(F^`v`)(`-34823`-0),(F^`xob`)(`-34888`-0),(F^`QB`)(`-34898`-0),(F^`NM`)(`-34942`-0),(F^`eI`)(`-34801`-0),(F^`Ry`)(`-34452`-0),(F^`g1`)(`-34704`-0),(F^`Qb`)(`-34695`-0),(F^`lib`)(`-34857`-0),(F^`fl`)(`-34813`-0),(F^`we`)(`-34713`-0),(F^`dd`)(`-34639`-0),(F^`Qn`)(`-34747`-0)},`21043763564162`-0)];(O)[p.T7]=B;(L/`xV`)(R..u*`q9`)B=`604613`-0(L/`EJ`)(R..nil)end end else if B*(`1`-0)<(`10050744`-0)*(`1`-0)then if(`9446311`-0)-(`0`-0)>B-(`0`-0)then if(`9190257`-0)*(`1`-0)>B*(`1`-0)then(L/`s4`)(P..l^`gJ`)B=N-`i4`B=`4665263`-0 else(L/`nq`)(h+true)B=`7622196`-0(r)[y^`hQ`]=h/`bU`end else if(B+(`10001876`-0))-(`10001876`-0)<`10001876`-0 then(L/`Gw`)(Ls*(`1`-0));(L/`T5`)(Cs..(c-`sh`==Ls/`zfb`))B=Cs+`WW`and`4474942`-0 or`10056951`-0 else B=`0`-0(L/`cr`)(u..(S)[`1`-0]);(L/`Tl`)(p*((T+`nS`))[(Y*`u7`)((F^`h5`)(`-34896`-0),`13690256681037`-0)]);(L/`B3`)(s-B)B=(O)[p.cgb];(L/`ZC`)(R..{B(u*`Um`)});(L/`Zdb`)(p*(R.Xb)[`1`-0]);(L/`O7`)(v..(R.gib)[`2`-0]);(L/`hq`)((y)[(R.ov)[`3`-0] ]);(L/`ym`)(R..p.xD)B=`8164683`-0 end end else if`10571833`-0>B then if`10066353`-0>(B-(`10066353`-0))+(`10066353`-0)then B=`15584272`-0 else(L/`rf`)((D)[I()]);(L/`yo`)(P..((T+`JO`))[(Y*`zL`)((F^`whb`)(`-34377`-0),`5820208113684`-0)]);(L/`Pc`)(h+nil);(r)[D*`J3`]=h/`nR`(L/`JA`)(h+(O)[P.hV]);(L/`D5`)(n+X(`1249884`-0,{D*`xr`}));(L/`Pdb`)(P..(h/`Vs`)(n^`Fu`));(L/`Cn`)(n+(r)[D*`vkb`]);(L/`Mhb`)(h+not n^`TV`)B=h/`Kib`and`9309255`-0 or`7622196`-0 end else(L/`yA`)(k+true)B=k/`tZ`and`5993528`-0 or`15724971`-0 end end end else if`11593878`-0>(B+(`11593878`-0))-(`11593878`-0)then if`11223373`-0>(B+(`11223373`-0))-(`11223373`-0)then if`10774761`-0>(B-(`10774761`-0))+(`10774761`-0)then if`10690695`-0>B then B=`8967412`-0(L/`kT`)(g..((T+`HE`))[(Y*`Fn`)((F^`NB`)(`-34417`-0),`10491680694563`-0)]);(L/`c2`)((G)[(O)[g-`ME`] ]);(L/`Gd`)(l/(G..`zu`))else(L/`TV`)(E/(r)[y^`Sy`])B=E^`fT`and`8867798`-0 or`11217855`-0 end else if B-(`10936788`-0)<`0`-0 then(L/`Kg`)((D)[`1`-0]);(L/`JE`)(h+(t-`Vk`)());(L/`wG`)(h+(t-`P7`)(D*`oob`))B=`10126306`-0 else(L/`tX`)(x*B);(L/`pO`)(P..((T+`AW`))[(Y*`Tgb`)((F^`or`)(`-34549`-0),`19621247244004`-0)]);(L/`eu`)(d-((T+`imb`))[(Y*`Jdb`)((F^`KQ`)(`-34910`-0),`21813485688377`-0)]);(L/`Qy`)((D)[(O)[P.rh] ]);(L/`rM`)(P..((T+`IV`))[(Y*`Jw`)(j.ofb{`1`-0,`2`-0,(F^`N9`)(`-34364`-0),(F^`XQ`)(`-34854`-0)},`12249107105502`-0)]);(L/`lF`)(t..((D*`Umb`))[P.Pe]);(L/`or`)((D)[(t-`Plb`)()]);(L/`Ykb`)(P..(O)[d^`TR`]);(L/`tab`)(d-((T+`h3`))[(Y*`lr`)(j.ZI{`2`-0,`1`-0,(F^`dm`)(`-34523`-0),(F^`Slb`)(`-34321`-0)},`8944154934457`-0)]);(L/`hB`)(t..(P.Fgb)[d^`pR`]);(L/`SZ`)(P..(t-`VY`)());(L/`Um`)(b+(D*`peb`==P.Nq));(L/`Olb`)(E/(b/`qB`))B=b/`Rw`and`8575500`-0 or`2119149`-0 end end else if`0`-0>B-(`11565390`-0)then if(B+(`11260164`-0))-(`11260164`-0)<`11260164`-0 then(L/`Onb`)(n+((T+`W0`))[(Y*`IK`)((F^`Fg`)(`-34495`-0),`17364989967781`-0)]);(L/`B`)(t..o(`12927004`-0,{y^`Q3`}));(L/`Agb`)(P..(O)[n^`RB`]);(L/`uE`)(n+((T+`Pz`))[(Y*`Zc`)(j.Ek{`2`-0,`1`-0,(F^`Uq`)(`-34887`-0),(F^`Oh`)(`-34757`-0)},`12729132883044`-0)]);(L/`kkb`)((D)[(P.Uw)[n^`yE`] ]);(L/`bhb`)(d-(`2`-0));(L/`gK`)(n+(`1`-0));(L/`xl`)(P..(D*`nT`)(n^`jU`,d^`Fjb`));(L/`UG`)((D)[`1`-0]);(L/`o7`)(h+(P.F_==D*`M_`))B=h/`PX`and`16401895`-0 or`10813264`-0 else B=(O)[((T+`h0`))[(Y*`tlb`)(j.tnb{`2`-0,`3`-0,`1`-0,(F^`jN`)(`-34856`-0),(F^`FI`)(`-34877`-0),(F^`fS`)(`-34606`-0)},`5223294841571`-0)] ];(L/`VI`)(u..nil);(L/`hd`)(p*{})end else(L/`TL`)(p*((T+`Fd`))[(Y*`NI`)(j.IM{`2`-0,`1`-0,(F^`vs`)(`-34437`-0),(F^`vG`)(`-34790`-0)},`31888846486200`-0)]);(L/`yn`)((y)[((T+`Ys`))[(Y*`uB`)(j.JT{`2`-0,`1`-0,(F^`ob`)(`-34308`-0),(F^`Vfb`)(`-34744`-0)},`7500536746340`-0)] ]);(L/`hb`)(s-((T+`HI`))[(Y*`bnb`)((F^`rY`)(`-34485`-0),`7189201062037`-0)]);(L/`k0`)(v..((T+`pkb`))[(Y*`cR`)(j.J_{`3`-0,`8`-0,`9`-0,`12`-0,`14`-0,`11`-0,`7`-0,`2`-0,`10`-0,`13`-0,`6`-0,`4`-0,`1`-0,`5`-0,(F^`RC`)(`-34773`-0),(F^`l1`)(`-34879`-0),(F^`Cib`)(`-34642`-0),(F^`uR`)(`-34769`-0),(F^`Smb`)(`-34406`-0),(F^`jC`)(`-34451`-0),(F^`CH`)(`-34599`-0),(F^`Eh`)(`-34802`-0),(F^`Wh`)(`-34832`-0),(F^`xl`)(`-34895`-0),(F^`Xt`)(`-34765`-0),(F^`iZ`)(`-34868`-0),(F^`tu`)(`-34681`-0),(F^`od`)(`-34787`-0)},`14496337808590`-0)])B=(O)[p.vpb];(L/`ku`)(u..(O)[s..`sX`]);(L/`aq`)((y)[((u*`b5`))[y^`Sh`] ]);(L/`Zp`)(s-{(y^`V1`)(u*`KG`,v.CB)});(L/`Xh`)(p*B(z(s..`hc`)))B=p.Lj()B=(O)[((T+`ct`))[(Y*`DI`)(j.i3{`1`-0,`2`-0,`3`-0,(F^`ac`)(`-34454`-0),(F^`x4`)(`-34596`-0),(F^`wk`)(`-34566`-0)},`31368294009851`-0)] ];(L/`vm`)(p*{})end end else if`0`-0>B-(`12400044`-0)then if`11960079`-0>(B+(`11960079`-0))-(`11960079`-0)then if`11725222`-0>B then(L/`kI`)(p*{d^`Jlb`})B=(O)[((T+`fy`))[(Y*`b0`)(j.pmb{`1`-0,`2`-0,`3`-0,(F^`hmb`)(`-34264`-0),(F^`Umb`)(`-34936`-0),(F^`Ueb`)(`-34658`-0)},`27497749479494`-0)] ]else(L/`T6`)((N)[o(`10001965`-0,{l^`AS`})]);(L/`qeb`)(U..((T+`nbb`))[(Y*`Mab`)(j.aab{`1`-0,`2`-0,(F^`jO`)(`-34551`-0),(F^`jj`)(`-34318`-0)},`1192504114139`-0)]);(L/`Ck`)(a+(O)[U-`gQ`]);(L/`Wz`)(U..((T+`Qjb`))[(Y*`gR`)(j.d3{`3`-0,`2`-0,`1`-0,(F^`xpb`)(`-34943`-0),(F^`iT`)(`-34560`-0),(F^`VW`)(`-34922`-0)},`20310923457702`-0)]);(L/`zP`)(c/((T+`HV`))[(Y*`Zgb`)(j.nf{`1`-0,`2`-0,(F^`Lu`)(`-34918`-0),(F^`AZ`)(`-34926`-0)},`16009688308997`-0)]);(L/`Ly`)(U..(a.BX)[U-`tj`]);(L/`sjb`)(U..(U-`oib`)(a.m2));(L/`pB`)(a+(O)[c-`Zj`]);(L/`eV`)(Q*(r)[l^`p_`]);(L/`NY`)(W^(#(U-`Rfb`)));(L/`Nm`)(K*{(Q/`XP`)(W*`a0`)});(L/`Ucb`)(c/a.eK(z(K^`OT`)));(L/`ZN`)(Q*((T+`w_`))[(Y*`kU`)(j.N4{`1`-0,`2`-0,(F^`YU`)(`-34552`-0),(F^`aD`)(`-34771`-0)},`5301928304216`-0)]);(L/`DX`)(a+(O)[Q/`n7`]);(L/`bs`)(K*(r)[l^`JT`]);(L/`rC`)(Ys*#(U-`yc`));(L/`RC`)(W^{(K^`mdb`)(Ys-`dU`)});(L/`op`)(Q*a.ez(z(W*`dl`)));(L/`ZV`)(W^B);(L/`eR`)(a+(N-`hnb`)(U-`ufb`));(L/`WU`)(Ys*(c-`gt`~=Q/`ZZ`));(L/`EO`)(K*(Ys-`Cr`))B=Ys-`YR`and`8821240`-0 or`5379787`-0 end else(L/`rI`)((D)[B]);(L/`deb`)(d-((T+`HT`))[(Y*`pl`)((F^`Xob`)(`-34615`-0),`20203838936758`-0)]);(L/`EW`)(P..(O)[d^`Ub`])B=P.IH and`8602402`-0 or`1849257`-0(L/`YN`)(t..P.WV)end else if(`12862426`-0)*(`1`-0)>B*(`1`-0)then if`0`-0>B-(`12646411`-0)then(L/`nG`)((i)[m(`13486358`-0,{y^`qr`})]);(L/`kh`)(t..((T+`Yf`))[(Y*`MO`)((F^`Ei`)(`-34837`-0),`25030112048462`-0)]);(L/`nfb`)(H/((T+`Zh`))[(Y*`w8`)((F^`Pab`)(`-34691`-0),`29904068517522`-0)]);(L/`yr`)(b+I());(r)[b/`VX`]=i+`Oo`(L/`a_`)((i)[(r)[b/`Jv`] ]);(O)[H..`Ui`]=i+`Zb`(L/`li`)(h+J(`5907830`-0,{b/`TB`,y^`PD`}));(L/`Ghb`)(H/(O)[t-`Flb`]);(L/`t8`)(t..(H..`dG`)(h/`hs`));(L/`sk`)(t..((T+`Ix`))[(Y*`Ubb`)((F^`J7`)(`-34651`-0),`23208284929415`-0)]);(L/`ms`)(h+((T+`b3`))[(Y*`pD`)(j.gf{`2`-0,`1`-0,`3`-0,(F^`e`)(`-34541`-0),(F^`NK`)(`-34666`-0),(F^`Cb`)(`-34423`-0)},`17658403582995`-0)]);(L/`FZ`)(H/(O)[t-`LZ`]);(L/`Tgb`)(t..((T+`vl`))[(Y*`Jp`)(j.njb{`2`-0,`3`-0,`1`-0,(F^`l5`)(`-34528`-0),(F^`teb`)(`-34778`-0),(F^`bG`)(`-34439`-0)},`727717231415`-0)]);(L/`Rib`)(t..((H..`Fb`))[t-`nJ`]);(L/`zV`)(t..(t-`Fi`)(H..`Rs`,h/`Cu`))B=t-`zp`and`2778876`-0 or`11239218`-0 else(L/`WR`)((q)[(q+`HH`)+js.Gkb]);(L/`xJ`)(Ys*(q+`ZX`<=Ts-`Anb`));(L/`r_`)(Bs-not(Os/`bF`));(L/`tY`)(Ys*(Bs^`ie`and Ys-`Ee`));(L/`L_`)(Bs-(q+`l5`>=Ts-`yl`));(L/`dP`)(Bs-(Os/`Jj`and Bs^`jN`));(L/`kO`)(Ys*(Bs^`lz`or Ys-`ed`));(L/`EY`)(Bs-(`1621077`-0))B=Ys-`wd`and Bs^`qdb`(L/`ut`)(Ys*(`2229859`-0))B=B or Ys-`yjb`end else(L/`uw`)(p*(`1`-0));(L/`wO`)(u..(S)[`1`-0])B=u*`fmb`==p.aY B=B and`4869355`-0 or`6928581`-0 end end end end else if(B+(`15009102`-0))-(`15009102`-0)<`15009102`-0 then if`14251687`-0>(B-(`14251687`-0))+(`14251687`-0)then if(B+(`13906822`-0))-(`13906822`-0)<`13906822`-0 then if`13608553`-0>(B+(`13608553`-0))-(`13608553`-0)then if`13122953`-0>(B+(`13122953`-0))-(`13122953`-0)then(L/`R_`)(d-((T+`Ijb`))[(Y*`Iab`)(j.jD{`5`-0,`3`-0,`1`-0,`2`-0,`6`-0,`4`-0,`7`-0,(F^`XQ`)(`-34679`-0),(F^`kT`)(`-34535`-0),(F^`Lob`)(`-34914`-0),(F^`qT`)(`-34476`-0),(F^`XK`)(`-34363`-0),(F^`mp`)(`-34709`-0),(F^`kY`)(`-34618`-0)},`16900856240611`-0)]);(L/`Kbb`)(l/I());(L/`Cg`)(g..((T+`Mq`))[(Y*`oX`)(j.Oob{`2`-0,`1`-0,(F^`anb`)(`-34948`-0),(F^`KD`)(`-34561`-0)},`248854863278`-0)]);(L/`rj`)(a+((T+`oN`))[(Y*`j`)(j.zt{`1`-0,`2`-0,(F^`Z6`)(`-34584`-0),(F^`TJ`)(`-34655`-0)},`5468568827310`-0)]);(L/`Cx`)((N)[Z(`13620880`-0,{})]);(r)[l^`G0`]=N-`ao`(L/`Amb`)((G)[(O)[g-`Kw`] ]);(L/`qw`)(U..((T+`D8`))[(Y*`Ww`)((F^`MU`)(`-34529`-0),`32148341752657`-0)]);(L/`SV`)(g..((T+`aS`))[(Y*`R6`)((F^`Pn`)(`-34493`-0),`22317239477214`-0)]);(L/`EZ`)((N)[((G..`wG`))[g-`Ry`] ]);(L/`Sf`)(g..((T+`ukb`))[(Y*`tI`)((F^`zJ`)(`-34306`-0),`13576046350395`-0)]);(L/`Meb`)((G)[(N-`kf`)(g-`Gu`)]);(L/`oW`)(g..(O)[a.NU]);(L/`aZ`)(c/((T+`tA`))[(Y*`re`)((F^`oR`)(`-34416`-0),`19952151513322`-0)]);(L/`zfb`)(a+((T+`Q2`))[(Y*`hT`)((F^`VS`)(`-34906`-0),`18028535279158`-0)]);(L/`d6`)((N)[((g-`vE`))[a.yM] ]);(L/`ceb`)(a+((T+`Oz`))[(Y*`mnb`)((F^`Wab`)(`-34951`-0),`27752682093280`-0)]);(L/`pq`)(g..(N-`e2`)(a.dv));(L/`kD`)(a+((G..`Pu`))[U-`tq`]);(L/`L0`)(U..((g-`R1`))[c-`mj`]);(L/`xt`)((N)[a.ajb~=U-`wU`])B=N-`Fh`and`15009348`-0 or`1745076`-0 else B=true(r)[(e)[`1`-0] ]=B;(L/`Hmb`)(p*{})B=(O)[((T+`jj`))[(Y*`PY`)(j.rc{`1`-0,`3`-0,`2`-0,(F^`FS`)(`-34469`-0),(F^`Vh`)(`-34323`-0),(F^`vv`)(`-34730`-0)},`31071824695251`-0)] ]end else if(B+(`13620905`-0))-(`13620905`-0)<`13620905`-0 then(L/`Fbb`)(s-((T+`IP`))[(Y*`B_`)((F^`IL`)(`-34326`-0),`2869470178545`-0)]);(L/`DY`)((y)[`900000000.0`-0]);(L/`XS`)(u..(S)[`1`-0]);(L/`Cw`)(p*((T+`Xc`))[(Y*`Agb`)((F^`ju`)(`-34430`-0),`16215683692011`-0)])B=(p.fs)[s..`RZ`];(L/`iQ`)(v..((T+`An`))[(Y*`w6`)(j.je{`1`-0,`2`-0,(F^`su`)(`-34804`-0),(F^`Wh`)(`-34869`-0)},`17460958732384`-0)]);(L/`cX`)(s-(O)[v.Q3]);(L/`To`)(v..(s..`Rl`)(u*`bm`));(L/`pJ`)(s-(`1`-0));(L/`XZ`)(p*{B(v.Opb,s..`zB`,y^`Nlb`)});(L/`vH`)(p*{z(p.UI)})B=(O)[((T+`WT`))[(Y*`VW`)(j.Md{`3`-0,`1`-0,`2`-0,(F^`nr`)(`-34789`-0),(F^`FP`)(`-34525`-0),(F^`AV`)(`-34442`-0)},`782091729728`-0)] ]else(L/`hi`)(l/((T+`yeb`))[(Y*`Hh`)(j.KK{`2`-0,`1`-0,(F^`dU`)(`-34623`-0),(F^`ng`)(`-34500`-0)},`14751088929351`-0)]);(L/`qnb`)(d-(O)[l^`bjb`]);(L/`qN`)(l/((T+`icb`))[(Y*`gw`)(j.RW{`2`-0,`1`-0,(F^`qw`)(`-34788`-0),(F^`cF`)(`-34759`-0)},`24316708243342`-0)]);(L/`cj`)(P..((d^`VT`))[l^`NS`])B=`1512411`-0(L/`icb`)(t..P.QA)end end else if(B+(`14116292`-0))-(`14116292`-0)<`14116292`-0 then if`0`-0>B-(`14091943`-0)then(L/`og`)(g..((T+`h6`))[(Y*`dE`)(j.Kab{`1`-0,`2`-0,(F^`Z2`)(`-34796`-0),(F^`Py`)(`-34937`-0)},`126930017752`-0)]);(L/`bh`)((N)[B]);(L/`nab`)((G)[(O)[g-`aN`] ]);(L/`vgb`)(l/(G..`epb`))B=G..`Ku`and`8967412`-0 or`10689637`-0 else B=`11564073`-0(L/`Cx`)(s-nil)end else(L/`Dn`)(u..`100`-0);(L/`iz`)(p*(`1`-0));(L/`r0`)(s-u*`Kn`);(L/`zg`)(u..`1`-0);(L/`ag`)(v..u*`Ccb`)B=`604613`-0(L/`Sy`)(u..`0`-0);(L/`JC`)((y)[v.Nk<u*`c_`]);(L/`Mo`)(u..p.ZB-v.agb)end end else if B+(`0`-0)<(`14645471`-0)+(`0`-0)then if(`14562020`-0)-(`0`-0)>B-(`0`-0)then if`14466026`-0>(B+(`14466026`-0))-(`14466026`-0)then B=`15271232`-0 else B=(O)[((T+`JN`))[(Y*`Yy`)(j.mF{`1`-0,`2`-0,`3`-0,(F^`xQ`)(`-34736`-0),(F^`Djb`)(`-34353`-0),(F^`Vc`)(`-34372`-0)},`18950670185193`-0)] ];(L/`cn`)(p*{v.gd})end else B=`1`-0(L/`Yz`)(k+y^`qdb`);(L/`bI`)(E/nil);(L/`Odb`)(k+nil)s.kab+=B B=`8164683`-0 end else if(B+(`14955647`-0))-(`14955647`-0)<`14955647`-0 then if B<`14846883`-0 then B=true(r)[(e)[`1`-0] ]=B;(L/`uL`)(p*{})B=(O)[((T+`pw`))[(Y*`rx`)(j.RL{`3`-0,`2`-0,`1`-0,(F^`UB`)(`-34393`-0),(F^`JL`)(`-34545`-0),(F^`pq`)(`-34305`-0)},`24935582683638`-0)] ]else(L/`in`)(t..((T+`pj`))[(Y*`Kp`)(j.p_{`7`-0,`10`-0,`8`-0,`2`-0,`6`-0,`4`-0,`9`-0,`5`-0,`3`-0,`1`-0,(F^`Qu`)(`-34408`-0),(F^`qu`)(`-34441`-0),(F^`Oj`)(`-34818`-0),(F^`DN`)(`-34636`-0),(F^`sjb`)(`-34858`-0),(F^`Gt`)(`-34850`-0),(F^`Ht`)(`-34872`-0),(F^`yF`)(`-34497`-0),(F^`LY`)(`-34766`-0),(F^`a9`)(`-34647`-0)},`5238794860550`-0)])B=(O)[((T+`ph`))[(Y*`zV`)(j.Job{`1`-0,`2`-0,`3`-0,(F^`JU`)(`-34954`-0),(F^`Rmb`)(`-34902`-0),(F^`Tab`)(`-34548`-0)},`30231718946730`-0)] ];(L/`bi`)(p*{t-`kd`})end else B=`11564073`-0(L/`XA`)(s-nil)end end end else if B<`15754862`-0 then if B-(`15476406`-0)<`0`-0 then if B*(`1`-0)<(`15287881`-0)*(`1`-0)then if B-(`15248777`-0)<`0`-0 then(L/`H6`)(p*{d^`hr`})B=(O)[((T+`Glb`))[(Y*`pq`)(j.so{`1`-0,`2`-0,`3`-0,(F^`Rbb`)(`-34421`-0),(F^`cU`)(`-34728`-0),(F^`cbb`)(`-34415`-0)},`744733696988`-0)] ]else(L/`lD`)(Cs..((T+`Bcb`))[(Y*`Nj`)(j.bfb{`1`-0,`2`-0,(F^`TV`)(`-34486`-0),(F^`Mmb`)(`-34367`-0)},`18691911146729`-0)]);(L/`f8`)((gs)[true]);((y2+`Nfb`))[`23`-0]=true(L/`r2`)(vs..((T+`fQ`))[(Y*`Tj`)(j.XS{`3`-0,`4`-0,`1`-0,`2`-0,(F^`fjb`)(`-34653`-0),(F^`Y1`)(`-34751`-0),(F^`DA`)(`-34866`-0),(F^`j8`)(`-34795`-0)},`5839505973412`-0)]);((y2+`Sjb`))[`1`-0]=true(L/`Mu`)(Y2+((T+`hfb`))[(Y*`Un`)(j.DQ{`2`-0,`1`-0,(F^`rg`)(`-34755`-0),(F^`TZ`)(`-34526`-0)},`9777217440101`-0)]);(L/`li`)(b+A(b/`Pl`));((y2+`ky`))[`52`-0]=((T+`W4`))[(Y*`Xfb`)(j.ng{`3`-0,`1`-0,`4`-0,`2`-0,(F^`ZY`)(`-34780`-0),(F^`CK`)(`-34543`-0),(F^`up`)(`-34912`-0),(F^`mi`)(`-34277`-0)},`13452432441003`-0)];((y2+`sm`))[`66`-0]=((T+`leb`))[(Y*`P6`)(j.Ecb{`5`-0,`1`-0,`4`-0,`2`-0,`3`-0,(F^`K3`)(`-34431`-0),(F^`qw`)(`-34473`-0),(F^`ae`)(`-34317`-0),(F^`IA`)(`-34841`-0),(F^`aT`)(`-34350`-0)},`2641808565873`-0)];(L/`HX`)(T2^true);((y2+`vs`))[`54`-0]=((T+`mib`))[(Y*`TQ`)(j.MQ{`1`-0,`4`-0,`2`-0,`3`-0,(F^`Jn`)(`-34304`-0),(F^`F7`)(`-34913`-0),(F^`rab`)(`-34391`-0),(F^`Ufb`)(`-34348`-0)},`6087129417780`-0)];(L/`qp`)(Ss+true);((y2+`Nj`))[`46`-0]=((T+`u9`))[(Y*`mN`)(j.HJ{`2`-0,`3`-0,`1`-0,`4`-0,(F^`jmb`)(`-34347`-0),(F^`dab`)(`-34631`-0),(F^`g6`)(`-34378`-0),(F^`Ao`)(`-34903`-0)},`26281910373066`-0)];((y2+`Klb`))[`53`-0]=true((y2+`u1`))[`43`-0]=true(L/`iO`)((y)[A(y^`GY`)]);(L/`fp`)(Es-((T+`yo`))[(Y*`Kx`)(j.SK{`1`-0,`2`-0,`4`-0,`3`-0,(F^`vib`)(`-34346`-0),(F^`Tjb`)(`-34783`-0),(F^`Kq`)(`-34554`-0),(F^`Ds`)(`-34289`-0)},`26350152590845`-0)]);(L/`jmb`)(a+true);(L/`og`)(B2..((T+`kp`))[(Y*`zy`)(j.dg{`1`-0,`2`-0,(F^`Ev`)(`-34685`-0),(F^`n6`)(`-34831`-0)},`20131207605398`-0)]);(L/`hG`)(Q*((T+`ec`))[(Y*`An`)(j.Fe{`3`-0,`2`-0,`4`-0,`1`-0,(F^`JU`)(`-34715`-0),(F^`En`)(`-34710`-0),(F^`YT`)(`-34731`-0),(F^`VV`)(`-34686`-0)},`17662051848409`-0)]);((y2+`Snb`))[`2`-0]=((T+`Rg`))[(Y*`jN`)(j.D2{`3`-0,`2`-0,`4`-0,`1`-0,(F^`Rlb`)(`-34553`-0),(F^`AI`)(`-34958`-0),(F^`Cv`)(`-34504`-0),(F^`WZ`)(`-34519`-0)},`17497298939989`-0)];(L/`ibb`)(cs..true);((y2+`Aeb`))[`10`-0]=((T+`h6`))[(Y*`T1`)(j.wb{`1`-0,`2`-0,`3`-0,(F^`clb`)(`-34568`-0),(F^`mh`)(`-34538`-0),(F^`ahb`)(`-34328`-0)},`19524899700188`-0)];((y2+`igb`))[`28`-0]=((T+`n4`))[(Y*`Pf`)(j.v2{`2`-0,`1`-0,(F^`Xe`)(`-34448`-0),(F^`Od`)(`-34536`-0)},`8327443391524`-0)];(L/`Jp`)(v..nil);(L/`Gk`)(Zs/((T+`pF`))[(Y*`mfb`)(j.dF{`4`-0,`3`-0,`2`-0,`1`-0,(F^`yG`)(`-34611`-0),(F^`nl`)(`-34463`-0),(F^`LB`)(`-34604`-0),(F^`zO`)(`-34381`-0)},`29969960849425`-0)]);(L/`cy`)(l/true);(L/`Dt`)(Ms^((T+`qY`))[(Y*`bjb`)(j.Bb{`1`-0,`2`-0,`5`-0,`4`-0,`3`-0,(F^`TC`)(`-34689`-0),(F^`l3`)(`-34433`-0),(F^`cJ`)(`-34745`-0),(F^`R5`)(`-34855`-0),(F^`LQ`)(`-34459`-0)},`5173446421536`-0)]);(L/`Qcb`)(s-nil);(L/`wV`)((y)[((T+`AH`))[(Y*`wN`)(j.tE{`2`-0,`1`-0,(F^`Rlb`)(`-34791`-0),(F^`Rfb`)(`-34702`-0)},`16799735061847`-0)] ]);(L/`Tp`)((N)[((T+`Bab`))[(Y*`Fj`)(j.P9{`2`-0,`3`-0,`1`-0,(F^`nU`)(`-34597`-0),(F^`fC`)(`-34677`-0),(F^`Y0`)(`-34859`-0)},`26089608732236`-0)] ]);(L/`F4`)(Ks..((T+`jn`))[(Y*`Zjb`)(j.bV{`2`-0,`3`-0,`1`-0,(F^`Ho`)(`-34294`-0),(F^`hfb`)(`-34491`-0),(F^`jbb`)(`-34777`-0)},`12275959898427`-0)]);(L/`Wkb`)(s2-true);(L/`wc`)((xs)[true]);(L/`Hdb`)(Ys*((T+`MD`))[(Y*`kZ`)(j.BN{`4`-0,`3`-0,`1`-0,`2`-0,(F^`nlb`)(`-34957`-0),(F^`zH`)(`-34764`-0),(F^`GL`)(`-34723`-0),(F^`un`)(`-34729`-0)},`14634457425441`-0)]);((y2+`Khb`))[`62`-0]=((T+`Ok`))[(Y*`bY`)(j.Lq{`2`-0,`1`-0,`3`-0,(F^`qfb`)(`-34940`-0),(F^`Vr`)(`-34278`-0),(F^`sD`)(`-34754`-0)},`17749331776941`-0)];(L/`Enb`)((q)[true]);((y2+`Mhb`))[`30`-0]=((T+`jhb`))[(Y*`mK`)(j.kJ{`1`-0,`3`-0,`2`-0,(F^`so`)(`-34843`-0),(F^`iy`)(`-34586`-0),(F^`Dgb`)(`-34401`-0)},`17891713350567`-0)];(L/`Vib`)(fs..true);(L/`GW`)(ks-true);(L/`zbb`)(v..(O)[y^`Gn`]);(L/`qY`)(hs+true);((y2+`neb`))[`44`-0]=((T+`kR`))[(Y*`VV`)(j.EW{`3`-0,`2`-0,`4`-0,`1`-0,(F^`al`)(`-34941`-0),(F^`Zib`)(`-34688`-0),(F^`tK`)(`-34375`-0),(F^`HX`)(`-34880`-0)},`11354087706977`-0)];(L/`j_`)(O2..true);((y2+`igb`))[`6`-0]=((T+`uS`))[(Y*`PG`)(j.Zm{`2`-0,`4`-0,`1`-0,`3`-0,(F^`lcb`)(`-34337`-0),(F^`O4`)(`-34292`-0),(F^`nv`)(`-34875`-0),(F^`Oo`)(`-34359`-0)},`31275025779186`-0)];((y2+`Zlb`))[`37`-0]=true(L/`Xr`)(P..true);(L/`Ox`)(ss^true);(L/`mg`)(Ds+((T+`Ab`))[(Y*`q6`)(j.oC{`3`-0,`2`-0,`1`-0,(F^`RP`)(`-34446`-0),(F^`xpb`)(`-34530`-0),(F^`nR`)(`-34589`-0)},`192436971012`-0)]);((y2+`u`))[`35`-0]=true(L/`BU`)(v2-((T+`SA`))[(Y*`Ndb`)(j.OQ{`1`-0,`3`-0,`2`-0,(F^`MQ`)(`-34826`-0),(F^`JG`)(`-34428`-0),(F^`Hw`)(`-34909`-0)},`2615422174037`-0)]);(L/`R6`)(Is/((T+`fT`))[(Y*`L0`)(j.ru{`3`-0,`1`-0,`2`-0,(F^`rO`)(`-34462`-0),(F^`aab`)(`-34319`-0),(F^`fb`)(`-34762`-0)},`1041029154842`-0)]);((y2+`iI`))[`26`-0]=((T+`kx`))[(Y*`bT`)(j.qkb{`1`-0,`4`-0,`2`-0,`3`-0,(F^`Vv`)(`-34853`-0),(F^`Bob`)(`-34740`-0),(F^`ff`)(`-34629`-0),(F^`Dv`)(`-34805`-0)},`34053940650678`-0)];((y2+`uib`))[`14`-0]=((T+`sy`))[(Y*`TE`)(j.N_{`2`-0,`3`-0,`1`-0,`4`-0,(F^`SW`)(`-34665`-0),(F^`wR`)(`-34693`-0),(F^`MI`)(`-34524`-0),(F^`ohb`)(`-34380`-0)},`5940853688815`-0)];(L/`eZ`)(bs..true);(L/`Rjb`)((y)[v.kl()]);(L/`sW`)(is*((T+`nZ`))[(Y*`Qgb`)(j.m0{`1`-0,`2`-0,(F^`ijb`)(`-34396`-0),(F^`F2`)(`-34299`-0)},`112027137313`-0)]);(L/`xk`)(v..((T+`iZ`))[(Y*`zL`)(j.KM{`1`-0,`2`-0,(F^`tV`)(`-34578`-0),(F^`V5`)(`-34708`-0)},`31036798013636`-0)]);(L/`iQ`)(Hs^((T+`aJ`))[(Y*`Cnb`)(j.E6{`1`-0,`2`-0,(F^`Tw`)(`-34434`-0),(F^`dob`)(`-34676`-0)},`29712707703867`-0)]);(L/`Bd`)(R..A(R.MW));((y2+`nA`))[`20`-0]=((T+`bob`))[(Y*`mL`)(j.Knb{`2`-0,`3`-0,`1`-0,(F^`WX`)(`-34397`-0),(F^`sf`)(`-34445`-0),(F^`ko`)(`-34737`-0)},`3673724367164`-0)];(L/`bM`)(R..((T+`gn`))[(Y*`Ty`)(j.Mq{`8`-0,`6`-0,`7`-0,`1`-0,`5`-0,`4`-0,`3`-0,`2`-0,(F^`j1`)(`-34352`-0),(F^`Fkb`)(`-34794`-0),(F^`bv`)(`-34690`-0),(F^`lz`)(`-34683`-0),(F^`mhb`)(`-34515`-0),(F^`ZJ`)(`-34799`-0),(F^`MN`)(`-34291`-0),(F^`W1`)(`-34962`-0)},`5088607288288`-0)]);((y^`X7`))[v.g4]=R.xZ;(L/`AA`)((D)[((T+`wob`))[(Y*`wj`)((F^`Rx`)(`-34822`-0),`12256151164070`-0)] ]);(L/`W8`)(ms..true);(L/`I1`)(es..true);(L/`adb`)((y)[((T+`adb`))[(Y*`y5`)(j.oe{`1`-0,`2`-0,(F^`afb`)(`-34814`-0),(F^`K_`)(`-34760`-0)},`34031570517595`-0)] ]);((y2+`nL`))[`60`-0]=((T+`rd`))[(Y*`Tm`)(j.oG{`1`-0,`3`-0,`2`-0,(F^`Rd`)(`-34475`-0),(F^`NF`)(`-34567`-0),(F^`hn`)(`-34494`-0)},`5208902047774`-0)];(L/`rjb`)(Ps^true);((y2+`Lp`))[`21`-0]=true((y2+`qX`))[`31`-0]=true(L/`Wf`)(Os+((T+`Qlb`))[(Y*`mob`)(j.pK{`1`-0,`2`-0,`3`-0,`4`-0,(F^`FY`)(`-34369`-0),(F^`R9`)(`-34290`-0),(F^`AD`)(`-34784`-0),(F^`Xbb`)(`-34470`-0)},`9487932117253`-0)]);(L/`P_`)(F2-true);(L/`Ke`)(v..(O)[y^`M7`]);((y2+`Bw`))[`58`-0]=((T+`Fc`))[(Y*`tT`)(j.KK{`3`-0,`2`-0,`1`-0,(F^`wV`)(`-34921`-0),(F^`w2`)(`-34507`-0),(F^`Bp`)(`-34330`-0)},`29397970664896`-0)];(L/`Bnb`)(S2-true);(L/`Yg`)((y)[v.lY()]);((y2+`Yib`))[`22`-0]=((T+`QK`))[(Y*`Gx`)(j.PT{`2`-0,`1`-0,`3`-0,`4`-0,(F^`GY`)(`-34820`-0),(F^`L6`)(`-34894`-0),(F^`Ahb`)(`-34426`-0),(F^`uZ`)(`-34533`-0)},`576296873939`-0)];(L/`xr`)(ds..((T+`jjb`))[(Y*`Dm`)(j.GY{`1`-0,`3`-0,`4`-0,`2`-0,(F^`nC`)(`-34307`-0),(F^`neb`)(`-34512`-0),(F^`vnb`)(`-34509`-0),(F^`Ajb`)(`-34634`-0)},`20204105455011`-0)]);((y2+`Z0`))[`59`-0]=true((y2+`rP`))[`8`-0]=((T+`jg`))[(Y*`wR`)(j.qob{`1`-0,`4`-0,`2`-0,`3`-0,(F^`J3`)(`-34577`-0),(F^`cf`)(`-34966`-0),(F^`Jp`)(`-34590`-0),(F^`nD`)(`-34527`-0)},`23510598008353`-0)];(L/`R6`)(ls..true);(L/`Lc`)(ws*((T+`e0`))[(Y*`SV`)(j.w1{`2`-0,`3`-0,`1`-0,(F^`MG`)(`-34893`-0),(F^`aJ`)(`-34556`-0),(F^`Re`)(`-34384`-0)},`14167890437652`-0)]);(L/`d5`)((r2)[((T+`LG`))[(Y*`Cy`)(j.LJ{`3`-0,`4`-0,`1`-0,`2`-0,(F^`gi`)(`-34614`-0),(F^`x8`)(`-34919`-0),(F^`AJ`)(`-34376`-0),(F^`Mg`)(`-34643`-0)},`31945529512205`-0)] ]);(L/`ME`)(ns^true);(L/`a3`)(p*{});(L/`hR`)(v..((T+`Ot`))[(Y*`Uv`)(j.Yr{`2`-0,`1`-0,(F^`eB`)(`-34490`-0),(F^`rkb`)(`-34575`-0)},`27840733612488`-0)]);(L/`uN`)(R..`10659083291`-0);((y^`w_`))[v.Yt]=R.lk;((y2+`gB`))[`7`-0]=true((y2+`hL`))[`15`-0]=true(L/`T1`)((Ws)[((T+`HK`))[(Y*`Tz`)(j.Pdb{`2`-0,`1`-0,`3`-0,(F^`P1`)(`-34314`-0),(F^`hx`)(`-34803`-0),(F^`mX`)(`-34717`-0)},`16576701843028`-0)] ]);(L/`ot`)(Js+true);(L/`V3`)(R..`1`-0);((y2+`Ni`))[`4`-0]=((T+`z5`))[(Y*`B9`)(j.py{`3`-0,`1`-0,`2`-0,(F^`lw`)(`-34845`-0),(F^`NZ`)(`-34479`-0),(F^`dob`)(`-34901`-0)},`29294453621689`-0)];(L/`Gj`)((y)[((T+`X_`))[(Y*`tS`)(j.a7{`2`-0,`1`-0,(F^`lp`)(`-34916`-0),(F^`JF`)(`-34891`-0)},`28830670148454`-0)] ]);(L/`aq`)(Gs..((T+`CQ`))[(Y*`C4`)(j.HT{`1`-0,`2`-0,`3`-0,`4`-0,(F^`Up`)(`-34309`-0),(F^`Xw`)(`-34595`-0),(F^`Oz`)(`-34465`-0),(F^`MF`)(`-34885`-0)},`25827158648990`-0)]);(L/`UY`)(Vs/((T+`y5`))[(Y*`CO`)(j.Nfb{`1`-0,`2`-0,`3`-0,(F^`ib`)(`-34897`-0),(F^`rv`)(`-34836`-0),(F^`cC`)(`-34633`-0)},`12304725144943`-0)]);(L/`ft`)((Rs)[true]);(L/`yz`)(p2..true);(L/`wR`)(v..(O)[y^`HV`]);(L/`lq`)(f2^((T+`tX`))[(Y*`HU`)(j.MA{`1`-0,`3`-0,`2`-0,(F^`Mn`)(`-34273`-0),(F^`KF`)(`-34610`-0),(F^`St`)(`-34767`-0)},`5121851245630`-0)]);((y2+`P_`))[`57`-0]=true((y2+`jn`))[`38`-0]=((T+`FX`))[(Y*`RC`)(j.xK{`1`-0,`3`-0,`2`-0,(F^`W0`)(`-34819`-0),(F^`Up`)(`-34534`-0),(F^`wv`)(`-34344`-0)},`12032838798376`-0)];(L/`tX`)(Ns/((T+`Vhb`))[(Y*`Gw`)(j.En{`4`-0,`5`-0,`1`-0,`3`-0,`2`-0,(F^`p2`)(`-34763`-0),(F^`Qnb`)(`-34324`-0),(F^`Tk`)(`-34701`-0),(F^`n`)(`-34892`-0),(F^`F`)(`-34455`-0)},`5426951633802`-0)]);(L/`Vs`)((y)[v.J2()]);(L/`ng`)(v..((T+`ZM`))[(Y*`CS`)(j.Ex{`2`-0,`1`-0,(F^`Ncb`)(`-34648`-0),(F^`q_`)(`-34407`-0)},`9924765116528`-0)]);((y2+`SD`))[`56`-0]=((T+`Sj`))[(Y*`rn`)(j.J7{`1`-0,`2`-0,(F^`Q8`)(`-34570`-0),(F^`cdb`)(`-34603`-0)},`29387881812610`-0)];((y2+`sg`))[`3`-0]=true(L/`O2`)(t..true);((y2+`ucb`))[`25`-0]=true((y^`vb`))[v.KO]=R.Mf;(L/`pq`)(Fs+true);((y2+`Lmb`))[`41`-0]=true(L/`ec`)(z2..((T+`G0`))[(Y*`N0`)(j.oP{`1`-0,`4`-0,`2`-0,`3`-0,(F^`mi`)(`-34402`-0),(F^`jib`)(`-34484`-0),(F^`EM`)(`-34332`-0),(F^`Epb`)(`-34750`-0)},`9911601993345`-0)]);(L/`ml`)(rs..((T+`AX`))[(Y*`II`)(j.NM{`2`-0,`1`-0,`3`-0,(F^`b6`)(`-34886`-0),(F^`ME`)(`-34506`-0),(F^`F9`)(`-34678`-0)},`25671970237543`-0)]);((y2+`y5`))[`29`-0]=true((y2+`uV`))[`42`-0]=((T+`hu`))[(Y*`K`)(j.Ad{`3`-0,`2`-0,`1`-0,(F^`Ll`)(`-34383`-0),(F^`gnb`)(`-34409`-0),(F^`xj`)(`-34756`-0)},`14967990440712`-0)];(L/`pX`)((y)[((T+`N1`))[(Y*`aw`)(j.Mcb{`1`-0,`2`-0,(F^`Te`)(`-34956`-0),(F^`e`)(`-34272`-0)},`2004258420937`-0)] ]);(L/`WI`)(U..((T+`dV`))[(Y*`BH`)(j.plb{`3`-0,`2`-0,`5`-0,`1`-0,`4`-0,(F^`xv`)(`-34675`-0),(F^`l8`)(`-34739`-0),(F^`gM`)(`-34673`-0),(F^`Df`)(`-34571`-0),(F^`Rc`)(`-34521`-0)},`27069489333803`-0)]);(L/`Oh`)((G)[true]);((y2+`eX`))[`18`-0]=((T+`qq`))[(Y*`ai`)(j.vD{`3`-0,`2`-0,`4`-0,`5`-0,`1`-0,(F^`Kkb`)(`-34594`-0),(F^`kcb`)(`-34327`-0),(F^`MW`)(`-34388`-0),(F^`BK`)(`-34349`-0),(F^`j4`)(`-34370`-0)},`24766072464628`-0)];((y2+`Mhb`))[`65`-0]=true((y2+`qeb`))[`55`-0]=true(L/`Di`)(R..`2`-0);(L/`pab`)(b+((T+`Y_`))[(Y*`hx`)(j.ieb{`3`-0,`2`-0,`4`-0,`1`-0,(F^`Sz`)(`-34732`-0),(F^`pT`)(`-34668`-0),(F^`Cy`)(`-34398`-0),(F^`Qnb`)(`-34792`-0)},`6280643730871`-0)]);(L/`Ipb`)(us*true);(L/`n_`)((ts)[((T+`h0`))[(Y*`yX`)(j.TD{`1`-0,`3`-0,`2`-0,(F^`Ufb`)(`-34928`-0),(F^`y9`)(`-34288`-0),(F^`Pq`)(`-34719`-0)},`8132388935791`-0)] ]);((y2+`Y3`))[`61`-0]=true(L/`Z0`)(g..((T+`Hj`))[(Y*`qW`)(j.Hg{`1`-0,`2`-0,(F^`O4`)(`-34593`-0),(F^`rS`)(`-34600`-0)},`12987408984210`-0)]);(L/`rM`)((As)[((T+`ek`))[(Y*`yV`)(j.ZY{`1`-0,`2`-0,`3`-0,(F^`C1`)(`-34828`-0),(F^`OT`)(`-34456`-0),(F^`Wj`)(`-34281`-0)},`8434457363961`-0)] ]);(L/`nN`)(v..(O)[y^`Ob`]);(L/`SI`)(qs..true);((y2+`lD`))[`9`-0]=true((y2+`Bq`))[`67`-0]=true(L/`cib`)((y)[v.O4()]);((y2+`HY`))[`5`-0]=true((y2+`VE`))[`39`-0]=true((y2+`KV`))[`11`-0]=true(L/`cpb`)(I2+((T+`SJ`))[(Y*`q3`)(j.Aab{`2`-0,`1`-0,`3`-0,(F^`Ueb`)(`-34652`-0),(F^`ecb`)(`-34870`-0),(F^`zpb`)(`-34782`-0)},`8124318770436`-0)]);(L/`rC`)(w2^true);((y2+`Y4`))[`51`-0]=true(L/`jx`)(L2..true);(L/`FK`)(Xs/((T+`afb`))[(Y*`ec`)(j.ov{`3`-0,`1`-0,`2`-0,`4`-0,(F^`umb`)(`-34608`-0),(F^`zU`)(`-34654`-0),(F^`L5`)(`-34899`-0),(F^`rm`)(`-34503`-0)},`19695424026078`-0)])B=(O)[((T+`Thb`))[(Y*`qx`)(j.iP{`2`-0,`3`-0,`1`-0,(F^`jbb`)(`-34358`-0),(F^`br`)(`-34834`-0),(F^`nQ`)(`-34876`-0)},`28601538752333`-0)] ];(L/`rk`)(e2*((T+`H_`))[(Y*`Oe`)(j.cH{`3`-0,`2`-0,`1`-0,(F^`GE`)(`-34793`-0),(F^`gjb`)(`-34329`-0),(F^`Bt`)(`-34579`-0)},`1153884893094`-0)]);(L/`Uab`)(v..((T+`Aw`))[(Y*`AB`)(j.E1{`1`-0,`2`-0,`3`-0,`4`-0,(F^`Lob`)(`-34505`-0),(F^`zm`)(`-34700`-0),(F^`fgb`)(`-34706`-0),(F^`k6`)(`-34285`-0)},`29586972750720`-0)]);((y2+`RQ`))[`48`-0]=((T+`Inb`))[(Y*`l9`)(j.Xi{`2`-0,`1`-0,(F^`pA`)(`-34343`-0),(F^`LI`)(`-34365`-0)},`8480009800394`-0)];((y2+`v8`))[`50`-0]=((T+`wcb`))[(Y*`fl`)(j.PY{`1`-0,`4`-0,`3`-0,`2`-0,(F^`Ejb`)(`-34624`-0),(F^`c0`)(`-34714`-0),(F^`Mx`)(`-34312`-0),(F^`Hb`)(`-34517`-0)},`22381233850212`-0)];((y2+`XV`))[`17`-0]=true(L/`zD`)(Ts^((T+`sfb`))[(Y*`zT`)(j.kL{`1`-0,`2`-0,`3`-0,`5`-0,`4`-0,(F^`FD`)(`-34932`-0),(F^`Olb`)(`-34298`-0),(F^`clb`)(`-34341`-0),(F^`Jhb`)(`-34684`-0),(F^`vab`)(`-34296`-0)},`5983661539541`-0)]);(L/`Yu`)(zs^((T+`Acb`))[(Y*`uS`)(j.I0{`3`-0,`2`-0,`1`-0,(F^`HH`)(`-34776`-0),(F^`mX`)(`-34711`-0),(F^`NS`)(`-34588`-0)},`24441547813737`-0)]);(L/`Zp`)(ps..((T+`Jh`))[(Y*`TD`)(j.P{`2`-0,`3`-0,`4`-0,`1`-0,(F^`okb`)(`-34920`-0),(F^`XW`)(`-34917`-0),(F^`tpb`)(`-34950`-0),(F^`he`)(`-34444`-0)},`20249636198950`-0)]);(L/`BK`)(as/true);(L/`uK`)(u2*true);((y^`Ym`))[v.Af]=R.Pr;(L/`WI`)(Us*((T+`vQ`))[(Y*`r1`)(j.q2{`2`-0,`1`-0,`3`-0,(F^`nq`)(`-34960`-0),(F^`Emb`)(`-34660`-0),(F^`Iw`)(`-34387`-0)},`12638178725621`-0)]);(L/`id`)(C2-((T+`Qdb`))[(Y*`nw`)(j.Xi{`2`-0,`1`-0,`3`-0,`4`-0,(F^`c2`)(`-34727`-0),(F^`go`)(`-34557`-0),(F^`Tv`)(`-34447`-0),(F^`bI`)(`-34742`-0)},`14977000583209`-0)]);((y2+`ybb`))[`33`-0]=true((y2+`kib`))[`47`-0]=true((y2+`P3`))[`13`-0]=true(L/`I3`)(W^true);((y2+`Px`))[`49`-0]=true((y2+`vj`))[`36`-0]=((T+`OC`))[(Y*`io`)(j.Je{`2`-0,`1`-0,(F^`pX`)(`-34964`-0),(F^`Hu`)(`-34955`-0)},`1967613775395`-0)];(L/`NU`)(ys*true);(L/`Lb`)(Ls*true);((y2+`gZ`))[`34`-0]=((T+`yi`))[(Y*`RY`)(j.cW{`1`-0,`3`-0,`2`-0,(F^`q6`)(`-34835`-0),(F^`by`)(`-34846`-0),(F^`ym`)(`-34569`-0)},`25522552272509`-0)];(L/`lu`)(c/true);((y2+`Ww`))[`27`-0]=true((y2+`CO`))[`12`-0]=((T+`ip`))[(Y*`Vjb`)(j.kt{`1`-0,`3`-0,`4`-0,`2`-0,(F^`X8`)(`-34411`-0),(F^`L3`)(`-34325`-0),(F^`Gw`)(`-34878`-0),(F^`kn`)(`-34644`-0)},`335495150893`-0)];(L/`SP`)((Qs)[true]);((y2+`vE`))[`40`-0]=((T+`Xz`))[(Y*`rnb`)(j.dbb{`2`-0,`1`-0,(F^`rib`)(`-34890`-0),(F^`c_`)(`-34580`-0)},`21863127477614`-0)];(L/`Qlb`)(d-((T+`fg`))[(Y*`Eeb`)(j.wG{`1`-0,`4`-0,`2`-0,`3`-0,(F^`ru`)(`-34839`-0),(F^`GY`)(`-34502`-0),(F^`P9`)(`-34630`-0),(F^`ug`)(`-34889`-0)},`11132716444843`-0)]);(L/`SB`)((y)[((T+`RC`))[(Y*`tV`)(j.qS{`2`-0,`1`-0,(F^`A_`)(`-34873`-0),(F^`ae`)(`-34547`-0)},`32335299527051`-0)] ]);((y2+`Zob`))[`24`-0]=((T+`ow`))[(Y*`mH`)(j.YP{`1`-0,`2`-0,`3`-0,(F^`kv`)(`-34825`-0),(F^`Ou`)(`-34555`-0),(F^`Yj`)(`-34558`-0)},`30815310070463`-0)];((y2+`cx`))[`45`-0]=true((y2+`G4`))[`32`-0]=((T+`vt`))[(Y*`H9`)(j.Q4{`3`-0,`1`-0,`2`-0,`4`-0,(F^`Pib`)(`-34671`-0),(F^`Mq`)(`-34851`-0),(F^`Yjb`)(`-34335`-0),(F^`mf`)(`-34540`-0)},`15616250704502`-0)];((y2+`wC`))[`19`-0]=true(L/`PM`)(js/true);(L/`Hf`)(v..(O)[y^`apb`]);((y2+`df`))[`64`-0]=((T+`c6`))[(Y*`qL`)(j.tt{`3`-0,`2`-0,`1`-0,(F^`Xd`)(`-34907`-0),(F^`ZT`)(`-34807`-0),(F^`bu`)(`-34481`-0)},`31995737515490`-0)];(L/`gob`)((y)[v.XS()]);((y2+`Tz`))[`16`-0]=((T+`e_`))[(Y*`Dab`)(j.q9{`2`-0,`1`-0,`3`-0,`4`-0,(F^`hY`)(`-34863`-0),(F^`Ak`)(`-34638`-0),(F^`Xz`)(`-34785`-0),(F^`wM`)(`-34959`-0)},`14692731694662`-0)];(L/`DY`)((j2)[((T+`Cf`))[(Y*`ahb`)(j.rL{`1`-0,`4`-0,`2`-0,`3`-0,(F^`mf`)(`-34293`-0),(F^`Qnb`)(`-34860`-0),(F^`dkb`)(`-34884`-0),(F^`xp`)(`-34366`-0)},`23514292136871`-0)] ]);(L/`G2`)(os-true);(L/`cL`)(v..((T+`Ny`))[(Y*`bM`)(j.eG{`2`-0,`1`-0,`3`-0,`4`-0,(F^`uB`)(`-34413`-0),(F^`y_`)(`-34748`-0),(F^`oab`)(`-34905`-0),(F^`Afb`)(`-34745`-0)},`27740735500838`-0)]);((y2+`D4`))[`63`-0]=true(L/`JX`)(R..{[b/`HU`]=t-`llb`,[D*`lU`]=P.Zz,[d^`yv`]=l^`t1`,[N-`rab`]=G..`mP`,[g-`SS`]=a.zZ,[U-`XI`]=c-`Qr`,[Q/`ulb`]=W*`eo`,[Ys-`W7`]=q+`g`,[Ts-`cZ`]=js.O6,[Os/`MY`]=Fs^`RD`,[Cs+`iH`]=Ls/`HD`,[zs*`xib`]=Ss/`JG`,[ps*`N2`]=es/`Hnb`,[ws..`dl`]=fs-`sV`,[rs+`HC`]=us+`xE`,[Is+`Hf`]=ss+`cL`,[vs-`ai`]=ys+`hnb`,[As..`MO`]=Rs^`u6`,[Xs-`Bdb`]=Js^`B5`,[Ms..`pob`]=ms.MW,[Vs^`Pfb`]=os*`bA`,[Zs+`oE`]=ks.Vu,[Es*`fb`]=xs/`S2`,[is.c2]=bs.Jfb,[ts*`Lu`]=Ps-`hg`,[Ds.L1]=hs-`Fc`,[Hs..`khb`]=ns/`sn`,[ds*`Fj`]=ls+`Mab`,[Ns.S8]=gs-`xbb`,[Gs*`Pj`]=as..`vH`,[Us..`XN`]=cs-`Oc`,[Ks-`Th`]=Qs..`hu`,[Ws^`dq`]=qs/`Fd`,[Y2..`FB`]=T2-`CD`,[j2*`lnb`]=O2.Nhb,[B2+`Iib`]=F2.Pj,[C2/`oO`]=L2.TO,[z2-`Nfb`]=S2+`kS`,[e2^`I2`]=w2*`o7`,[f2.wb]=p2^`uQ`,[r2*`ix`]=u2..`Ap`,[I2/`zob`]=s2*`gu`,[v2^`Jhb`]=((y2+`kI`))[`1`-0],[((y2+`Id`))[`2`-0] ]=((y2+`Oe`))[`3`-0],[((y2+`Pkb`))[`4`-0] ]=((y2+`jB`))[`5`-0],[((y2+`Nfb`))[`6`-0] ]=((y2+`EE`))[`7`-0],[((y2+`Ro`))[`8`-0] ]=((y2+`ZP`))[`9`-0],[((y2+`ck`))[`10`-0] ]=((y2+`r_`))[`11`-0],[((y2+`xt`))[`12`-0] ]=((y2+`dp`))[`13`-0],[((y2+`HP`))[`14`-0] ]=((y2+`dT`))[`15`-0],[((y2+`mkb`))[`16`-0] ]=((y2+`w0`))[`17`-0],[((y2+`hd`))[`18`-0] ]=((y2+`i8`))[`19`-0],[((y2+`K2`))[`20`-0] ]=((y2+`Jm`))[`21`-0],[((y2+`BA`))[`22`-0] ]=((y2+`oF`))[`23`-0],[((y2+`jI`))[`24`-0] ]=((y2+`R4`))[`25`-0],[((y2+`Ar`))[`26`-0] ]=((y2+`Lkb`))[`27`-0],[((y2+`fB`))[`28`-0] ]=((y2+`Gl`))[`29`-0],[((y2+`VX`))[`30`-0] ]=((y2+`sv`))[`31`-0],[((y2+`L3`))[`32`-0] ]=((y2+`R2`))[`33`-0],[((y2+`qc`))[`34`-0] ]=((y2+`xA`))[`35`-0],[((y2+`Xx`))[`36`-0] ]=((y2+`GZ`))[`37`-0],[((y2+`Ns`))[`38`-0] ]=((y2+`Xnb`))[`39`-0],[((y2+`CE`))[`40`-0] ]=((y2+`To`))[`41`-0],[((y2+`l`))[`42`-0] ]=((y2+`jl`))[`43`-0],[((y2+`rD`))[`44`-0] ]=((y2+`td`))[`45`-0],[((y2+`hZ`))[`46`-0] ]=((y2+`LV`))[`47`-0],[((y2+`vT`))[`48`-0] ]=((y2+`aZ`))[`49`-0],[((y2+`lK`))[`50`-0] ]=((y2+`Ip`))[`51`-0],[((y2+`bB`))[`52`-0] ]=((y2+`rnb`))[`53`-0],[((y2+`wm`))[`54`-0] ]=((y2+`O8`))[`55`-0],[((y2+`lG`))[`56`-0] ]=((y2+`aW`))[`57`-0],[((y2+`fg`))[`58`-0] ]=((y2+`SF`))[`59`-0],[((y2+`w4`))[`60`-0] ]=((y2+`Fj`))[`61`-0],[((y2+`neb`))[`62`-0] ]=((y2+`u8`))[`63`-0],[((y2+`ah`))[`64`-0] ]=((y2+`F8`))[`65`-0],[((y2+`LI`))[`66`-0] ]=((y2+`RW`))[`67`-0]});((y^`Mi`))[v.M]=R.mC;(L/`uP`)(R..((T+`x3`))[(Y*`Zib`)((F^`MZ`)(`-34945`-0),`20037532079474`-0)]);(L/`Wn`)((y)[(O)[R.z] ]);(L/`xab`)(R..((T+`m4`))[(Y*`Cy`)((F^`Rj`)(`-34738`-0),`19095235197937`-0)]);(L/`tD`)(v..((y^`EN`))[R.w2]);(L/`hz`)(R..V(`16235786`-0,{}));(L/`hh`)((y)[v.fl(R.Fkb)]);(L/`ccb`)(R..((T+`Cob`))[(Y*`Pab`)((F^`q0`)(`-34511`-0),`30375006468519`-0)]);(L/`acb`)((y)[(O)[R.uI] ]);(L/`j1`)(R..((T+`tm`))[(Y*`St`)((F^`io`)(`-34939`-0),`30138485243742`-0)]);(L/`hx`)(v..((y^`ad`))[R.WL]);(L/`Vv`)(R..M(`11571848`-0,{}));(L/`Bcb`)((y)[v.Il(R.ukb)])end else if(`15439784`-0)-(`0`-0)>B-(`0`-0)then B=true(r)[(e)[`1`-0] ]=B B=`14109336`-0 else(L/`jm`)(Bs-(`1`-0))W.Gr+=Bs^`gK`(L/`H`)(Cs..(W*`Tob`>c-`Ju`))B=Cs+`oeb`and`1460993`-0 or`9841117`-0 end end else if B*(`1`-0)<(`15659752`-0)*(`1`-0)then if(`15576707`-0)*(`1`-0)>B*(`1`-0)then B=((T+`Icb`))[(Y*`z2`)(j.f1{`3`-0,`23`-0,`18`-0,`5`-0,`15`-0,`14`-0,`6`-0,`1`-0,`9`-0,`13`-0,`24`-0,`7`-0,`12`-0,`16`-0,`22`-0,`20`-0,`2`-0,`4`-0,`25`-0,`19`-0,`10`-0,`21`-0,`8`-0,`11`-0,`17`-0,(F^`Ebb`)(`-34953`-0),(F^`N6`)(`-34382`-0),(F^`xJ`)(`-34617`-0),(F^`ax`)(`-34390`-0),(F^`qw`)(`-34911`-0),(F^`Vjb`)(`-34758`-0),(F^`f_`)(`-34338`-0),(F^`U9`)(`-34707`-0),(F^`Zv`)(`-34692`-0),(F^`M2`)(`-34797`-0),(F^`Xl`)(`-34607`-0),(F^`jw`)(`-34952`-0),(F^`Ef`)(`-34284`-0),(F^`dQ`)(`-34436`-0),(F^`Px`)(`-34339`-0),(F^`QP`)(`-34499`-0),(F^`pN`)(`-34513`-0),(F^`ah`)(`-34464`-0),(F^`AI`)(`-34830`-0),(F^`CT`)(`-34817`-0),(F^`Wj`)(`-34333`-0),(F^`Ux`)(`-34761`-0),(F^`H4`)(`-34311`-0),(F^`Ye`)(`-34680`-0),(F^`obb`)(`-34334`-0)},`4760892361417`-0)];(L/`jE`)(p*((T+`ty`))[(Y*`eb`)(j.Djb{`2`-0,`1`-0,(F^`lF`)(`-34440`-0),(F^`gbb`)(`-34849`-0)},`13217195985807`-0)]);(L/`xmb`)(R..u*`wl`);(O)[p.E6]=B;(L/`of`)(R..nil)B=`2127743`-0 else B=`12772586`-0(L/`Kbb`)(Ys*nil);(L/`F4`)(Fs+nil)end else B=`5711629`-0 end end else if(`16070983`-0)-(`0`-0)>B-(`0`-0)then if(`16069787`-0)*(`1`-0)>B*(`1`-0)then if B+(`0`-0)<(`16044216`-0)+(`0`-0)then B=true(r)[(e)[`1`-0] ]=B B=(O)[((T+`nob`))[(Y*`ykb`)(j.aM{`1`-0,`2`-0,`3`-0,(F^`tR`)(`-34798`-0),(F^`Ndb`)(`-34537`-0),(F^`Shb`)(`-34576`-0)},`16101544406190`-0)] ];(L/`Ev`)(p*{})else(L/`wk`)(b+I());(L/`wlb`)(x*nil);(r)[b/`fcb`]=x^`aN`(L/`ib`)(x*X(`8152313`-0,{b/`om`}));(L/`YB`)(d-((T+`jW`))[(Y*`po`)((F^`mob`)(`-34514`-0),`12082069555015`-0)]);(r)[b/`zq`]=x^`yj`(L/`Xu`)((D)[B]);(L/`EB`)(P..(O)[d^`oq`])B=P.Et and`1512411`-0 or`13644962`-0(L/`kj`)(t..P.ko)end else(L/`Cl`)(b+(r)[x^`oV`]);(L/`kF`)((i)[not(b/`zZ`)])B=i+`Pp`and`12455929`-0 or`7458551`-0 end else if`0`-0>B-(`16318515`-0)then if(B-(`16193455`-0))+(`16193455`-0)<`16193455`-0 then B=(O)[((T+`pX`))[(Y*`xcb`)(j.iU{`1`-0,`3`-0,`2`-0,(F^`Pgb`)(`-34340`-0),(F^`YE`)(`-34871`-0),(F^`kB`)(`-34965`-0)},`28742394312693`-0)] ];(L/`zh`)(k+((T+`sbb`))[(Y*`dkb`)(j.RZ{`2`-0,`7`-0,`6`-0,`8`-0,`4`-0,`1`-0,`3`-0,`5`-0,(F^`ay`)(`-34657`-0),(F^`Vw`)(`-34582`-0),(F^`C3`)(`-34696`-0),(F^`eH`)(`-34432`-0),(F^`fN`)(`-34472`-0),(F^`zo`)(`-34331`-0),(F^`Km`)(`-34650`-0),(F^`Vt`)(`-34542`-0)},`20420277173515`-0)]);(L/`fw`)(p*{k/`BF`})else(L/`nt`)(p*((T+`Emb`))[(Y*`Eo`)(j.Rr{`1`-0,`2`-0,(F^`Cab`)(`-34810`-0),(F^`LW`)(`-34781`-0)},`31207071068`-0)])B=(O)[p.Jcb];(L/`gb`)(s-((T+`qob`))[(Y*`c`)((F^`Kx`)(`-34395`-0),`18852998845469`-0)]);(L/`E6`)((y)[((T+`Geb`))[(Y*`vG`)(j.dQ{`2`-0,`1`-0,(F^`vB`)(`-34429`-0),(F^`qkb`)(`-34635`-0)},`17575864185805`-0)] ]);(L/`xe`)(v..((T+`c7`))[(Y*`mv`)(j.UO{`11`-0,`7`-0,`4`-0,`9`-0,`10`-0,`3`-0,`13`-0,`5`-0,`12`-0,`8`-0,`14`-0,`6`-0,`2`-0,`1`-0,(F^`g5`)(`-34734`-0),(F^`Ulb`)(`-34619`-0),(F^`ST`)(`-34303`-0),(F^`Lu`)(`-34302`-0),(F^`T4`)(`-34532`-0),(F^`BT`)(`-34743`-0),(F^`iJ`)(`-34963`-0),(F^`L3`)(`-34929`-0),(F^`Ie`)(`-34656`-0),(F^`veb`)(`-34852`-0),(F^`YV`)(`-34412`-0),(F^`cs`)(`-34414`-0),(F^`D7`)(`-34815`-0),(F^`RD`)(`-34722`-0)},`28040311882131`-0)]);(L/`s8`)(u..(O)[s..`Bv`]);(L/`eib`)((y)[((u*`xm`))[y^`xJ`] ]);(L/`eT`)(s-{(y^`uX`)(u*`gn`,v.uy)});(L/`EG`)(p*B(z(s..`ER`)))B=p.gb()B=(O)[((T+`OE`))[(Y*`I8`)(j.cH{`3`-0,`2`-0,`1`-0,(F^`ynb`)(`-34587`-0),(F^`ldb`)(`-34443`-0),(F^`mkb`)(`-34829`-0)},`14472992413021`-0)] ];(L/`qt`)(p*{})end else(L/`jC`)((D)[`1`-0])B=`10126306`-0(L/`Cq`)(h+(t-`Lm`)(D*`dj`));(L/`xF`)(h+(t-`F3`)())end end end end end end end B=#w return z(p.NB)end,function(Y,...)local T,j=C({cz=`1`-0},{__mul=function(Y,T)Y.cz=T end,__pow=function(Y,T)return Y.cz end}),C({Mi=(Y)[`1`-0]},{__index=function(Y,T)Y.Mi=T end,__mul=function(Y,T)return rawget(Y,`Mi`)end})while j*`C0`do(u)[j*`Ieb`],T.cz=(u)[j*`Llb`]-(`1`-0),T^`Mz`+(`1`-0)if(u)[j*`rjb`]==`0`-0 then(u)[j*`wV`],(r)[j*`edb`]=nil,nil end(L/`hM`)((j)[(Y)[T^`Pg`] ])end end,`0`-0,{}return(R(`344150`-0,{}))(z(p))end)(getfenv and getfenv()or _ENV,unpack or(table)[((T+`K7`))[(Y*`lN`)(j.eG{`2`-0,`1`-0,(F^`hs`)(`-34887`-0),(F^`F5`)(`-34510`-0)},`32407437334358`-0)] ],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+local TOGGLE_FRIENDS_KEYBIND = Enum.KeyCode.F  
+local AUTO_BLOCK_KEYBIND = Enum.KeyCode.C      
+
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Workspace = game:GetService("Workspace")
+local UserInputService = game:GetService("UserInputService")
+local CoreGui = game:GetService("CoreGui")
+local RunService = game:GetService("RunService")
+local player = Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+
+local OFF_TEXTURE = "rbxassetid://110783679426495"
+local ON_TEXTURE = "rbxassetid://110507824065923"
+
+local HAS_GETCONNECTIONS = false
+pcall(function()
+	HAS_GETCONNECTIONS = typeof(getconnections) == "function"
+end)
+
+local RemoteIndex = {}
+local RemoteObjects = {}
+
+local children = game:GetService("ReplicatedStorage"):WaitForChild("Packages"):WaitForChild("Net"):GetChildren()
+for i, obj in ipairs(children) do
+	if obj:IsA("RemoteEvent") then
+		local nextIndex = i + 1
+		local nextObj = children[nextIndex]
+		if nextObj then
+			RemoteIndex[obj.Name] = nextIndex
+			RemoteObjects[nextIndex] = nextObj
+		end
+	end
+end
+
+local function fireRemote(name, ...)
+	local index = RemoteIndex[name]
+	if index then
+		local remote = RemoteObjects[index]
+		if remote then
+			remote:FireServer(...)
+			return true
+		end
+	end
+	return false
+end
+
+local myBaseFriendPanel = nil
+local toggleButton = nil
+local blockButton = nil
+local isUnlocked = false
+
+local trackedPanels = {}
+local billboardFolder = Instance.new("Folder")
+billboardFolder.Name = "FriendPanelESPs"
+billboardFolder.Parent = playerGui
+
+local function isEmptyBase(friendPanelModel)
+	if not friendPanelModel or not friendPanelModel.Parent then return false end
+	
+	local plotFolder = friendPanelModel.Parent
+	local plotSign = plotFolder:FindFirstChild("PlotSign", true)
+	if not plotSign then return false end
+	
+	for _, descendant in pairs(plotSign:GetDescendants()) do
+		if descendant:IsA("TextLabel") or descendant:IsA("TextButton") then
+			local text = string.lower(descendant.Text or "")
+			if text:find("empty") and text:find("base") then
+				return true
+			end
+		end
+	end
+	
+	return false
+end
+
+local function createESP(friendPanelModel, text, color)
+	local main = friendPanelModel:FindFirstChild("Main")
+	if not main or not main:IsA("BasePart") then return end
+	
+	local existingESP = billboardFolder:FindFirstChild("ESP_" .. friendPanelModel:GetDebugId())
+	if existingESP then
+		existingESP:Destroy()
+	end
+	
+	local billboardGui = Instance.new("BillboardGui")
+	billboardGui.Name = "ESP_" .. friendPanelModel:GetDebugId()
+	billboardGui.Adornee = main
+	billboardGui.Size = UDim2.new(0, 240, 0, 60)
+	billboardGui.StudsOffset = Vector3.new(0, 3, 0)
+	billboardGui.AlwaysOnTop = true
+	billboardGui.MaxDistance = 1e6
+	billboardGui.Parent = billboardFolder
+	
+	local textLabel = Instance.new("TextLabel")
+	textLabel.Size = UDim2.new(1, 0, 1, 0)
+	textLabel.BackgroundTransparency = 1
+	textLabel.Font = Enum.Font.SourceSansBold
+	textLabel.TextScaled = true
+	textLabel.TextStrokeTransparency = 0
+	textLabel.TextColor3 = color
+	textLabel.Text = text
+	textLabel.Parent = billboardGui
+	
+	return billboardGui
+end
+
+local function updateESP(friendPanelModel, imageElement)
+	if not imageElement or not friendPanelModel then return end
+	if isEmptyBase(friendPanelModel) then return end
+	
+	local data = trackedPanels[friendPanelModel]
+	if not data then return end
+	
+	local imageId = imageElement.Image
+	
+	if data.billboard then
+		pcall(function()
+			data.billboard:Destroy()
+		end)
+		data.billboard = nil
+	end
+	
+	if imageId == OFF_TEXTURE then
+		data.billboard = createESP(friendPanelModel, "OFF", Color3.fromRGB(255, 0, 0))
+	elseif imageId == ON_TEXTURE then
+		data.billboard = createESP(friendPanelModel, "ON", Color3.fromRGB(0, 255, 0))
+	end
+end
+
+local function scanFriendPanel(friendPanelModel)
+	if trackedPanels[friendPanelModel] then return end
+	
+	local function attemptScan()
+		if trackedPanels[friendPanelModel] then return true end
+		
+		local main = friendPanelModel:FindFirstChild("Main")
+		if not main then return false end
+		
+		local surfaceGui = main:FindFirstChildWhichIsA("SurfaceGui")
+		if not surfaceGui then return false end
+		
+		local maxWait = 0
+		while #surfaceGui:GetDescendants() < 3 and maxWait < 60 do
+			task.wait(0.03)
+			maxWait = maxWait + 1
+		end
+		
+		for _, guiElement in pairs(surfaceGui:GetDescendants()) do
+			if guiElement:IsA("ImageLabel") or guiElement:IsA("ImageButton") then
+				local imageId = guiElement.Image
+				
+				if imageId == OFF_TEXTURE or imageId == ON_TEXTURE then
+					if trackedPanels[friendPanelModel] then return true end
+					
+					trackedPanels[friendPanelModel] = {
+						imageElement = guiElement,
+						billboard = nil
+					}
+					
+					guiElement:GetPropertyChangedSignal("Image"):Connect(function()
+						updateESP(friendPanelModel, guiElement)
+					end)
+					
+					updateESP(friendPanelModel, guiElement)
+					return true
+				end
+			end
+		end
+		
+		return false
+	end
+	
+	if attemptScan() then return end
+	
+	task.spawn(function()
+		local retryDelays = {0.05, 0.1, 0.15, 0.2, 0.3, 0.4, 0.5, 0.75, 1, 1.5, 2}
+		for _, delay in ipairs(retryDelays) do
+			task.wait(delay)
+			if trackedPanels[friendPanelModel] then return end
+			if attemptScan() then return end
+		end
+		
+		for i = 1, 10 do
+			task.wait(1)
+			if trackedPanels[friendPanelModel] then return end
+			if attemptScan() then return end
+		end
+	end)
+end
+
+local function instantScan()
+	local found = 0
+	for _, obj in pairs(Workspace:GetDescendants()) do
+		if obj.Name == "FriendPanel" and obj:IsA("Model") then
+			found = found + 1
+			task.spawn(function()
+				scanFriendPanel(obj)
+			end)
+		end
+	end
+	return found
+end
+
+local function deepScan()
+	task.spawn(function()
+		for i = 1, 15 do
+			local count = instantScan()
+			task.wait(0.3)
+		end
+	end)
+end
+
+local function continuousScan()
+	task.spawn(function()
+		while true do
+			task.wait(1.5)
+			instantScan()
+		end
+	end)
+end
+
+local function findMyBasePlot()
+	local visibleBillboards = {}
+	for _, obj in ipairs(Workspace:GetDescendants()) do
+		if obj:IsA("BillboardGui") and obj.Enabled then
+			for _, child in ipairs(obj:GetDescendants()) do
+				if child:IsA("TextLabel") and child.Visible then
+					if string.upper(child.Text) == "YOUR BASE" and child.TextTransparency < 1 then
+						table.insert(visibleBillboards, obj)
+					end
+				end
+			end
+		end
+	end
+	
+	if #visibleBillboards > 1 and player.Character then
+		local root = player.Character:FindFirstChild("HumanoidRootPart")
+		if root then
+			local closest, closestDist
+			for _, billboard in ipairs(visibleBillboards) do
+				local pos
+				if billboard.Parent and billboard.Parent:IsA("BasePart") then
+					pos = billboard.Parent.Position
+				elseif billboard.Parent and billboard.Parent:IsA("Model") then
+					local part = billboard.Parent:FindFirstChildWhichIsA("BasePart", true)
+					if part then pos = part.Position end
+				end
+				if pos then
+					local dist = (pos - root.Position).Magnitude
+					if not closest or dist < closestDist then
+						closestDist = dist
+						closest = billboard
+					end
+				end
+			end
+			if closest then return closest end
+		end
+	end
+	return visibleBillboards[1]
+end
+
+local function getMyBasePlotModel()
+	local billboard = findMyBasePlot()
+	if not billboard then return nil end
+	
+	local current = billboard.Parent
+	while current do
+		if current.Parent and current.Parent.Name == "Plots" then
+			return current
+		end
+		current = current.Parent
+	end
+	return nil
+end
+
+local function findMyFriendPanel()
+	local myPlot = getMyBasePlotModel()
+	if not myPlot then return nil end
+	
+	for _, obj in pairs(myPlot:GetDescendants()) do
+		if obj.Name == "FriendPanel" and obj:IsA("Model") then
+			return obj
+		end
+	end
+	return nil
+end
+
+local function getCurrentStatus()
+	myBaseFriendPanel = findMyFriendPanel()
+	if not myBaseFriendPanel then return false end
+	
+	local main = myBaseFriendPanel:FindFirstChild("Main")
+	if not main then return false end
+	
+	local surfaceGui = main:FindFirstChildWhichIsA("SurfaceGui")
+	if not surfaceGui then return false end
+	
+	for _, guiElement in pairs(surfaceGui:GetDescendants()) do
+		if guiElement:IsA("ImageLabel") or guiElement:IsA("ImageButton") then
+			local imageId = guiElement.Image
+			if imageId == ON_TEXTURE then
+				return true
+			elseif imageId == OFF_TEXTURE then
+				return false
+			end
+		end
+	end
+	
+	return false
+end
+
+local function updateButtonAppearance()
+	isUnlocked = getCurrentStatus()
+	
+	if isUnlocked then
+		toggleButton.BackgroundColor3 = Color3.fromRGB(0, 170, 0)
+		toggleButton.Text = "Friends: UNLOCKED"
+	else
+		toggleButton.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
+		toggleButton.Text = "Friends: LOCKED"
+	end
+end
+
+local function setupMonitoring()
+	task.spawn(function()
+		local maxRetries = 40
+		local retryCount = 0
+		
+		while retryCount < maxRetries do
+			myBaseFriendPanel = findMyFriendPanel()
+			if myBaseFriendPanel then break end
+			retryCount = retryCount + 1
+			task.wait(0.15)
+		end
+		
+		if not myBaseFriendPanel then
+			task.wait(0.5)
+			return setupMonitoring()
+		end
+		
+		local main = myBaseFriendPanel:FindFirstChild("Main")
+		if not main then 
+			task.wait(0.3)
+			return setupMonitoring()
+		end
+		
+		local surfaceGui = main:FindFirstChildWhichIsA("SurfaceGui")
+		local waitCount = 0
+		while not surfaceGui and waitCount < 40 do
+			task.wait(0.04)
+			surfaceGui = main:FindFirstChildWhichIsA("SurfaceGui")
+			waitCount = waitCount + 1
+		end
+		
+		if not surfaceGui then 
+			task.wait(0.3)
+			return setupMonitoring()
+		end
+		
+		waitCount = 0
+		while #surfaceGui:GetDescendants() < 3 and waitCount < 40 do
+			task.wait(0.04)
+			waitCount = waitCount + 1
+		end
+		
+		for _, guiElement in pairs(surfaceGui:GetDescendants()) do
+			if guiElement:IsA("ImageLabel") or guiElement:IsA("ImageButton") then
+				local imageId = guiElement.Image
+				if imageId == ON_TEXTURE or imageId == OFF_TEXTURE then
+					guiElement:GetPropertyChangedSignal("Image"):Connect(function()
+						updateButtonAppearance()
+					end)
+					break
+				end
+			end
+		end
+		
+		updateButtonAppearance()
+	end)
+end
+
+local clickIndicator = nil
+
+local function getClosestPlayer()
+	local character = player.Character
+	local humanoidRootPart = character and character:FindFirstChild("HumanoidRootPart")
+	
+	if humanoidRootPart then
+		local closestPlayer = nil
+		local shortestDistance = math.huge
+		
+		for _, p in pairs(Players:GetPlayers()) do
+			if p ~= player and p.Character then
+				local targetRoot = p.Character:FindFirstChild("HumanoidRootPart")
+				if targetRoot then
+					local distance = (humanoidRootPart.Position - targetRoot.Position).Magnitude
+					if distance < shortestDistance then
+						shortestDistance = distance
+						closestPlayer = p
+					end
+				end
+			end
+		end
+		
+		if closestPlayer then return closestPlayer end
+	end
+	
+	for _, p in pairs(Players:GetPlayers()) do
+		if p ~= player then
+			return p
+		end
+	end
+	
+	return nil
+end
+
+local function findBlockButton(parent)
+	if not parent then return nil end
+	
+	local promptOverlay = parent:FindFirstChild("promptOverlay")
+	if promptOverlay then
+		for _, descendant in pairs(promptOverlay:GetDescendants()) do
+			if (descendant:IsA("TextButton") or descendant:IsA("ImageButton")) and descendant.Visible and descendant.Active then
+				local name = descendant.Name:lower()
+				if name:find("block") or name:find("confirm") or name:find("yes") or name:find("ok") or name:find("accept") then
+					return descendant
+				end
+				
+				if descendant:IsA("TextButton") then
+					local text = descendant.Text:lower()
+					if text:find("block") or text:find("yes") or text:find("confirm") then
+						return descendant
+					end
+				end
+			end
+		end
+	end
+	
+	for _, descendant in pairs(parent:GetDescendants()) do
+		if (descendant:IsA("TextButton") or descendant:IsA("ImageButton")) and descendant.Visible and descendant.Active then
+			local name = descendant.Name:lower()
+			if name:find("block") or name:find("confirm") or name:find("yes") or name:find("ok") or name:find("accept") then
+				return descendant
+			end
+			
+			if descendant:IsA("TextButton") then
+				local text = descendant.Text:lower()
+				if text:find("block") or text:find("yes") or text:find("confirm") then
+					return descendant
+				end
+			end
+		end
+	end
+	
+	return nil
+end
+
+local function autoClickBlockButton()
+	task.spawn(function()
+		local maxAttempts = 300
+		local attempts = 0
+		local buttonFound = false
+		
+		local originalBehavior = UserInputService.MouseBehavior
+		local originalIconEnabled = UserInputService.MouseIconEnabled
+		
+		pcall(function()
+			UserInputService.MouseBehavior = Enum.MouseBehavior.Default
+			UserInputService.MouseIconEnabled = true
+		end)
+		
+		task.wait(0.001)
+		
+		while attempts < maxAttempts do
+			attempts = attempts + 1
+			
+			local blockBtn = findBlockButton(CoreGui)
+			
+			if blockBtn then
+				buttonFound = true
+				local absPos = blockBtn.AbsolutePosition
+				local absSize = blockBtn.AbsoluteSize
+				
+				local centerX = math.floor(absPos.X + (absSize.X / 2) + 0.5)
+				local centerY = math.floor(absPos.Y + (absSize.Y / 2) + 0.5)
+				
+				if clickIndicator then
+					clickIndicator.Position = UDim2.new(0, centerX - 10, 0, centerY - 10)
+					clickIndicator.Visible = true
+				end
+				
+				local VirtualInputManager = game:GetService("VirtualInputManager")
+				
+				if HAS_GETCONNECTIONS then
+					task.spawn(function()
+						for i = 1, 30 do
+							pcall(function()
+								for _, connection in pairs(getconnections(blockBtn.MouseButton1Click)) do
+									connection:Fire()
+								end
+								for _, connection in pairs(getconnections(blockBtn.Activated)) do
+									connection:Fire()
+								end
+								for _, connection in pairs(getconnections(blockBtn.MouseButton1Down)) do
+									connection:Fire()
+								end
+								for _, connection in pairs(getconnections(blockBtn.MouseButton1Up)) do
+									connection:Fire()
+								end
+							end)
+						end
+					end)
+				end
+				
+				task.spawn(function()
+					for i = 1, 20 do
+						VirtualInputManager:SendMouseMoveEvent(centerX, centerY, game)
+						VirtualInputManager:SendMouseButtonEvent(centerX, centerY, 0, true, game, 0)
+						VirtualInputManager:SendMouseButtonEvent(centerX, centerY, 0, false, game, 0)
+					end
+				end)
+				
+				task.spawn(function()
+					for i = 1, 15 do
+						pcall(function()
+							blockBtn.MouseButton1Down:Fire()
+							blockBtn.MouseButton1Up:Fire()
+							blockBtn.MouseButton1Click:Fire()
+						end)
+					end
+				end)
+				
+				task.wait(0.005)
+				
+				if clickIndicator then
+					clickIndicator.Visible = false
+				end
+				
+				task.wait(0.005)
+				pcall(function()
+					UserInputService.MouseBehavior = originalBehavior
+					UserInputService.MouseIconEnabled = originalIconEnabled
+				end)
+				
+				break
+			end
+			
+			task.wait(0.001)
+		end
+		
+		if not buttonFound or attempts >= maxAttempts then
+			pcall(function()
+				UserInputService.MouseBehavior = originalBehavior
+				UserInputService.MouseIconEnabled = originalIconEnabled
+			end)
+		end
+	end)
+end
+
+local function monitorForPrompt()
+	local isSearching = false
+	
+	RunService.RenderStepped:Connect(function()
+		if not isSearching then
+			local promptGui = CoreGui:FindFirstChild("RobloxPromptGui")
+			if promptGui then
+				local overlay = promptGui:FindFirstChild("promptOverlay")
+				if overlay and overlay.Visible then
+					for _, desc in pairs(overlay:GetDescendants()) do
+						if desc:IsA("TextLabel") and desc.Visible then
+							local text = desc.Text:lower()
+							if text:find("block") then
+								isSearching = true
+								autoClickBlockButton()
+								task.wait(0.05)
+								isSearching = false
+								break
+							end
+						end
+					end
+				end
+			end
+		end
+	end)
+end
+
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "PSHubGui"
+screenGui.ResetOnSpawn = false
+screenGui.Parent = playerGui
+
+toggleButton = Instance.new("TextButton")
+toggleButton.Name = "ToggleFriendsButton"
+toggleButton.Size = UDim2.new(0, 200, 0, 50)
+toggleButton.Position = UDim2.new(0.5, -210, 0.1, 0)
+toggleButton.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
+toggleButton.Text = "Friends: LOCKED"
+toggleButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+toggleButton.TextSize = 18
+toggleButton.Font = Enum.Font.GothamBold
+toggleButton.Parent = screenGui
+
+local toggleCorner = Instance.new("UICorner")
+toggleCorner.CornerRadius = UDim.new(0, 8)
+toggleCorner.Parent = toggleButton
+
+blockButton = Instance.new("TextButton")
+blockButton.Name = "BlockButton"
+blockButton.Size = UDim2.new(0, 200, 0, 50)
+blockButton.Position = UDim2.new(0.5, 10, 0.1, 0)
+blockButton.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
+blockButton.Text = "Block Closest"
+blockButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+blockButton.TextSize = 18
+blockButton.Font = Enum.Font.GothamBold
+blockButton.Parent = screenGui
+
+local blockCorner = Instance.new("UICorner")
+blockCorner.CornerRadius = UDim.new(0, 8)
+blockCorner.Parent = blockButton
+
+clickIndicator = Instance.new("Frame")
+clickIndicator.Name = "ClickIndicator"
+clickIndicator.Size = UDim2.new(0, 20, 0, 20)
+clickIndicator.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+clickIndicator.BorderSizePixel = 2
+clickIndicator.BorderColor3 = Color3.fromRGB(255, 255, 255)
+clickIndicator.Visible = false
+clickIndicator.ZIndex = 10000
+clickIndicator.Parent = screenGui
+
+local indicatorCorner = Instance.new("UICorner")
+indicatorCorner.CornerRadius = UDim.new(1, 0)
+indicatorCorner.Parent = clickIndicator
+
+toggleButton.MouseButton1Click:Connect(function()
+	fireRemote("RE/PlotService/ToggleFriends")
+	
+	toggleButton.BackgroundColor3 = Color3.fromRGB(100, 100, 255)
+	task.wait(0.2)
+	
+	task.wait(0.3)
+	updateButtonAppearance()
+end)
+
+blockButton.MouseButton1Click:Connect(function()
+	local closestPlayer = getClosestPlayer()
+	
+	if closestPlayer then
+		local success = pcall(function()
+			game:GetService("StarterGui"):SetCore("PromptBlockPlayer", closestPlayer)
+		end)
+		
+		if success then
+			blockButton.Text = "Blocking..."
+			blockButton.BackgroundColor3 = Color3.fromRGB(85, 255, 85)
+			autoClickBlockButton()
+			task.wait(0.15)
+			blockButton.Text = "Block Closest"
+			blockButton.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
+		end
+	else
+		blockButton.Text = "No Players"
+		blockButton.BackgroundColor3 = Color3.fromRGB(255, 170, 0)
+		task.wait(0.15)
+		blockButton.Text = "Block Closest"
+		blockButton.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
+	end
+end)
+
+UserInputService.InputBegan:Connect(function(input, gameProcessed)
+	if gameProcessed then return end
+	
+	local focusedTextBox = UserInputService:GetFocusedTextBox()
+	if focusedTextBox then return end
+	
+	if input.KeyCode == TOGGLE_FRIENDS_KEYBIND then
+		fireRemote("RE/PlotService/ToggleFriends")
+		
+		toggleButton.BackgroundColor3 = Color3.fromRGB(100, 100, 255)
+		task.wait(0.2)
+		
+		task.wait(0.3)
+		updateButtonAppearance()
+	elseif input.KeyCode == AUTO_BLOCK_KEYBIND then
+		local closestPlayer = getClosestPlayer()
+		
+		if closestPlayer then
+			local success = pcall(function()
+				game:GetService("StarterGui"):SetCore("PromptBlockPlayer", closestPlayer)
+			end)
+			
+			if success then
+				blockButton.Text = "Blocking..."
+				blockButton.BackgroundColor3 = Color3.fromRGB(85, 255, 85)
+				autoClickBlockButton()
+				task.wait(0.15)
+				blockButton.Text = "Block Closest"
+				blockButton.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
+			end
+		else
+			blockButton.Text = "No Players"
+			blockButton.BackgroundColor3 = Color3.fromRGB(255, 170, 0)
+			task.wait(0.15)
+			blockButton.Text = "Block Closest"
+			blockButton.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
+		end
+	end
+end)
+
+monitorForPrompt()
+
+task.spawn(function()
+	updateButtonAppearance()
+	task.wait(0.1)
+	updateButtonAppearance()
+	task.wait(0.15)
+	updateButtonAppearance()
+	task.wait(0.2)
+	updateButtonAppearance()
+	task.wait(0.25)
+	setupMonitoring()
+end)
+
+task.spawn(function()
+	for i = 1, 40 do
+		updateButtonAppearance()
+		task.wait(0.2)
+	end
+end)
+
+task.spawn(function()
+	task.wait(8)
+	while true do
+		task.wait(2)
+		updateButtonAppearance()
+	end
+end)
+
+continuousScan()
+
+task.spawn(function()
+	instantScan()
+	task.wait(0.3)
+	deepScan()
+	task.wait(0.5)
+	instantScan()
+	task.wait(2)
+	deepScan()
+end)
+
+Workspace.DescendantAdded:Connect(function(obj)
+	if obj.Name == "FriendPanel" and obj:IsA("Model") then
+		if trackedPanels[obj] then return end
+		
+		task.spawn(function()
+			scanFriendPanel(obj)
+		end)
+		
+		task.spawn(function()
+			local retryDelays = {0.05, 0.1, 0.2, 0.4, 0.7, 1, 1.5, 2.5, 4, 6}
+			for _, delay in ipairs(retryDelays) do
+				task.wait(delay)
+				if trackedPanels[obj] then break end
+				scanFriendPanel(obj)
+			end
+		end)
+	end
+end)
+
+Workspace.DescendantRemoving:Connect(function(obj)
+	if trackedPanels[obj] then
+		if trackedPanels[obj].billboard then
+			pcall(function()
+				trackedPanels[obj].billboard:Destroy()
+			end)
+		end
+		trackedPanels[obj] = nil
+	end
+end)
+
+task.spawn(function()
+	while true do
+		task.wait(5)
+		
+		for panel, data in pairs(trackedPanels) do
+			if not panel.Parent then
+				if data.billboard then 
+					pcall(function()
+						data.billboard:Destroy()
+					end)
+				end
+				trackedPanels[panel] = nil
+			end
+		end
+		
+		local seenPanels = {}
+		for _, billboard in pairs(billboardFolder:GetChildren()) do
+			if billboard:IsA("BillboardGui") then
+				local adornee = billboard.Adornee
+				if adornee then
+					local panelModel = adornee.Parent
+					if panelModel and panelModel.Name == "FriendPanel" then
+						local panelId = panelModel:GetDebugId()
+						if seenPanels[panelId] then
+							pcall(function()
+								billboard:Destroy()
+							end)
+						else
+							seenPanels[panelId] = true
+						end
+					end
+				else
+					pcall(function()
+						billboard:Destroy()
+					end)
+				end
+			end
+		end
+	end
+end)
+local Players = game:GetService("Players")
+local PathfindingService = game:GetService("PathfindingService")
+local UserInputService = game:GetService("UserInputService")
+local player = Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+local isMobile = UserInputService.TouchEnabled and not UserInputService.KeyboardEnabled
+
+local waypoints = {}
+local isPlaying = false
+local bestPetModel = nil
+local selectedPetModel = nil
+
+local playerBaseModel = nil
+local playerBaseCached = false
+
+local spawnerHeight = nil
+
+local detectedPets = {}
+
+local originalSizes = {}
+
+local function crunchBody()
+	for _, part in ipairs(character:GetDescendants()) do
+		if part:IsA("BasePart") and part ~= humanoidRootPart then
+			originalSizes[part] = part.Size
+			part.Size = Vector3.new(0.1, 0.1, 0.1)
+		end
+	end
+end
+
+local function restoreBody()
+	for part, originalSize in pairs(originalSizes) do
+		if part and part.Parent then
+			part.Size = originalSize
+		end
+	end
+	originalSizes = {}
+end
+
+local greenPartsCache = {}
+local greenPartsCacheTime = 0
+
+local function findClosestGreenPart(fromPosition)
+	if tick() - greenPartsCacheTime > 5 then
+		greenPartsCache = {}
+		for _, obj in ipairs(workspace:GetDescendants()) do
+			if obj:IsA("BasePart") then
+				local color = obj.Color
+				if math.floor(color.R * 255) == 0 and math.floor(color.G * 255) == 195 and math.floor(color.B * 255) == 0 then
+					table.insert(greenPartsCache, obj)
+				end
+			end
+		end
+		greenPartsCacheTime = tick()
+	end
+	
+	local closestPart = nil
+	local closestDistance = math.huge
+	
+	for _, obj in ipairs(greenPartsCache) do
+		if obj and obj.Parent then
+			local distance = (obj.Position - fromPosition).Magnitude
+			if distance < closestDistance then
+				closestDistance = distance
+				closestPart = obj
+			end
+		end
+	end
+	
+	return closestPart
+end
+
+local function checkObstacleAbove(fromPosition, maxDistance)
+	maxDistance = maxDistance or 50
+	
+	local raycastParams = RaycastParams.new()
+	raycastParams.FilterType = Enum.RaycastFilterType.Exclude
+	raycastParams.FilterDescendantsInstances = {character}
+	
+	local rayDirection = Vector3.new(0, maxDistance, 0)
+	local raycastResult = workspace:Raycast(fromPosition, rayDirection, raycastParams)
+	
+	if raycastResult then
+		return true, raycastResult.Position, raycastResult.Distance
+	end
+	
+	return false, nil, nil
+end
+
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "VsterCarpetTPGui"
+screenGui.ResetOnSpawn = false
+screenGui.Parent = player:WaitForChild("PlayerGui")
+
+local mainFrame = Instance.new("Frame")
+mainFrame.Name = "MainFrame"
+if isMobile then
+	mainFrame.Size = UDim2.new(0, 220, 0, 350)
+	mainFrame.Position = UDim2.new(0.5, -110, 0, 10)
+else
+	mainFrame.Size = UDim2.new(0, 280, 0, 450)
+	mainFrame.Position = UDim2.new(1, -300, 0, 20)
+end
+mainFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 35)
+mainFrame.BorderSizePixel = 0
+mainFrame.Parent = screenGui
+
+local corner = Instance.new("UICorner")
+corner.CornerRadius = UDim.new(0, 8)
+corner.Parent = mainFrame
+
+local titleBar = Instance.new("Frame")
+titleBar.Name = "TitleBar"
+titleBar.Size = UDim2.new(1, 0, 0, isMobile and 30 or 35)
+titleBar.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
+titleBar.BorderSizePixel = 0
+titleBar.Parent = mainFrame
+
+local titleCorner = Instance.new("UICorner")
+titleCorner.CornerRadius = UDim.new(0, 8)
+titleCorner.Parent = titleBar
+
+local titleLabel = Instance.new("TextLabel")
+titleLabel.Size = UDim2.new(1, -10, 1, 0)
+titleLabel.Position = UDim2.new(0, 10, 0, 0)
+titleLabel.BackgroundTransparency = 1
+titleLabel.Text = "Vster Carpet TP"
+titleLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+titleLabel.TextSize = isMobile and 13 or 16
+titleLabel.Font = Enum.Font.GothamBold
+titleLabel.TextXAlignment = Enum.TextXAlignment.Left
+titleLabel.Parent = titleBar
+
+local targetFrame = Instance.new("Frame")
+targetFrame.Name = "TargetFrame"
+targetFrame.Size = UDim2.new(1, -20, 0, isMobile and 40 or 50)
+targetFrame.Position = UDim2.new(0, 10, 0, isMobile and 35 or 45)
+targetFrame.BackgroundColor3 = Color3.fromRGB(25, 25, 30)
+targetFrame.BorderSizePixel = 0
+targetFrame.Parent = mainFrame
+
+local targetCorner = Instance.new("UICorner")
+targetCorner.CornerRadius = UDim.new(0, 6)
+targetCorner.Parent = targetFrame
+
+local targetTitle = Instance.new("TextLabel")
+targetTitle.Size = UDim2.new(1, -10, 0, isMobile and 15 or 18)
+targetTitle.Position = UDim2.new(0, 5, 0, 3)
+targetTitle.BackgroundTransparency = 1
+targetTitle.Text = "Current Target:"
+targetTitle.TextColor3 = Color3.fromRGB(150, 150, 155)
+targetTitle.TextSize = isMobile and 9 or 11
+targetTitle.Font = Enum.Font.Gotham
+targetTitle.TextXAlignment = Enum.TextXAlignment.Left
+targetTitle.Parent = targetFrame
+
+local targetLabel = Instance.new("TextLabel")
+targetLabel.Name = "TargetLabel"
+targetLabel.Size = UDim2.new(1, -10, 0, isMobile and 20 or 24)
+targetLabel.Position = UDim2.new(0, 5, 0, isMobile and 18 or 23)
+targetLabel.BackgroundTransparency = 1
+targetLabel.Text = "None Selected"
+targetLabel.TextColor3 = Color3.fromRGB(255, 215, 85)
+targetLabel.TextSize = isMobile and 10 or 13
+targetLabel.Font = Enum.Font.GothamBold
+targetLabel.TextXAlignment = Enum.TextXAlignment.Left
+targetLabel.TextTruncate = Enum.TextTruncate.AtEnd
+targetLabel.Parent = targetFrame
+
+local tpButton = Instance.new("TextButton")
+tpButton.Name = "TpButton"
+tpButton.Size = UDim2.new(1, -20, 0, isMobile and 30 or 35)
+tpButton.Position = UDim2.new(0, 10, 0, isMobile and 80 or 105)
+tpButton.BackgroundColor3 = Color3.fromRGB(85, 170, 255)
+tpButton.BorderSizePixel = 0
+tpButton.Text = isMobile and "Teleport (Z)" or "Teleport to Target (Z)"
+tpButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+tpButton.TextSize = isMobile and 11 or 13
+tpButton.Font = Enum.Font.GothamBold
+tpButton.AutoButtonColor = false
+tpButton.Parent = mainFrame
+
+local tpCorner = Instance.new("UICorner")
+tpCorner.CornerRadius = UDim.new(0, 6)
+tpCorner.Parent = tpButton
+
+local scrollFrame = Instance.new("ScrollingFrame")
+scrollFrame.Name = "PetList"
+scrollFrame.Size = UDim2.new(1, -20, 1, isMobile and -125 or -160)
+scrollFrame.Position = UDim2.new(0, 10, 0, isMobile and 115 or 150)
+scrollFrame.BackgroundColor3 = Color3.fromRGB(25, 25, 30)
+scrollFrame.BorderSizePixel = 0
+scrollFrame.ScrollBarThickness = isMobile and 4 or 6
+scrollFrame.ScrollBarImageColor3 = Color3.fromRGB(80, 80, 85)
+scrollFrame.CanvasSize = UDim2.new(0, 0, 0, 0)
+scrollFrame.Parent = mainFrame
+
+local scrollCorner = Instance.new("UICorner")
+scrollCorner.CornerRadius = UDim.new(0, 6)
+scrollCorner.Parent = scrollFrame
+
+local listLayout = Instance.new("UIListLayout")
+listLayout.Padding = UDim.new(0, isMobile and 3 or 5)
+listLayout.SortOrder = Enum.SortOrder.LayoutOrder
+listLayout.Parent = scrollFrame
+
+local dragging = false
+local dragInput, dragStart, startPos
+
+local function update(input)
+	local delta = input.Position - dragStart
+	mainFrame.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+end
+
+titleBar.InputBegan:Connect(function(input)
+	if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+		dragging = true
+		dragStart = input.Position
+		startPos = mainFrame.Position
+		
+		input.Changed:Connect(function()
+			if input.UserInputState == Enum.UserInputState.End then
+				dragging = false
+			end
+		end)
+	end
+end)
+
+titleBar.InputChanged:Connect(function(input)
+	if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+		dragInput = input
+	end
+end)
+
+UserInputService.InputChanged:Connect(function(input)
+	if input == dragInput and dragging then
+		update(input)
+	end
+end)
+
+local function parseMoney(text)
+	text = string.lower(text or "")
+	local num = tonumber(text:match("[%d%.]+")) or 0
+	if text:find("k") then
+		num *= 1e3
+	elseif text:find("m") then
+		num *= 1e6
+	elseif text:find("b") then
+		num *= 1e9
+	elseif text:find("t") then
+		num *= 1e12
+	end
+	return num
+end
+
+local function formatMoney(value)
+	if value >= 1e12 then
+		return string.format("$%.2fT/s", value / 1e12)
+	elseif value >= 1e9 then
+		return string.format("$%.2fB/s", value / 1e9)
+	elseif value >= 1e6 then
+		return string.format("$%.2fM/s", value / 1e6)
+	elseif value >= 1e3 then
+		return string.format("$%.2fK/s", value / 1e3)
+	else
+		return string.format("$%.2f/s", value)
+	end
+end
+
+local billboardCache = nil
+local billboardCacheTime = 0
+
+local function findBaseBillboard()
+	if tick() - billboardCacheTime < 30 and billboardCache then
+		return billboardCache
+	end
+	
+	local visibleBillboards = {}
+	for _, obj in ipairs(workspace:GetDescendants()) do
+		if obj:IsA("BillboardGui") and obj.Enabled then
+			for _, child in ipairs(obj:GetDescendants()) do
+				if child:IsA("TextLabel") and child.Visible then
+					if string.upper(child.Text) == "YOUR BASE" and child.TextTransparency < 1 then
+						table.insert(visibleBillboards, obj)
+					end
+				end
+			end
+		end
+	end
+	
+	if #visibleBillboards > 1 and player.Character then
+		local root = player.Character:FindFirstChild("HumanoidRootPart")
+		if root then
+			local closest, closestDist
+			for _, billboard in ipairs(visibleBillboards) do
+				local pos
+				if billboard.Parent and billboard.Parent:IsA("BasePart") then
+					pos = billboard.Parent.Position
+				elseif billboard.Parent and billboard.Parent:IsA("Model") then
+					local part = billboard.Parent:FindFirstChildWhichIsA("BasePart", true)
+					if part then
+						pos = part.Position
+					end
+				end
+				
+				if pos then
+					local dist = (pos - root.Position).Magnitude
+					if not closest or dist < closestDist then
+						closestDist = dist
+						closest = billboard
+					end
+				end
+			end
+			
+			if closest then
+				billboardCache = closest
+				billboardCacheTime = tick()
+				return closest
+			end
+		end
+	end
+	
+	if visibleBillboards[1] then
+		billboardCache = visibleBillboards[1]
+		billboardCacheTime = tick()
+	end
+	
+	return visibleBillboards[1]
+end
+
+local function findPlayerBase()
+	if playerBaseCached then return end
+	
+	local billboard = findBaseBillboard()
+	if billboard then
+		local baseModel = billboard.Parent
+		if baseModel then
+			local parentModel = baseModel.Parent
+			if parentModel and (parentModel:IsA("Model") or parentModel:IsA("Folder")) then
+				playerBaseModel = parentModel
+				playerBaseCached = true
+				return
+			end
+			if baseModel:IsA("Model") or baseModel:IsA("Folder") then
+				playerBaseModel = baseModel
+				playerBaseCached = true
+				return
+			end
+		end
+	end
+end
+
+local function findPlayerSpawner()
+	local fallbackHeight = humanoidRootPart.Position.Y
+	
+	if playerBaseModel then
+		for _, obj in ipairs(playerBaseModel:GetChildren()) do
+			if obj:IsA("Model") and (obj.Name == "Spawner" or obj.Name:lower():find("spawn")) then
+				local spawnerPart = obj.PrimaryPart or obj:FindFirstChildWhichIsA("BasePart")
+				if spawnerPart then
+					return spawnerPart.Position.Y
+				end
+			end
+		end
+	end
+	
+	return fallbackHeight
+end
+
+local function updateSpawnerHeight()
+	spawnerHeight = findPlayerSpawner()
+end
+
+local plotsCache = {}
+local plotsCacheTime = 0
+
+local function findAllPlots()
+	if tick() - plotsCacheTime < 60 and #plotsCache > 0 then
+		return plotsCache
+	end
+	
+	plotsCache = {}
+	
+	for _, obj in ipairs(workspace:GetDescendants()) do
+		if obj:IsA("Model") and (obj.Name:lower():find("plot") or obj.Name:lower():find("base")) then
+			for _, part in ipairs(obj:GetDescendants()) do
+				if part:IsA("BasePart") then
+					table.insert(plotsCache, part)
+				end
+			end
+		end
+	end
+	
+	plotsCacheTime = tick()
+	return plotsCache
+end
+
+local function isPetNearPlayerBase(petPart)
+	if not petPart or not playerBaseModel then return false end
+	
+	if petPart:IsDescendantOf(playerBaseModel) then
+		return true
+	end
+	
+	for _, basePart in ipairs(playerBaseModel:GetDescendants()) do
+		if basePart:IsA("BasePart") then
+			local distance = (basePart.Position - petPart.Position).Magnitude
+			if distance <= 15 then
+				return true
+			end
+		end
+	end
+	
+	return false
+end
+
+local function isPetNearAnyPlot(petPart)
+	if not petPart then return false end
+	
+	local allPlots = findAllPlots()
+	
+	for _, plotPart in ipairs(allPlots) do
+		local distance = (plotPart.Position - petPart.Position).Magnitude
+		if distance <= 23 then
+			return true
+		end
+	end
+	
+	return false
+end
+
+task.spawn(function()
+	findPlayerBase()
+	updateSpawnerHeight()
+	
+	while true do
+		task.wait(30)
+		if playerBaseCached then
+			updateSpawnerHeight()
+		else
+			findPlayerBase()
+		end
+	end
+end)
+
+local function findAllPetsInDebris()
+	local results = {}
+	
+	local debrisFolder = workspace:FindFirstChild("Debris")
+	if not debrisFolder then
+		return results
+	end
+	
+	for _, obj in ipairs(debrisFolder:GetChildren()) do
+		if obj:IsA("BasePart") then
+			local displayNameLabel = nil
+			local generationLabel = nil
+			
+			for _, child in ipairs(obj:GetChildren()) do
+				if child:IsA("BillboardGui") or child:IsA("SurfaceGui") then
+					for _, label in ipairs(child:GetChildren()) do
+						if label:IsA("TextLabel") then
+							local labelName = label.Name
+							if labelName == "DisplayName" then
+								displayNameLabel = label
+							elseif labelName == "Generation" then
+								generationLabel = label
+							end
+						end
+					end
+				end
+			end
+			
+			if displayNameLabel and generationLabel then
+				local displayName = displayNameLabel.Text or "Unknown"
+				local generation = generationLabel.Text or "0"
+				local value = parseMoney(generation)
+				
+				if not isPetNearPlayerBase(obj) and isPetNearAnyPlot(obj) and obj.Position.Y <= 10 then
+					table.insert(results, {
+						part = obj,
+						displayName = displayName,
+						generation = generation,
+						value = value
+					})
+				end
+			end
+		end
+	end
+	
+	return results
+end
+
+local function updateTargetDisplay()
+	local targetPet = selectedPetModel
+	
+	if targetPet and detectedPets[targetPet] then
+		local petData = detectedPets[targetPet]
+		targetLabel.Text = petData.name .. " - " .. formatMoney(petData.value)
+		targetLabel.TextColor3 = Color3.fromRGB(170, 130, 255)
+		return
+	end
+	
+	if bestPetModel and detectedPets[bestPetModel] then
+		local petData = detectedPets[bestPetModel]
+		targetLabel.Text = petData.name .. " - " .. formatMoney(petData.value)
+		targetLabel.TextColor3 = Color3.fromRGB(85, 255, 127)
+		return
+	end
+	
+	targetLabel.Text = "None Selected"
+	targetLabel.TextColor3 = Color3.fromRGB(150, 150, 155)
+end
+
+local function updatePetListGUI(petList)
+	for _, child in ipairs(scrollFrame:GetChildren()) do
+		if child:IsA("TextButton") then
+			child:Destroy()
+		end
+	end
+	
+	table.sort(petList, function(a, b)
+		return a.value > b.value
+	end)
+	
+	for i, petData in ipairs(petList) do
+		local entry = Instance.new("TextButton")
+		entry.Name = "PetEntry_" .. i
+		entry.Size = UDim2.new(1, -10, 0, isMobile and 28 or 35)
+		entry.BackgroundColor3 = i % 2 == 0 and Color3.fromRGB(35, 35, 40) or Color3.fromRGB(30, 30, 35)
+		entry.BorderSizePixel = 0
+		entry.LayoutOrder = i
+		entry.AutoButtonColor = false
+		entry.Text = ""
+		entry.Parent = scrollFrame
+		
+		local isTarget = (selectedPetModel == petData.part) or (not selectedPetModel and bestPetModel == petData.part)
+		
+		if isTarget then
+			entry.BackgroundColor3 = Color3.fromRGB(60, 50, 80)
+		end
+		
+		local entryCorner = Instance.new("UICorner")
+		entryCorner.CornerRadius = UDim.new(0, 4)
+		entryCorner.Parent = entry
+		
+		local rankLabel = Instance.new("TextLabel")
+		rankLabel.Size = UDim2.new(0, isMobile and 20 or 25, 1, 0)
+		rankLabel.Position = UDim2.new(0, 5, 0, 0)
+		rankLabel.BackgroundTransparency = 1
+		rankLabel.Text = "#" .. i
+		rankLabel.TextColor3 = Color3.fromRGB(150, 150, 155)
+		rankLabel.TextSize = isMobile and 10 or 12
+		rankLabel.Font = Enum.Font.GothamBold
+		rankLabel.TextXAlignment = Enum.TextXAlignment.Left
+		rankLabel.Parent = entry
+		
+		local nameLabel = Instance.new("TextLabel")
+		nameLabel.Size = UDim2.new(0.5, isMobile and -28 or -35, 1, 0)
+		nameLabel.Position = UDim2.new(0, isMobile and 25 or 30, 0, 0)
+		nameLabel.BackgroundTransparency = 1
+		nameLabel.Text = petData.displayName
+		nameLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+		nameLabel.TextSize = isMobile and 9 or 11
+		nameLabel.Font = Enum.Font.Gotham
+		nameLabel.TextXAlignment = Enum.TextXAlignment.Left
+		nameLabel.TextTruncate = Enum.TextTruncate.AtEnd
+		nameLabel.Parent = entry
+		
+		local valueLabel = Instance.new("TextLabel")
+		valueLabel.Size = UDim2.new(0.5, -5, 1, 0)
+		valueLabel.Position = UDim2.new(0.5, 0, 0, 0)
+		valueLabel.BackgroundTransparency = 1
+		valueLabel.Text = formatMoney(petData.value)
+		valueLabel.TextColor3 = i == 1 and Color3.fromRGB(85, 255, 127) or Color3.fromRGB(255, 215, 85)
+		valueLabel.TextSize = isMobile and 9 or 11
+		valueLabel.Font = Enum.Font.GothamBold
+		valueLabel.TextXAlignment = Enum.TextXAlignment.Right
+		valueLabel.Parent = entry
+		
+		entry.MouseButton1Click:Connect(function()
+			selectedPetModel = petData.part
+			updateTargetDisplay()
+			updatePetListGUI(petList)
+		end)
+		
+		entry.MouseEnter:Connect(function()
+			if not isTarget then
+				entry.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
+			end
+		end)
+		
+		entry.MouseLeave:Connect(function()
+			if not isTarget then
+				entry.BackgroundColor3 = i % 2 == 0 and Color3.fromRGB(35, 35, 40) or Color3.fromRGB(30, 30, 35)
+			end
+		end)
+	end
+	
+	local contentSize = listLayout.AbsoluteContentSize
+	scrollFrame.CanvasSize = UDim2.new(0, 0, 0, contentSize.Y + 10)
+end
+
+local function updateBestPet()
+	detectedPets = {}
+	local allPets = findAllPetsInDebris()
+	
+	local bestValue = -math.huge
+	bestPetModel = nil
+	
+	for _, petData in ipairs(allPets) do
+		detectedPets[petData.part] = {
+			name = petData.displayName,
+			value = petData.value,
+			part = petData.part
+		}
+		
+		if petData.value > bestValue then
+			bestValue = petData.value
+			bestPetModel = petData.part
+		end
+	end
+	
+	updatePetListGUI(allPets)
+	updateTargetDisplay()
+end
+
+task.spawn(function()
+	while true do
+		updateBestPet()
+		task.wait(3)
+	end
+end)
+
+local function clearWaypoints()
+	for _, waypoint in ipairs(waypoints) do
+		if waypoint.marker then
+			waypoint.marker:Destroy()
+		end
+	end
+	waypoints = {}
+end
+
+local function createPathToPet()
+	local targetPet = selectedPetModel or bestPetModel
+	
+	if not targetPet then
+		return false, "No target selected!"
+	end
+	
+	local targetPart = targetPet
+	if not targetPart then
+		return false, "Can't find pet location!"
+	end
+	
+	clearWaypoints()
+	
+	local startPos = humanoidRootPart.Position
+	local endPos = targetPart.Position
+	
+	table.insert(waypoints, {position = startPos + Vector3.new(0, 3, 0), marker = nil})
+	
+	local hasObstacle, obstaclePos, obstacleDistance = checkObstacleAbove(startPos, 50)
+	
+	if hasObstacle then
+		local greenPart1 = findClosestGreenPart(startPos)
+		if greenPart1 then
+			local elevatedPos = greenPart1.Position + Vector3.new(0, math.min(9, greenPart1.Size.Y/2 + 5), 0)
+			table.insert(waypoints, {position = elevatedPos, marker = nil})
+		end
+	end
+	
+	local greenPart2 = findClosestGreenPart(endPos)
+	if greenPart2 then
+		local elevatedPos = greenPart2.Position + Vector3.new(0, math.min(9, greenPart2.Size.Y/2 + 5), 0)
+		table.insert(waypoints, {position = elevatedPos, marker = nil})
+	end
+	
+	local finalPos = Vector3.new(endPos.X, 4, endPos.Z)
+	table.insert(waypoints, {position = finalPos, marker = nil})
+	
+	return true, string.format("%d waypoints created", #waypoints)
+end
+
+local function doTeleport()
+	if isPlaying then return end
+	
+	local success, message = createPathToPet()
+	
+	if success then
+		isPlaying = true
+		tpButton.BackgroundColor3 = Color3.fromRGB(50, 100, 150)
+		tpButton.Text = isMobile and "TPing..." or "Teleporting..."
+		
+		local backpack = player:FindFirstChild("Backpack")
+		if backpack then
+			local carpet = backpack:FindFirstChild("Flying Carpet")
+			if carpet and character then
+				local humanoid = character:FindFirstChild("Humanoid")
+				if humanoid then
+					humanoid:EquipTool(carpet)
+				end
+			end
+		end
+		
+		crunchBody()
+		
+		for i, waypoint in ipairs(waypoints) do
+			if waypoint and waypoint.position then
+				local humanoid = character:FindFirstChild("Humanoid")
+				if humanoid then
+					local maxHealth = humanoid.MaxHealth
+					local currentHealth = humanoid.Health
+					
+					humanoid:SetStateEnabled(Enum.HumanoidStateType.FallingDown, false)
+					humanoid:SetStateEnabled(Enum.HumanoidStateType.Ragdoll, false)
+					
+					humanoidRootPart.CFrame = CFrame.new(waypoint.position)
+					
+					if humanoid.Health < currentHealth then
+						humanoid.Health = currentHealth
+					end
+				else
+					humanoidRootPart.CFrame = CFrame.new(waypoint.position)
+				end
+				
+				if i == #waypoints then
+					restoreBody()
+				end
+				
+				task.wait(0.1)
+			end
+		end
+		
+		restoreBody()
+		
+		task.wait(0.1)
+		local humanoid = character:FindFirstChild("Humanoid")
+		if humanoid then
+			humanoid:SetStateEnabled(Enum.HumanoidStateType.FallingDown, true)
+			humanoid:SetStateEnabled(Enum.HumanoidStateType.Ragdoll, true)
+		end
+		
+		isPlaying = false
+		tpButton.BackgroundColor3 = Color3.fromRGB(85, 170, 255)
+		tpButton.Text = isMobile and "Teleport (Z)" or "Teleport to Target (Z)"
+		clearWaypoints()
+	end
+end
+
+tpButton.MouseButton1Click:Connect(function()
+	doTeleport()
+end)
+
+tpButton.MouseEnter:Connect(function()
+	if not isPlaying then
+		tpButton.BackgroundColor3 = Color3.fromRGB(100, 190, 255)
+	end
+end)
+
+tpButton.MouseLeave:Connect(function()
+	if not isPlaying then
+		tpButton.BackgroundColor3 = Color3.fromRGB(85, 170, 255)
+	end
+end)
+
+UserInputService.InputBegan:Connect(function(input, gameProcessed)
+	if gameProcessed then return end
+	
+	local focusedTextBox = UserInputService:GetFocusedTextBox()
+	if focusedTextBox then return end
+	
+	if input.KeyCode == Enum.KeyCode.Z then
+		doTeleport()
+	end
+end)
+
+player.CharacterAdded:Connect(function(newCharacter)
+	character = newCharacter
+	humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+	updateSpawnerHeight()
+	originalSizes = {}
+end)
